@@ -13,7 +13,7 @@ td:hover button {
 }
 </style>
   <script type="module">
-    import { Application, Controller } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
+	import { Application, Controller } from "https://esm.sh/@hotwired/stimulus"
     window.Stimulus = Application.start()
 
     Stimulus.register("hello", class extends Controller {
@@ -26,7 +26,7 @@ td:hover button {
     })
   </script>
   <script type="module">
-    import { Application, Controller } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
+	import { Application, Controller } from "https://esm.sh/@hotwired/stimulus"
     Stimulus.register("clipboard", class extends Controller {
       static targets = ["button", "source"]
       static values = {
