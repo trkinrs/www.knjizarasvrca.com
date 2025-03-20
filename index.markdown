@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![knjizara svrca srbobran](/assets/knjizara_svrca_logo.jpg)
