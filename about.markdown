@@ -70,7 +70,7 @@ td:hover button {
 <table>
   <tbody>
     <tr>
-      <td>Poslovno ime (name):</td>
+      <td style="min-width: 250px">Poslovno ime (name):</td>
       <td data-controller="clipboard" data-clipboard-success-content-value="Copied!">
         <span data-clipboard-target="source">ŠVRĆA DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU ZA PROMET ROBA SRBOBRAN</span>
         <button type="button" data-action="clipboard#copy" data-clipboard-target="button">Copy</button>
@@ -112,7 +112,7 @@ td:hover button {
       </td>
     </tr>
     <tr>
-      <td>Poštanski broj, grad i drzava (zip, city, country):</td>
+      <td>Poštanski broj, grad(zip, city):</td>
       <td data-controller="clipboard" data-clipboard-success-content-value="Copied!">
         <span data-clipboard-target="source">21480 Srbobran</span>
         <button type="button" data-action="clipboard#copy" data-clipboard-target="button">Copy</button>
@@ -126,9 +126,11 @@ td:hover button {
       </td>
     </tr>
     <tr>
-      <td>Telefon (mobile):</td>
+      <td>Mobilni (mobile):</td>
       <td data-controller="clipboard" data-clipboard-success-content-value="Copied!">
-        <span data-clipboard-target="source">021/730-093</span>
+          <a href="tel:063 603 018">
+              <span data-clipboard-target="source">063/603-018</span>
+          </a>
         <button type="button" data-action="clipboard#copy" data-clipboard-target="button">Copy</button>
       </td>
     </tr>
