@@ -323,7 +323,7 @@
     "collection": "articles",
     "image": null,
     "price": 200.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -1155,7 +1155,7 @@
     "collection": "articles",
     "image": null,
     "price": 1780.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -1622,7 +1622,7 @@
     "url": "/111/ol-aero",
     "collection": "articles",
     "image": null,
-    "price": 40.0,
+    "price": 50.0,
     "srbobran": 11,
     "futog": null
   }
@@ -1792,7 +1792,7 @@
     "collection": "articles",
     "image": null,
     "price": 1650.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -1857,7 +1857,7 @@
     "collection": "articles",
     "image": null,
     "price": 1170.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -1870,7 +1870,7 @@
     "collection": "articles",
     "image": null,
     "price": 310.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -1883,7 +1883,7 @@
     "collection": "articles",
     "image": null,
     "price": 830.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -2194,7 +2194,7 @@
     "url": "/115/ol-hb-art",
     "collection": "articles",
     "image": null,
-    "price": 40.0,
+    "price": 50.0,
     "srbobran": 64,
     "futog": null
   }
@@ -3456,7 +3456,7 @@
     "collection": "articles",
     "image": null,
     "price": 1220.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -3469,7 +3469,7 @@
     "collection": "articles",
     "image": null,
     "price": 910.0,
-    "srbobran": 3,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -3482,7 +3482,7 @@
     "collection": "articles",
     "image": null,
     "price": 1240.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -3676,7 +3676,7 @@
     "url": "/1252/koverat-b-6",
     "collection": "articles",
     "image": null,
-    "price": 7.0,
+    "price": 10.0,
     "srbobran": 53,
     "futog": null
   }
@@ -3976,7 +3976,7 @@
     "collection": "articles",
     "image": null,
     "price": 1790.0,
-    "srbobran": 6,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -4262,7 +4262,7 @@
     "collection": "articles",
     "image": null,
     "price": 1290.0,
-    "srbobran": 6,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -4275,7 +4275,7 @@
     "collection": "articles",
     "image": null,
     "price": 880.0,
-    "srbobran": 6,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -4353,7 +4353,7 @@
     "collection": "articles",
     "image": null,
     "price": 160.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": null
   }
     
@@ -4405,7 +4405,7 @@
     "collection": "articles",
     "image": null,
     "price": 605.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -5055,7 +5055,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -5419,7 +5419,7 @@
     "collection": "articles",
     "image": null,
     "price": 6.0,
-    "srbobran": 100,
+    "srbobran": 99,
     "futog": null
   }
     
@@ -6043,7 +6043,7 @@
     "collection": "articles",
     "image": null,
     "price": 415.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -6459,7 +6459,7 @@
     "collection": "articles",
     "image": null,
     "price": 12.0,
-    "srbobran": 224,
+    "srbobran": 214,
     "futog": null
   }
     
@@ -7395,7 +7395,7 @@
     "collection": "articles",
     "image": null,
     "price": 60.0,
-    "srbobran": 13,
+    "srbobran": 12,
     "futog": null
   }
     
@@ -8227,7 +8227,7 @@
     "collection": "articles",
     "image": null,
     "price": 230.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": null
   }
     
@@ -9423,7 +9423,7 @@
     "collection": "articles",
     "image": null,
     "price": 170.0,
-    "srbobran": 36,
+    "srbobran": 43,
     "futog": null
   }
     
@@ -9839,7 +9839,7 @@
     "collection": "articles",
     "image": null,
     "price": 290.0,
-    "srbobran": 12,
+    "srbobran": 15,
     "futog": null
   }
     
@@ -12114,7 +12114,7 @@
     "collection": "articles",
     "image": null,
     "price": 330.0,
-    "srbobran": 6,
+    "srbobran": 11,
     "futog": null
   }
     
@@ -12543,7 +12543,7 @@
     "collection": "articles",
     "image": null,
     "price": 120.0,
-    "srbobran": 6,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -12907,7 +12907,7 @@
     "collection": "articles",
     "image": null,
     "price": 99.0,
-    "srbobran": 64,
+    "srbobran": 63,
     "futog": null
   }
     
@@ -19589,7 +19589,7 @@
     "collection": "articles",
     "image": null,
     "price": 1550.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -20512,7 +20512,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 8,
+    "srbobran": 3,
     "futog": null
   }
     
@@ -22891,7 +22891,7 @@
     "collection": "articles",
     "image": null,
     "price": 120.0,
-    "srbobran": 8,
+    "srbobran": 5,
     "futog": null
   }
     
@@ -22955,8 +22955,8 @@
     "url": "/2797/signir-staedtler",
     "collection": "articles",
     "image": null,
-    "price": null,
-    "srbobran": null,
+    "price": 125.0,
+    "srbobran": 18,
     "futog": null
   }
     
@@ -33694,7 +33694,7 @@
     "collection": "articles",
     "image": null,
     "price": 350.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": null
   }
     
@@ -34578,7 +34578,7 @@
     "collection": "articles",
     "image": null,
     "price": 1070.0,
-    "srbobran": 3,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -36437,7 +36437,7 @@
     "collection": "articles",
     "image": null,
     "price": 90.0,
-    "srbobran": 25,
+    "srbobran": 24,
     "futog": null
   }
     
@@ -38933,7 +38933,7 @@
     "collection": "articles",
     "image": null,
     "price": 770.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -39739,7 +39739,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": null
   }
     
@@ -41312,7 +41312,7 @@
     "collection": "articles",
     "image": null,
     "price": 60.0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": null
   }
     
@@ -41403,7 +41403,7 @@
     "collection": "articles",
     "image": null,
     "price": 1140.0,
-    "srbobran": 5,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -41416,7 +41416,7 @@
     "collection": "articles",
     "image": null,
     "price": 810.0,
-    "srbobran": 5,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -41429,7 +41429,7 @@
     "collection": "articles",
     "image": null,
     "price": 640.0,
-    "srbobran": 5,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -41637,7 +41637,7 @@
     "collection": "articles",
     "image": null,
     "price": 1260.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -41663,7 +41663,7 @@
     "collection": "articles",
     "image": null,
     "price": 1240.0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -42534,7 +42534,7 @@
     "collection": "articles",
     "image": null,
     "price": 1100.0,
-    "srbobran": 5,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -42767,7 +42767,7 @@
     "url": "/458/ul-za-ho-pvc",
     "collection": "articles",
     "image": null,
-    "price": 5.0,
+    "price": 10.0,
     "srbobran": 77,
     "futog": null
   }
@@ -42898,7 +42898,7 @@
     "collection": "articles",
     "image": null,
     "price": 210.0,
-    "srbobran": 10,
+    "srbobran": 8,
     "futog": null
   }
     
@@ -43106,7 +43106,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 19,
+    "srbobran": 18,
     "futog": null
   }
     
@@ -43119,7 +43119,7 @@
     "collection": "articles",
     "image": null,
     "price": 40.0,
-    "srbobran": 73,
+    "srbobran": 71,
     "futog": null
   }
     
@@ -43223,7 +43223,7 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 309,
+    "srbobran": 308,
     "futog": null
   }
     
@@ -44231,12 +44231,12 @@
   ,
   
   {
-    "title": "OP*C VENTIL PRECISION PLUS",
+    "title": "KESE TREGERICE",
     "sku": 56,
-    "url": "/56/op-c-ventil-precision-plus",
+    "url": "/56/kese-tregerice",
     "collection": "articles",
     "image": null,
-    "price": 22.0,
+    "price": 10.0,
     "srbobran": 0,
     "futog": null
   }
@@ -44535,7 +44535,7 @@
     "url": "/580/koverat-ameriken-sl",
     "collection": "articles",
     "image": null,
-    "price": 7.0,
+    "price": 10.0,
     "srbobran": 109,
     "futog": null
   }
@@ -44678,8 +44678,8 @@
     "url": "/590/koverat-b-5-sl",
     "collection": "articles",
     "image": null,
-    "price": 15.0,
-    "srbobran": 83,
+    "price": 20.0,
+    "srbobran": 82,
     "futog": null
   }
     
@@ -44744,7 +44744,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 43,
+    "srbobran": 42,
     "futog": null
   }
     
@@ -44796,7 +44796,7 @@
     "collection": "articles",
     "image": null,
     "price": 60.0,
-    "srbobran": 48,
+    "srbobran": 58,
     "futog": null
   }
     
@@ -45264,7 +45264,7 @@
     "collection": "articles",
     "image": null,
     "price": 180.0,
-    "srbobran": 0,
+    "srbobran": 6,
     "futog": null
   }
     
@@ -45303,7 +45303,7 @@
     "collection": "articles",
     "image": null,
     "price": 680.0,
-    "srbobran": 20,
+    "srbobran": 16,
     "futog": null
   }
     
@@ -45394,7 +45394,7 @@
     "collection": "articles",
     "image": null,
     "price": 450.0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": null
   }
     
@@ -46408,7 +46408,7 @@
     "collection": "articles",
     "image": null,
     "price": 70.0,
-    "srbobran": 272,
+    "srbobran": 270,
     "futog": null
   }
     
@@ -46525,7 +46525,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 2,
+    "srbobran": 3,
     "futog": null
   }
     
@@ -46928,7 +46928,7 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 25,
+    "srbobran": 24,
     "futog": null
   }
     
@@ -46954,7 +46954,7 @@
     "collection": "articles",
     "image": null,
     "price": 160.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -47695,7 +47695,7 @@
     "collection": "articles",
     "image": null,
     "price": 300.0,
-    "srbobran": -263,
+    "srbobran": -266,
     "futog": null
   }
     
@@ -48007,7 +48007,7 @@
     "collection": "articles",
     "image": null,
     "price": 120.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -48085,7 +48085,7 @@
     "collection": "articles",
     "image": null,
     "price": 295.0,
-    "srbobran": 5,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -48592,7 +48592,7 @@
     "collection": "articles",
     "image": null,
     "price": 180.0,
-    "srbobran": 2,
+    "srbobran": 6,
     "futog": null
   }
     
@@ -49112,7 +49112,7 @@
     "collection": "articles",
     "image": null,
     "price": 70.0,
-    "srbobran": 21,
+    "srbobran": 17,
     "futog": null
   }
     
@@ -49580,7 +49580,7 @@
     "collection": "articles",
     "image": null,
     "price": 360.0,
-    "srbobran": 9,
+    "srbobran": 5,
     "futog": null
   }
     
@@ -49853,7 +49853,7 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 14,
+    "srbobran": 9,
     "futog": null
   }
     
@@ -50412,7 +50412,7 @@
     "collection": "articles",
     "image": null,
     "price": 70.0,
-    "srbobran": 18,
+    "srbobran": 16,
     "futog": null
   }
     
@@ -50634,6 +50634,60 @@
     "url": "/2026/05/27/olujna-sestra-lusinda-rajli.html",
     "collection": "posts",
     "image": "/assets/images/Olujna-sestra-KORICE-w560.avif",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  
+    
+  ,
+  
+  {
+    "title": "2. razred OŠ Zdravko Čelar, Čelarevo",
+    "sku": null,
+    "url": "/schools/celarevo-2-razred/",
+    "collection": "schools",
+    "image": null,
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "7. razred OŠ Zdravko Čelar, Čelarevo",
+    "sku": null,
+    "url": "/schools/celarevo-7-razred/",
+    "collection": "schools",
+    "image": null,
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "Lektira za 5. razred",
+    "sku": null,
+    "url": "/schools/lektira-5-razred/",
+    "collection": "schools",
+    "image": null,
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "Drugi razred Poljoprivredne škole",
+    "sku": null,
+    "url": "/schools/poljoprivredna-2-razred/",
+    "collection": "schools",
+    "image": "/assets/images/schools/poljoprivredna/poljo.jpg",
     "price": null,
     "srbobran": null,
     "futog": null
