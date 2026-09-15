@@ -42360,12 +42360,12 @@
   
   {
     "title": "GRABO SREDNJI BROJEVI",
-    "sku": 45,
+    "sku": "45",
     "url": "/45/grabo-srednji-brojevi",
     "collection": "articles",
     "image": null,
-    "price": 470.0,
-    "srbobran": 38,
+    "price": null,
+    "srbobran": null,
     "futog": null
   }
     
@@ -50563,12 +50563,12 @@
   
   {
     "title": "SET LENJIRA MAPED",
-    "sku": "999",
+    "sku": 999,
     "url": "/999/set-lenjira-maped",
     "collection": "articles",
     "image": null,
-    "price": null,
-    "srbobran": null,
+    "price": 295.0,
+    "srbobran": 5,
     "futog": null
   }
     
