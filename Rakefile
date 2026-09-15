@@ -27,6 +27,7 @@ def sync_changed_files(source_dir, target_dir)
     .reject { |path| [ ".", ".." ].include? File.basename(path) }
     .reject { |path| File.directory?(path) }
     .map { |path| path.delete_prefix("#{source_dir}/") }
+    .reject { |path| path == ".github/actions" || path.start_with?(".github/actions/") }
 
   target_paths = Dir.glob("#{target_dir}/**/*", File::FNM_DOTMATCH)
     .reject { |path| [ ".", ".." ].include? File.basename(path) }
