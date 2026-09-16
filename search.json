@@ -5419,7 +5419,7 @@
     "collection": "articles",
     "image": null,
     "price": 6.0,
-    "srbobran": 99,
+    "srbobran": 98,
     "futog": 64
   }
     
@@ -19589,7 +19589,7 @@
     "collection": "articles",
     "image": null,
     "price": 1550.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -34409,7 +34409,7 @@
     "collection": "articles",
     "image": null,
     "price": 650.0,
-    "srbobran": 9,
+    "srbobran": 8,
     "futog": 0
   }
     
@@ -39830,7 +39830,7 @@
     "collection": "articles",
     "image": null,
     "price": 75.0,
-    "srbobran": 35,
+    "srbobran": 34,
     "futog": 10
   }
     
@@ -43119,7 +43119,7 @@
     "collection": "articles",
     "image": null,
     "price": 40.0,
-    "srbobran": 69,
+    "srbobran": 68,
     "futog": 19
   }
     
@@ -44302,7 +44302,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 0
   }
     
@@ -44744,7 +44744,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 42,
+    "srbobran": 41,
     "futog": 49
   }
     
@@ -46408,7 +46408,7 @@
     "collection": "articles",
     "image": null,
     "price": 70.0,
-    "srbobran": 269,
+    "srbobran": 266,
     "futog": 330
   }
     
@@ -50647,6 +50647,19 @@
     "url": "/2026/09/16/senka-vetra-karlos-ruis-safon.html",
     "collection": "posts",
     "image": "/assets/images/CAR020231_w_800_800px.jpg",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "Ubiti pticu rugalicu - Harper Li",
+    "sku": null,
+    "url": "/2026/09/16/ubiti-pticu-rugalicu-harper-li.html",
+    "collection": "posts",
+    "image": "/assets/images/Harper-Li-UBITI-PTICU-RUGALICU_slika_O_155754881.jpg",
     "price": null,
     "srbobran": null,
     "futog": null
