@@ -12,7 +12,7 @@
     "image": null,
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1363
+    "futog": -1368
   }
     
   ,
@@ -20512,7 +20512,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -25726,7 +25726,7 @@
     "image": null,
     "price": 40.0,
     "srbobran": 16,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -33694,7 +33694,7 @@
     "collection": "articles",
     "image": null,
     "price": 350.0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -45837,7 +45837,7 @@
     "image": null,
     "price": 160.0,
     "srbobran": 9,
-    "futog": 27
+    "futog": 26
   }
     
   ,
@@ -48007,7 +48007,7 @@
     "collection": "articles",
     "image": null,
     "price": 120.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 4
   }
     
@@ -50634,6 +50634,19 @@
     "url": "/2026/05/27/olujna-sestra-lusinda-rajli.html",
     "collection": "posts",
     "image": "/assets/images/Olujna-sestra-KORICE-w560.avif",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "Senka vetra - Karlos Ruis Safon",
+    "sku": null,
+    "url": "/2026/09/16/senka-vetra-karlos-ruis-safon.html",
+    "collection": "posts",
+    "image": "/assets/images/CAR020231_w_800_800px.jpg",
     "price": null,
     "srbobran": null,
     "futog": null
