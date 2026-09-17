@@ -1623,8 +1623,8 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 11,
-    "futog": 4
+    "srbobran": 15,
+    "futog": 12
   }
     
   ,
@@ -1740,7 +1740,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 18,
+    "srbobran": 42,
     "futog": 0
   }
     
@@ -2572,8 +2572,8 @@
     "collection": "articles",
     "image": null,
     "price": 80.0,
-    "srbobran": 28,
-    "futog": 22
+    "srbobran": 52,
+    "futog": 20
   }
     
   ,
@@ -2858,7 +2858,7 @@
     "collection": "articles",
     "image": null,
     "price": 75.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 1
   }
     
@@ -3060,14 +3060,14 @@
   ,
   
   {
-    "title": "MINE 0,5 STAEDTLER",
+    "title": "MINE 0,5 STABILO DUPLE",
     "sku": 121,
-    "url": "/121/mine-0-5-staedtler",
+    "url": "/121/mine-0-5-stabilo-duple",
     "collection": "articles",
     "image": null,
-    "price": 135.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 150.0,
+    "srbobran": 24,
+    "futog": 24
   }
     
   ,
@@ -3677,7 +3677,7 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": 52,
+    "srbobran": 152,
     "futog": 74
   }
     
@@ -4795,7 +4795,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 11,
+    "srbobran": 10,
     "futog": 25
   }
     
@@ -5379,8 +5379,8 @@
     "url": "/1370/dosije-30-dzepova",
     "collection": "articles",
     "image": null,
-    "price": 235.0,
-    "srbobran": 0,
+    "price": 335.0,
+    "srbobran": 3,
     "futog": 3
   }
     
@@ -5419,7 +5419,7 @@
     "collection": "articles",
     "image": null,
     "price": 6.0,
-    "srbobran": 98,
+    "srbobran": 97,
     "futog": 64
   }
     
@@ -6043,8 +6043,8 @@
     "collection": "articles",
     "image": null,
     "price": 415.0,
-    "srbobran": 0,
-    "futog": 3
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -7006,7 +7006,7 @@
     "image": null,
     "price": 310.0,
     "srbobran": 5,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -7798,7 +7798,7 @@
     "collection": "articles",
     "image": null,
     "price": 60.0,
-    "srbobran": 10,
+    "srbobran": 46,
     "futog": 0
   }
     
@@ -9631,7 +9631,7 @@
     "collection": "articles",
     "image": null,
     "price": 90.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 6
   }
     
@@ -10184,14 +10184,14 @@
   ,
   
   {
-    "title": "LEPAK OF STICK 21G",
+    "title": "LEPAK OF STICK 9G",
     "sku": 184,
-    "url": "/184/lepak-of-stick-21g",
+    "url": "/184/lepak-of-stick-9g",
     "collection": "articles",
     "image": null,
     "price": 90.0,
     "srbobran": 0,
-    "futog": null
+    "futog": 24
   }
     
   ,
@@ -10814,7 +10814,7 @@
     "collection": "articles",
     "image": null,
     "price": 225.0,
-    "srbobran": 9,
+    "srbobran": 42,
     "futog": 8
   }
     
@@ -11510,14 +11510,14 @@
   ,
   
   {
-    "title": "SET HO+NP HEMINGWAY",
+    "title": "NP BLISTER",
     "sku": 195,
-    "url": "/195/set-ho-np-hemingway",
+    "url": "/195/np-blister",
     "collection": "articles",
     "image": null,
-    "price": 2315.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 180.0,
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -12114,8 +12114,8 @@
     "collection": "articles",
     "image": null,
     "price": 330.0,
-    "srbobran": 10,
-    "futog": 5
+    "srbobran": 25,
+    "futog": 10
   }
     
   ,
@@ -12179,8 +12179,8 @@
     "collection": "articles",
     "image": null,
     "price": 60.0,
-    "srbobran": 1,
-    "futog": 24
+    "srbobran": 13,
+    "futog": 12
   }
     
   ,
@@ -12219,7 +12219,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": -968,
-    "futog": -847
+    "futog": -854
   }
     
   ,
@@ -12244,8 +12244,8 @@
     "collection": "articles",
     "image": null,
     "price": 985.0,
-    "srbobran": 16,
-    "futog": 13
+    "srbobran": 18,
+    "futog": 11
   }
     
   ,
@@ -12933,8 +12933,8 @@
     "collection": "articles",
     "image": null,
     "price": 1095.0,
-    "srbobran": 3,
-    "futog": 5
+    "srbobran": 5,
+    "futog": 3
   }
     
   ,
@@ -13258,8 +13258,8 @@
     "collection": "articles",
     "image": null,
     "price": 40.0,
-    "srbobran": 56,
-    "futog": 13
+    "srbobran": 96,
+    "futog": 21
   }
     
   ,
@@ -13297,7 +13297,7 @@
     "collection": "articles",
     "image": null,
     "price": 240.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 4
   }
     
@@ -14454,7 +14454,7 @@
     "collection": "articles",
     "image": null,
     "price": 120.0,
-    "srbobran": 13,
+    "srbobran": 11,
     "futog": 0
   }
     
@@ -15261,7 +15261,7 @@
     "image": null,
     "price": 1180.0,
     "srbobran": 0,
-    "futog": null
+    "futog": 1
   }
     
   ,
@@ -15521,7 +15521,7 @@
     "image": null,
     "price": 50.0,
     "srbobran": 64,
-    "futog": 23
+    "futog": 22
   }
     
   ,
@@ -21981,8 +21981,8 @@
     "collection": "articles",
     "image": null,
     "price": 200.0,
-    "srbobran": 0,
-    "futog": null
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -22957,7 +22957,7 @@
     "image": null,
     "price": 125.0,
     "srbobran": 18,
-    "futog": 31
+    "futog": 30
   }
     
   ,
@@ -27923,7 +27923,7 @@
     "image": null,
     "price": 10.0,
     "srbobran": 0,
-    "futog": 100
+    "futog": 98
   }
     
   ,
@@ -28781,7 +28781,7 @@
     "image": null,
     "price": 150.0,
     "srbobran": 22,
-    "futog": 19
+    "futog": 17
   }
     
   ,
@@ -30535,8 +30535,8 @@
     "collection": "articles",
     "image": null,
     "price": 295.0,
-    "srbobran": 48,
-    "futog": 25
+    "srbobran": 46,
+    "futog": 24
   }
     
   ,
@@ -32641,7 +32641,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 76,
+    "srbobran": 165,
     "futog": 0
   }
     
@@ -34670,7 +34670,7 @@
     "image": null,
     "price": 499.02,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -35411,7 +35411,7 @@
     "image": null,
     "price": 599.01,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36542,7 +36542,7 @@
     "image": null,
     "price": 199.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -38466,7 +38466,7 @@
     "image": null,
     "price": 899.02,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -38557,7 +38557,7 @@
     "image": null,
     "price": 699.01,
     "srbobran": 9,
-    "futog": 7
+    "futog": 6
   }
     
   ,
@@ -40117,7 +40117,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": -34,
-    "futog": -83
+    "futog": -84
   }
     
   ,
@@ -40310,8 +40310,8 @@
     "url": "/408/udaraljke-za-metalofon",
     "collection": "articles",
     "image": null,
-    "price": 120.0,
-    "srbobran": 0,
+    "price": 130.0,
+    "srbobran": 5,
     "futog": 4
   }
     
@@ -40869,9 +40869,9 @@
     "url": "/4248/blokcic-a-7",
     "collection": "articles",
     "image": null,
-    "price": 50.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 90.0,
+    "srbobran": 10,
+    "futog": 10
   }
     
   ,
@@ -40909,7 +40909,7 @@
     "collection": "articles",
     "image": null,
     "price": 70.0,
-    "srbobran": 10,
+    "srbobran": 13,
     "futog": 4
   }
     
@@ -40921,9 +40921,9 @@
     "url": "/4263/baterija-aa-aaa",
     "collection": "articles",
     "image": null,
-    "price": 65.0,
-    "srbobran": 16,
-    "futog": 16
+    "price": 75.0,
+    "srbobran": 32,
+    "futog": 20
   }
     
   ,
@@ -42769,7 +42769,7 @@
     "image": null,
     "price": 10.0,
     "srbobran": 67,
-    "futog": 5
+    "futog": 105
   }
     
   ,
@@ -42781,7 +42781,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 15,
+    "srbobran": 45,
     "futog": 0
   }
     
@@ -43119,8 +43119,8 @@
     "collection": "articles",
     "image": null,
     "price": 40.0,
-    "srbobran": 64,
-    "futog": 19
+    "srbobran": 88,
+    "futog": 43
   }
     
   ,
@@ -43223,8 +43223,8 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 308,
-    "futog": 328
+    "srbobran": 307,
+    "futog": 327
   }
     
   ,
@@ -43418,7 +43418,7 @@
     "collection": "articles",
     "image": null,
     "price": 55.0,
-    "srbobran": 2,
+    "srbobran": 62,
     "futog": 0
   }
     
@@ -43834,7 +43834,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 5,
+    "srbobran": 20,
     "futog": 2
   }
     
@@ -44185,7 +44185,7 @@
     "collection": "articles",
     "image": null,
     "price": 80.0,
-    "srbobran": 34,
+    "srbobran": 44,
     "futog": 11
   }
     
@@ -44471,8 +44471,8 @@
     "collection": "articles",
     "image": null,
     "price": 80.0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 9,
+    "futog": 4
   }
     
   ,
@@ -44549,7 +44549,7 @@
     "collection": "articles",
     "image": null,
     "price": 60.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -44679,7 +44679,7 @@
     "collection": "articles",
     "image": null,
     "price": 20.0,
-    "srbobran": 82,
+    "srbobran": 182,
     "futog": 85
   }
     
@@ -44744,8 +44744,8 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 41,
-    "futog": 49
+    "srbobran": 81,
+    "futog": 59
   }
     
   ,
@@ -44914,7 +44914,7 @@
     "image": null,
     "price": 8.0,
     "srbobran": 4,
-    "futog": 0
+    "futog": 200
   }
     
   ,
@@ -45186,8 +45186,8 @@
     "collection": "articles",
     "image": null,
     "price": 350.0,
-    "srbobran": 2,
-    "futog": 0
+    "srbobran": 4,
+    "futog": 1
   }
     
   ,
@@ -45264,7 +45264,7 @@
     "collection": "articles",
     "image": null,
     "price": 180.0,
-    "srbobran": 6,
+    "srbobran": 16,
     "futog": 5
   }
     
@@ -45290,7 +45290,7 @@
     "collection": "articles",
     "image": null,
     "price": 3750.0,
-    "srbobran": 7,
+    "srbobran": 11,
     "futog": 0
   }
     
@@ -45862,7 +45862,7 @@
     "collection": "articles",
     "image": null,
     "price": 140.0,
-    "srbobran": 1,
+    "srbobran": 6,
     "futog": 5
   }
     
@@ -46135,7 +46135,7 @@
     "collection": "articles",
     "image": null,
     "price": 499.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -46162,7 +46162,7 @@
     "image": null,
     "price": 685.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -46200,7 +46200,7 @@
     "collection": "articles",
     "image": null,
     "price": 930.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -46512,8 +46512,8 @@
     "collection": "articles",
     "image": null,
     "price": 140.0,
-    "srbobran": 0,
-    "futog": 0
+    "srbobran": 4,
+    "futog": 6
   }
     
   ,
@@ -46564,8 +46564,8 @@
     "collection": "articles",
     "image": null,
     "price": 70.0,
-    "srbobran": 21,
-    "futog": 7
+    "srbobran": 51,
+    "futog": 13
   }
     
   ,
@@ -46929,7 +46929,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 23,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -47006,7 +47006,7 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 2,
+    "srbobran": 12,
     "futog": 4
   }
     
@@ -47370,7 +47370,7 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 11,
+    "srbobran": 10,
     "futog": 7
   }
     
@@ -47696,7 +47696,7 @@
     "image": null,
     "price": 300.0,
     "srbobran": -266,
-    "futog": -61
+    "futog": -64
   }
     
   ,
@@ -48007,7 +48007,7 @@
     "collection": "articles",
     "image": null,
     "price": 120.0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": 4
   }
     
@@ -48592,8 +48592,8 @@
     "collection": "articles",
     "image": null,
     "price": 180.0,
-    "srbobran": 6,
-    "futog": 0
+    "srbobran": 21,
+    "futog": 5
   }
     
   ,
@@ -48982,8 +48982,8 @@
     "collection": "articles",
     "image": null,
     "price": 220.0,
-    "srbobran": 0,
-    "futog": 0
+    "srbobran": 8,
+    "futog": 6
   }
     
   ,
@@ -49139,7 +49139,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": 345,
-    "futog": 332
+    "futog": 329
   }
     
   ,
@@ -49437,7 +49437,7 @@
     "collection": "articles",
     "image": null,
     "price": 95.0,
-    "srbobran": 24,
+    "srbobran": 23,
     "futog": 17
   }
     
@@ -49691,27 +49691,27 @@
   ,
   
   {
-    "title": "JOVA - 3",
+    "title": "PATRONE ZA NP 1/6",
     "sku": 938,
-    "url": "/938/jova-3",
+    "url": "/938/patrone-za-np-1-6",
     "collection": "articles",
     "image": null,
-    "price": 1.0,
-    "srbobran": 0,
-    "futog": null
+    "price": 60.0,
+    "srbobran": 2,
+    "futog": 4
   }
     
   ,
   
   {
-    "title": "JOVA - 4",
+    "title": "LEPAK STICK 9G OHO ZOO",
     "sku": 939,
-    "url": "/939/jova-4",
+    "url": "/939/lepak-stick-9g-oho-zoo",
     "collection": "articles",
     "image": null,
     "price": 1.0,
     "srbobran": 0,
-    "futog": null
+    "futog": 20
   }
     
   ,
@@ -49853,8 +49853,8 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 9,
-    "futog": 35
+    "srbobran": 27,
+    "futog": 17
   }
     
   ,
@@ -50411,9 +50411,9 @@
     "url": "/988/matematicki-lenjir",
     "collection": "articles",
     "image": null,
-    "price": 70.0,
+    "price": 80.0,
     "srbobran": 16,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -50660,6 +50660,19 @@
     "url": "/2026/09/16/ubiti-pticu-rugalicu-harper-li.html",
     "collection": "posts",
     "image": "/assets/images/Harper-Li-UBITI-PTICU-RUGALICU_slika_O_155754881.jpg",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "Čovek po imenu Uve - Fredrik Bakman",
+    "sku": null,
+    "url": "/2026/09/17/covek-po-imenu-uve-fredrik-bakman.html",
+    "collection": "posts",
+    "image": "/assets/images/covek-po-imenu-uve-m-w560.avif",
     "price": null,
     "srbobran": null,
     "futog": null
