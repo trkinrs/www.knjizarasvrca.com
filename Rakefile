@@ -73,9 +73,23 @@ end
 
 desc "Commit source code to main, rebase, and push"
 task :commit_and_push_with_rebase do
-  sh "git add ."
-  sh %(git commit -m "Update source site content" || echo 'Nothing to commit on main')
-  sh "git pull --rebase || echo 'cannot rebase, probably no main branch on remote yet'"
+  rebase_in_progress = File.directory?(File.join(REPO_DIR, ".git", "rebase-merge")) ||
+    File.directory?(File.join(REPO_DIR, ".git", "rebase-apply"))
+
+  if rebase_in_progress
+    sh "git add ."
+    sh "GIT_EDITOR=true git rebase --continue"
+  else
+    sh "git add ."
+    sh %(git commit -m "Update source site content" || echo 'Nothing to commit on main')
+
+    if system("git ls-remote --exit-code --heads origin main >/dev/null 2>&1")
+      sh "git pull --rebase origin main"
+    else
+      puts "No main branch on remote yet; skipping pull."
+    end
+  end
+
   sh "git push origin main"
 end
 
@@ -84,7 +98,6 @@ task :deploy do
   origin = `git config --get remote.origin.url`.strip
   fail "origin is empty" if origin.empty?
   pages_origin = ENV["GH_PAGES_REPO_URL_IF_DIFFERENT_FROM_REPO_URL"].to_s.strip
-  pages_origin = ENV["GH_PAGES_REPO_URL"].to_s.strip if pages_origin.empty?
   pages_origin = origin if pages_origin.empty?
   pages_origin_arg = Shellwords.escape(pages_origin)
 

@@ -183,6 +183,15 @@
   <div class="post-content">
     <p><input id="search-input" type="search" placeholder="Pretraži proizvode..." autofocus="" style="width:100%;padding:0.6rem 0.8rem;font-size:1.1rem;border:1px solid #ccc;border-radius:6px;box-sizing:border-box;margin-bottom:1.5rem;" /></p>
 
+<p><label for="search-location" style="display:block;margin-bottom:1.5rem;">
+  Dostupnost:
+  <select id="search-location" style="margin-left:0.4rem;padding:0.45rem 0.6rem;font-size:1rem;border:1px solid #ccc;border-radius:6px;">
+    <option value="any">Nije važno</option>
+    <option value="srbobran">Samo Srbobran</option>
+    <option value="futog">Samo Futog</option>
+  </select>
+</label></p>
+
 <div id="search-results"></div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
@@ -201,7 +210,12 @@
         this.field('collection');
         data.forEach(function(doc) { this.add(doc); }, this);
       });
-      var q = new URLSearchParams(window.location.search).get('q');
+      var params = new URLSearchParams(window.location.search);
+      var q = params.get('q');
+      var location = params.get('dostupnost');
+      if (location === 'srbobran' || location === 'futog') {
+        document.getElementById('search-location').value = location;
+      }
       if (q) {
         document.getElementById('search-input').value = q;
         renderResults(q);
@@ -210,24 +224,46 @@
 
   document.getElementById('search-input').addEventListener('input', function() {
     var q = this.value.trim();
-    history.replaceState(null, '', q ? '?q=' + encodeURIComponent(q) : window.location.pathname);
+    updateSearchUrl(q);
     renderResults(q);
   });
+
+  document.getElementById('search-location').addEventListener('change', function() {
+    var q = document.getElementById('search-input').value.trim();
+    updateSearchUrl(q);
+    renderResults(q);
+  });
+
+  function updateSearchUrl(q) {
+    var params = new URLSearchParams();
+    if (q) params.set('q', q);
+    var location = document.getElementById('search-location').value;
+    if (location !== 'any') params.set('dostupnost', location);
+    var query = params.toString();
+    history.replaceState(null, '', query ? '?' + query : window.location.pathname);
+  }
 
   function renderResults(q) {
     var el = document.getElementById('search-results');
     if (!q || q.length < 2) { el.innerHTML = ''; return; }
+    if (!idx || !docs) { return; }
 
     var results;
     try { results = idx.search(q + '*'); } catch(e) { results = []; }
 
-    if (!results.length) {
-      el.innerHTML = '<p>Nema rezultata za <strong>' + escHtml(q) + '</strong>.</p>';
-      return;
-    }
-
     var map = {};
     docs.forEach(function(d) { map[d.url] = d; });
+
+    var selectedLocation = document.getElementById('search-location').value;
+    results = results.filter(function(r) {
+      var d = map[r.ref];
+      return selectedLocation === 'any' || Number(d[selectedLocation] || 0) > 0;
+    });
+
+    if (!results.length) {
+      el.innerHTML = '<p>Nema rezultata za izabranu dostupnost.</p>';
+      return;
+    }
 
     el.innerHTML = '<p>' + results.length + ' rezultat(a):</p><ul style="list-style:none;padding:0">' +
       results.map(function(r) {
