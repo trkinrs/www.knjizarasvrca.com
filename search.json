@@ -12,7 +12,7 @@
     "image": null,
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1370
+    "futog": -1375
   }
     
   ,
@@ -3925,7 +3925,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": 3,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -4913,7 +4913,7 @@
     "image": null,
     "price": 280.0,
     "srbobran": 5,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -12219,7 +12219,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": -968,
-    "futog": -854
+    "futog": -860
   }
     
   ,
@@ -15261,7 +15261,7 @@
     "image": null,
     "price": 1180.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -34917,7 +34917,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": 32,
-    "futog": 30
+    "futog": 29
   }
     
   ,
@@ -36009,7 +36009,7 @@
     "image": null,
     "price": 230.0,
     "srbobran": 58,
-    "futog": 52
+    "futog": 51
   }
     
   ,
@@ -50673,6 +50673,19 @@
     "url": "/2026/09/17/covek-po-imenu-uve-fredrik-bakman.html",
     "collection": "posts",
     "image": "/assets/images/covek-po-imenu-uve-m-w560.avif",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  {
+    "title": "Medvedgrad - Fredrik Bakman",
+    "sku": null,
+    "url": "/2026/09/17/medvedgrad-fredrik-bakman.html",
+    "collection": "posts",
+    "image": "/assets/images/medvedgrad-fredrik-bakman-m-h1200.webp",
     "price": null,
     "srbobran": null,
     "futog": null
