@@ -13,7 +13,7 @@
     "image": "/assets/images/17896357560165991255959562116210.jpg",
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1389
+    "futog": -1397
   }
     
   ,
@@ -5585,7 +5585,7 @@
     "image": null,
     "price": 70.0,
     "srbobran": 138,
-    "futog": 109
+    "futog": 106
   }
     
   ,
@@ -5837,7 +5837,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "srbobran": 97,
-    "futog": 64
+    "futog": 62
   }
     
   ,
@@ -7027,7 +7027,7 @@
     "image": "/assets/images/145/sestar-sc-1.jpg",
     "price": 130.0,
     "srbobran": 16,
-    "futog": 19
+    "futog": 18
   }
     
   ,
@@ -7755,7 +7755,7 @@
     "image": "/assets/images/1515/cestitka-1.jpg",
     "price": 70.0,
     "srbobran": 4,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -9854,7 +9854,7 @@
     "collection": "articles",
     "image": "/assets/images/170/pero-za-tus-1.jpg",
     "price": 50.0,
-    "srbobran": 26,
+    "srbobran": 25,
     "futog": 10
   }
     
@@ -10093,7 +10093,7 @@
     "image": null,
     "price": 40.0,
     "srbobran": 0,
-    "futog": 71
+    "futog": 69
   }
     
   ,
@@ -10148,7 +10148,7 @@
     "collection": "articles",
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
-    "srbobran": 43,
+    "srbobran": 42,
     "futog": 18
   }
     
@@ -10204,8 +10204,8 @@
     "collection": "articles",
     "image": "/assets/images/1778/vu-atlas-zastava-1.jpg",
     "price": 899.0,
-    "srbobran": 1,
-    "futog": null
+    "srbobran": 0,
+    "futog": 0
   }
     
   ,
@@ -10871,13 +10871,13 @@
   
   {
     "title": "VU - DOGMEN",
-    "sku": 1821,
+    "sku": "1821",
     "url": "/1821/vu-dogmen",
     "collection": "articles",
     "image": "/assets/images/1821/vu-dogmen-1.jpg",
-    "price": 1199.0,
-    "srbobran": 2,
-    "futog": 1
+    "price": null,
+    "srbobran": null,
+    "futog": null
   }
     
   ,
@@ -11100,7 +11100,7 @@
     "collection": "articles",
     "image": null,
     "price": 55.0,
-    "srbobran": 21,
+    "srbobran": 16,
     "futog": 0
   }
     
@@ -12864,8 +12864,8 @@
     "collection": "articles",
     "image": "/assets/images/198/cestitka-rodjendan-1.jpg",
     "price": 120.0,
-    "srbobran": 76,
-    "futog": 53
+    "srbobran": 75,
+    "futog": 52
   }
     
   ,
@@ -13159,7 +13159,7 @@
     "image": "/assets/images/17896357560165991255959562116210.jpg",
     "price": 20.0,
     "srbobran": -968,
-    "futog": -870
+    "futog": -914
   }
     
   ,
@@ -13551,7 +13551,7 @@
     "image": "/assets/images/2047/muzicki-stapici-1.jpg",
     "price": 180.0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -14152,7 +14152,7 @@
     "collection": "articles",
     "image": "/assets/images/2107/vodene-boje-1-12-sc-1.jpg",
     "price": 225.0,
-    "srbobran": 11,
+    "srbobran": 10,
     "futog": 13
   }
     
@@ -15202,7 +15202,7 @@
     "collection": "articles",
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
-    "srbobran": 385,
+    "srbobran": 383,
     "futog": 2
   }
     
@@ -15468,8 +15468,8 @@
     "collection": "articles",
     "image": null,
     "price": 115.0,
-    "srbobran": 6,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 4
   }
     
   ,
@@ -20522,7 +20522,7 @@
     "collection": "articles",
     "image": "/assets/images/252/ukrasna-kesa-1.jpg",
     "price": 175.0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 1
   }
     
@@ -21531,7 +21531,7 @@
     "image": "/assets/images/2585/ciode-pluta-1.jpg",
     "price": 60.0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -23155,7 +23155,7 @@
     "image": "/assets/images/269/1.jpg",
     "price": 450.0,
     "srbobran": 52,
-    "futog": 54
+    "futog": 53
   }
     
   ,
@@ -25856,7 +25856,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 4
   }
     
@@ -27887,7 +27887,7 @@
     "image": null,
     "price": 150.0,
     "srbobran": 72,
-    "futog": 28
+    "futog": 26
   }
     
   ,
@@ -34242,7 +34242,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 50,
+    "srbobran": 46,
     "futog": 50
   }
     
@@ -35374,7 +35374,7 @@
     "sku": 3481,
     "url": "/3481/podloga-za-busac",
     "collection": "articles",
-    "image": null,
+    "image": "/assets/images/3481/eva-pena-podloga-za-busac-1.jpg",
     "price": 55.0,
     "srbobran": 90,
     "futog": 46
@@ -35402,7 +35402,7 @@
     "sku": 3483,
     "url": "/3483/vu-ketkid-klub-stripoljubaca",
     "collection": "articles",
-    "image": "/assets/images/3483/vu-ketkid-klub-stripoljubaca-1.jpg",
+    "image": null,
     "price": 999.02,
     "srbobran": null,
     "futog": 1
@@ -36216,7 +36216,7 @@
     "collection": "articles",
     "image": null,
     "price": 50.0,
-    "srbobran": 40,
+    "srbobran": 20,
     "futog": 20
   }
     
@@ -36608,7 +36608,7 @@
     "collection": "articles",
     "image": null,
     "price": 1499.04,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -38778,8 +38778,8 @@
     "collection": "articles",
     "image": "/assets/images/370/cestitka-stampana-1.jpg",
     "price": 230.0,
-    "srbobran": 57,
-    "futog": 49
+    "srbobran": 56,
+    "futog": 46
   }
     
   ,
@@ -38932,7 +38932,7 @@
     "collection": "articles",
     "image": "/assets/images/371/cestitka-cvetna-1.jpg",
     "price": 120.0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 9
   }
     
@@ -41103,7 +41103,7 @@
     "image": "/assets/images/385/cestitka-mini-1.jpg",
     "price": 160.0,
     "srbobran": 17,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -42796,7 +42796,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 13,
+    "srbobran": 12,
     "futog": 9
   }
     
@@ -43412,7 +43412,7 @@
     "collection": "articles",
     "image": "/assets/images/408/udaraljke-za-metalofon-1.jpg",
     "price": 130.0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 4
   }
     
@@ -43763,7 +43763,7 @@
     "image": "/assets/images/4156/cestitka-1.jpg",
     "price": 140.0,
     "srbobran": 3,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -44210,7 +44210,7 @@
     "collection": "articles",
     "image": "/assets/images/43/oho-lepak-40g-1.jpg",
     "price": 220.0,
-    "srbobran": 24,
+    "srbobran": 23,
     "futog": 3
   }
     
@@ -46058,7 +46058,7 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": 67,
+    "srbobran": 47,
     "futog": 105
   }
     
@@ -46436,7 +46436,7 @@
     "collection": "articles",
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
-    "srbobran": 131,
+    "srbobran": 130,
     "futog": 43
   }
     
@@ -46549,7 +46549,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 306,
-    "futog": 326
+    "futog": 325
   }
     
   ,
@@ -46660,7 +46660,7 @@
     "collection": "articles",
     "image": "/assets/images/497/stilo-za-pero-1.jpg",
     "price": 80.0,
-    "srbobran": 25,
+    "srbobran": 24,
     "futog": 15
   }
     
@@ -46703,7 +46703,7 @@
     "image": null,
     "price": 500.0,
     "srbobran": 0,
-    "futog": -6
+    "futog": -7
   }
     
   ,
@@ -47192,8 +47192,8 @@
     "collection": "articles",
     "image": "/assets/images/530/selotejp-50-50-1.jpg",
     "price": 95.0,
-    "srbobran": 16,
-    "futog": 18
+    "srbobran": 15,
+    "futog": 17
   }
     
   ,
@@ -47668,7 +47668,7 @@
     "collection": "articles",
     "image": "/assets/images/561/to-black-pointer-0-5-1.jpg",
     "price": 140.0,
-    "srbobran": 19,
+    "srbobran": 18,
     "futog": 28
   }
     
@@ -47962,7 +47962,7 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": 108,
+    "srbobran": 96,
     "futog": 62
   }
     
@@ -48060,7 +48060,7 @@
     "collection": "articles",
     "image": null,
     "price": 25.0,
-    "srbobran": 75,
+    "srbobran": 50,
     "futog": 0
   }
     
@@ -48117,7 +48117,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": 132,
-    "futog": 85
+    "futog": 84
   }
     
   ,
@@ -48551,7 +48551,7 @@
     "image": "/assets/images/618/etikete-br-1.jpg",
     "price": 95.0,
     "srbobran": 43,
-    "futog": 15
+    "futog": 14
   }
     
   ,
@@ -48620,7 +48620,7 @@
     "collection": "articles",
     "image": null,
     "price": 170.0,
-    "srbobran": 23,
+    "srbobran": 22,
     "futog": 21
   }
     
@@ -48662,8 +48662,8 @@
     "collection": "articles",
     "image": "/assets/images/625/atase-mapa-pvc-1.jpg",
     "price": 350.0,
-    "srbobran": 4,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 3
   }
     
   ,
@@ -49390,7 +49390,7 @@
     "collection": "articles",
     "image": "/assets/images/672/korektor-olovka-1.jpg",
     "price": 140.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 5
   }
     
@@ -49796,7 +49796,7 @@
     "collection": "articles",
     "image": null,
     "price": 20.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 5
   }
     
@@ -52008,7 +52008,7 @@
     "collection": "articles",
     "image": "/assets/images/840/koverat-a-3-1.jpg",
     "price": 40.0,
-    "srbobran": 16,
+    "srbobran": 6,
     "futog": 15
   }
     
@@ -53072,8 +53072,8 @@
     "collection": "articles",
     "image": "/assets/images/909/gumica-sc-1.jpg",
     "price": 120.0,
-    "srbobran": 3,
-    "futog": 0
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -53506,7 +53506,7 @@
     "collection": "articles",
     "image": null,
     "price": 250.0,
-    "srbobran": 10,
+    "srbobran": 8,
     "futog": 5
   }
     
@@ -53688,8 +53688,8 @@
     "collection": "articles",
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
-    "srbobran": 27,
-    "futog": 16
+    "srbobran": 26,
+    "futog": 14
   }
     
   ,
@@ -53856,7 +53856,7 @@
     "collection": "articles",
     "image": null,
     "price": 135.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 6
   }
     
@@ -54290,8 +54290,8 @@
     "collection": "articles",
     "image": "/assets/images/988/matematicki-lenjir-1.jpg",
     "price": 80.0,
-    "srbobran": 16,
-    "futog": 0
+    "srbobran": 6,
+    "futog": 9
   }
     
   ,
