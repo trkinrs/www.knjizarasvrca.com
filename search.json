@@ -13,7 +13,7 @@
     "image": "/assets/images/17896357560165991255959562116210.jpg",
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1397
+    "futog": -1425
   }
     
   ,
@@ -2365,7 +2365,7 @@
     "image": "/assets/images/115/ol-hb-art-1.jpg",
     "price": 50.0,
     "srbobran": 64,
-    "futog": 43
+    "futog": 41
   }
     
   ,
@@ -2939,7 +2939,7 @@
     "image": null,
     "price": 750.0,
     "srbobran": 0,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -5585,7 +5585,7 @@
     "image": null,
     "price": 70.0,
     "srbobran": 138,
-    "futog": 106
+    "futog": 105
   }
     
   ,
@@ -5795,7 +5795,7 @@
     "image": "/assets/images/1370/dosije-20-30-dzepova-1.jpg",
     "price": 335.0,
     "srbobran": 3,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -5836,8 +5836,8 @@
     "collection": "articles",
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
-    "srbobran": 97,
-    "futog": 62
+    "srbobran": 96,
+    "futog": 61
   }
     
   ,
@@ -6509,7 +6509,7 @@
     "image": null,
     "price": 415.0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -7124,7 +7124,7 @@
     "collection": "articles",
     "image": null,
     "price": 180.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -7265,7 +7265,7 @@
     "image": "/assets/images/148/lepak-stick-10g-1.jpg",
     "price": 90.0,
     "srbobran": 15,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -7894,8 +7894,8 @@
     "collection": "articles",
     "image": "/assets/images/1525/cestitka-1.jpg",
     "price": 130.0,
-    "srbobran": 27,
-    "futog": 18
+    "srbobran": 23,
+    "futog": 17
   }
     
   ,
@@ -8860,7 +8860,7 @@
     "collection": "articles",
     "image": "/assets/images/159/vr-pm-teg-170g-1.jpg",
     "price": 230.0,
-    "srbobran": 6,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -9169,7 +9169,7 @@
     "image": null,
     "price": 299.0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -9854,7 +9854,7 @@
     "collection": "articles",
     "image": "/assets/images/170/pero-za-tus-1.jpg",
     "price": 50.0,
-    "srbobran": 25,
+    "srbobran": 23,
     "futog": 10
   }
     
@@ -10148,7 +10148,7 @@
     "collection": "articles",
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
-    "srbobran": 42,
+    "srbobran": 41,
     "futog": 18
   }
     
@@ -10871,13 +10871,13 @@
   
   {
     "title": "VU - DOGMEN",
-    "sku": "1821",
+    "sku": 1821,
     "url": "/1821/vu-dogmen",
     "collection": "articles",
     "image": "/assets/images/1821/vu-dogmen-1.jpg",
-    "price": null,
-    "srbobran": null,
-    "futog": null
+    "price": 1199.0,
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -13046,8 +13046,8 @@
     "collection": "articles",
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
-    "srbobran": 18,
-    "futog": 10
+    "srbobran": 17,
+    "futog": 9
   }
     
   ,
@@ -13425,7 +13425,7 @@
     "image": "/assets/images/203/gel-olovka-tg-1.jpg",
     "price": 195.0,
     "srbobran": 11,
-    "futog": 10
+    "futog": 7
   }
     
   ,
@@ -13900,7 +13900,7 @@
     "collection": "articles",
     "image": "/assets/images/2088/marker-art-obostrani-1.jpg",
     "price": 99.0,
-    "srbobran": 52,
+    "srbobran": 51,
     "futog": 33
   }
     
@@ -15119,7 +15119,7 @@
     "image": "/assets/images/2172/pp-moja-prva-knjiga-sa-nalepnicama-princeze-1.jpg",
     "price": 299.0,
     "srbobran": 1,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -21153,7 +21153,7 @@
     "image": "/assets/images/2560/silki-pastel-1.jpg",
     "price": 545.0,
     "srbobran": 6,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -22090,7 +22090,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 10,
+    "srbobran": 7,
     "futog": 4
   }
     
@@ -22903,7 +22903,7 @@
     "image": null,
     "price": 1299.03,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -25101,7 +25101,7 @@
     "image": null,
     "price": 1350.03,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -31625,7 +31625,7 @@
     "image": "/assets/images/324/pp-moj-skolski-leksikon-bros-1.jpg",
     "price": 400.0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -35909,7 +35909,7 @@
     "image": null,
     "price": 399.01,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -37056,7 +37056,7 @@
     "collection": "articles",
     "image": null,
     "price": 650.0,
-    "srbobran": 8,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -37197,7 +37197,7 @@
     "image": null,
     "price": 599.03,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -43833,7 +43833,7 @@
     "image": "/assets/images/419/makaze-ek-13-5cm-1.jpg",
     "price": 140.0,
     "srbobran": 20,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -45625,7 +45625,7 @@
     "image": "/assets/images/45/grabo-srednji-brojevi-1.jpg",
     "price": 470.0,
     "srbobran": 38,
-    "futog": 41
+    "futog": 39
   }
     
   ,
@@ -45982,6 +45982,34 @@
   
   
   {
+    "title": "ŠTAMPANJE NALEPNICE ZA KLJUČ U BOJI",
+    "sku": 4524,
+    "url": "/4524/stampanje-nalepnice-za-kljuc-u-boji",
+    "collection": "articles",
+    "image": null,
+    "price": 70.0,
+    "srbobran": null,
+    "futog": 0
+  }
+    
+  ,
+  
+  
+  {
+    "title": "ŠTAMPANJE NALEPNICE ZA KLJUČ CRNO BELO",
+    "sku": 4525,
+    "url": "/4525/stampanje-nalepnice-za-kljuc-crno-belo",
+    "collection": "articles",
+    "image": null,
+    "price": 40.0,
+    "srbobran": null,
+    "futog": 0
+  }
+    
+  ,
+  
+  
+  {
     "title": "FOTO ALBUM 13/18 100F",
     "sku": 453,
     "url": "/453/foto-album-13-18-100f",
@@ -46058,7 +46086,7 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": 47,
+    "srbobran": 37,
     "futog": 105
   }
     
@@ -46436,8 +46464,8 @@
     "collection": "articles",
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
-    "srbobran": 130,
-    "futog": 43
+    "srbobran": 127,
+    "futog": 39
   }
     
   ,
@@ -46548,8 +46576,8 @@
     "collection": "articles",
     "image": null,
     "price": 130.0,
-    "srbobran": 306,
-    "futog": 325
+    "srbobran": 305,
+    "futog": 323
   }
     
   ,
@@ -46660,7 +46688,7 @@
     "collection": "articles",
     "image": "/assets/images/497/stilo-za-pero-1.jpg",
     "price": 80.0,
-    "srbobran": 24,
+    "srbobran": 22,
     "futog": 15
   }
     
@@ -46870,7 +46898,7 @@
     "collection": "articles",
     "image": "/assets/images/51/lenjir-30cm-1.jpg",
     "price": 50.0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 4
   }
     
@@ -47640,8 +47668,8 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": -1,
-    "futog": -1
+    "srbobran": -2,
+    "futog": -3
   }
     
   ,
@@ -47893,7 +47921,7 @@
     "image": null,
     "price": 80.0,
     "srbobran": 15,
-    "futog": 10
+    "futog": 9
   }
     
   ,
@@ -47962,8 +47990,8 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": 96,
-    "futog": 62
+    "srbobran": 95,
+    "futog": 52
   }
     
   ,
@@ -48117,7 +48145,7 @@
     "image": null,
     "price": 20.0,
     "srbobran": 132,
-    "futog": 84
+    "futog": 82
   }
     
   ,
@@ -48214,7 +48242,7 @@
     "collection": "articles",
     "image": "/assets/images/597/dosije-kromo-1.jpg",
     "price": 40.0,
-    "srbobran": 52,
+    "srbobran": 51,
     "futog": 15
   }
     
@@ -48970,7 +48998,7 @@
     "collection": "articles",
     "image": "/assets/images/645/mastilo-za-dokumenta-1.jpg",
     "price": 145.0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -50525,7 +50553,7 @@
     "image": "/assets/images/745/poster-1.jpg",
     "price": 99.0,
     "srbobran": 19,
-    "futog": 11
+    "futog": 9
   }
     
   ,
@@ -50538,7 +50566,7 @@
     "collection": "articles",
     "image": "/assets/images/746/obrazac-1-1-1-1.jpg",
     "price": 130.0,
-    "srbobran": 23,
+    "srbobran": 22,
     "futog": 8
   }
     
@@ -50902,7 +50930,7 @@
     "collection": "articles",
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
-    "srbobran": 55,
+    "srbobran": 53,
     "futog": 45
   }
     
@@ -51364,7 +51392,7 @@
     "collection": "articles",
     "image": null,
     "price": 300.0,
-    "srbobran": -266,
+    "srbobran": -268,
     "futog": -64
   }
     
@@ -52750,7 +52778,7 @@
     "collection": "articles",
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 6
   }
     
@@ -52806,7 +52834,7 @@
     "collection": "articles",
     "image": "/assets/images/892/rezac-maped-metalni-1.jpg",
     "price": 120.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 26
   }
     
@@ -52891,7 +52919,7 @@
     "image": "/assets/images/898/gumica-b-40-1.jpg",
     "price": 70.0,
     "srbobran": 17,
-    "futog": 31
+    "futog": 30
   }
     
   ,
@@ -52918,7 +52946,7 @@
     "collection": "articles",
     "image": "/assets/images/9/balon-sb10p-23cm-1.jpg",
     "price": 30.0,
-    "srbobran": 345,
+    "srbobran": 344,
     "futog": 329
   }
     
@@ -53395,7 +53423,7 @@
     "image": "/assets/images/93/flomasteri-giotto-1-12-1.jpg",
     "price": 360.0,
     "srbobran": 5,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -53549,7 +53577,7 @@
     "image": "/assets/images/94/drvena-boja-1-12-maped-1.jpg",
     "price": 440.0,
     "srbobran": 6,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -53758,7 +53786,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 13,
+    "srbobran": 11,
     "futog": 17
   }
     
@@ -53856,7 +53884,7 @@
     "collection": "articles",
     "image": null,
     "price": 135.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 6
   }
     
@@ -54290,7 +54318,7 @@
     "collection": "articles",
     "image": "/assets/images/988/matematicki-lenjir-1.jpg",
     "price": 80.0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 9
   }
     
@@ -54442,7 +54470,7 @@
     "sku": 998,
     "url": "/998/plastelin-1-10",
     "collection": "articles",
-    "image": null,
+    "image": "/assets/images/2.jpg",
     "price": 220.0,
     "srbobran": 5,
     "futog": 0
@@ -54456,9 +54484,9 @@
     "sku": 999,
     "url": "/999/set-lenjira-maped",
     "collection": "articles",
-    "image": null,
+    "image": "/assets/images/1.jpg",
     "price": 295.0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -54613,6 +54641,216 @@
     "url": "/2026/09/17/rusalkin-poljubac-kejt-kvin.html",
     "collection": "posts",
     "image": "/assets/images/Rusalkin-poljubac-w1200.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "1000 čudesnih sunaca - Haled Hoseini",
+    "sku": null,
+    "url": "/2026/09/21/1000-cudesnih-sunaca-haled-hoseini.html",
+    "collection": "posts",
+    "image": "/assets/images/hiljadu-cudesnih-sunaca-haled-hoseini-m-w1200.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "999",
+    "sku": null,
+    "url": "/2026/09/21/999.html",
+    "collection": "posts",
+    "image": null,
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Beležnica - Nikolas Sparks",
+    "sku": null,
+    "url": "/2026/09/21/beleznica-nikolas-sparks.html",
+    "collection": "posts",
+    "image": "/assets/images/247705.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Deca zla - Miodrag Majić",
+    "sku": null,
+    "url": "/2026/09/21/deca-zla-miodrag-majic.html",
+    "collection": "posts",
+    "image": "/assets/images/images.jpg",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Dečak u prugastoj pidžami - Džon Bojn",
+    "sku": null,
+    "url": "/2026/09/21/decak-u-prugastoj-pidzami-dzon-bojn.html",
+    "collection": "posts",
+    "image": "/assets/images/24777.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Hipnotizer - Laš Kepler",
+    "sku": null,
+    "url": "/2026/09/21/hipnotizer-las-kepler.html",
+    "collection": "posts",
+    "image": "/assets/images/images%20(2).jpg",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Jedi, moli, voli - Elizabet Gilbert",
+    "sku": null,
+    "url": "/2026/09/21/jedi-moli-voli-elizabet-gilbert.html",
+    "collection": "posts",
+    "image": "/assets/images/343443_1200_1200px.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Kaluđer koji je prodao svoj ferari - Robin Šarma",
+    "sku": null,
+    "url": "/2026/09/21/kaluder-koji-je-prodao-svoj-ferari-robin-sarma.html",
+    "collection": "posts",
+    "image": "/assets/images/127562.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Kradljivica knjiga - Markus Zusak",
+    "sku": null,
+    "url": "/2026/09/21/kradljivica-knjiga-markus-zusak.html",
+    "collection": "posts",
+    "image": "/assets/images/kradljivica-knjiga-OMOTNICA-FILM-FINALNO-h600.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Lovac na zmajeve - Haled Hoseini",
+    "sku": null,
+    "url": "/2026/09/21/lovac-na-zmajeve-haled-hoseini.html",
+    "collection": "posts",
+    "image": "/assets/images/images%20(1).jpg",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Male žene - Luiza Mej Alkot",
+    "sku": null,
+    "url": "/2026/09/21/male-zene-luiza-mej-alkot.html",
+    "collection": "posts",
+    "image": "/assets/images/343619.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Ostrvo pelikana - Miodrag Majić",
+    "sku": null,
+    "url": "/2026/09/21/ostrvo-pelikana-miodrag-majic.html",
+    "collection": "posts",
+    "image": "/assets/images/348463.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Sedam sestara - Lusinda Rajli",
+    "sku": null,
+    "url": "/2026/09/21/sedam-sestara-lusinda-rajli.html",
+    "collection": "posts",
+    "image": "/assets/images/Sedam-sestara-h1200.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Sestra iz senke - Lusinda Rajli",
+    "sku": null,
+    "url": "/2026/09/21/sestra-iz-senke-lusinda-rajli.html",
+    "collection": "posts",
+    "image": "/assets/images/316357.jpg.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "Tetovažer iz Aušvica - Heder Moris",
+    "sku": null,
+    "url": "/2026/09/21/tetovazer-iz-ausvica-heder-moris.html",
+    "collection": "posts",
+    "image": "/assets/images/tetovazer-iz-ausvica-heder-moris-m-w1200.webp",
     "price": null,
     "srbobran": null,
     "futog": null
