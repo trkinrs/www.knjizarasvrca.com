@@ -7531,7 +7531,7 @@
     "image": "/assets/images/150/masna-1.jpg",
     "price": 45.0,
     "srbobran": 23,
-    "futog": 20
+    "futog": 19
   }
     
   ,
@@ -9854,7 +9854,7 @@
     "collection": "articles",
     "image": "/assets/images/170/pero-za-tus-1.jpg",
     "price": 50.0,
-    "srbobran": 23,
+    "srbobran": 17,
     "futog": 10
   }
     
@@ -13046,7 +13046,7 @@
     "collection": "articles",
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
-    "srbobran": 17,
+    "srbobran": 6,
     "futog": 9
   }
     
@@ -13508,7 +13508,7 @@
     "collection": "articles",
     "image": "/assets/images/2043/musema-za-likovno-1.jpg",
     "price": 120.0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 11
   }
     
@@ -16407,7 +16407,7 @@
     "image": "/assets/images/2255/pp-otkrivam-stvaram-i-smisljam-sa-6-godina-1.jpg",
     "price": 740.0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -22090,7 +22090,7 @@
     "collection": "articles",
     "image": null,
     "price": 150.0,
-    "srbobran": 7,
+    "srbobran": 5,
     "futog": 4
   }
     
@@ -24471,7 +24471,7 @@
     "image": "/assets/images/2774/marker-0-6-cp-1.jpg",
     "price": 90.0,
     "srbobran": 55,
-    "futog": 50
+    "futog": 49
   }
     
   ,
@@ -30995,7 +30995,7 @@
     "image": "/assets/images/32/kolaz-b-5-sl-1.jpg",
     "price": 150.0,
     "srbobran": 22,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -31317,7 +31317,7 @@
     "image": null,
     "price": 210.0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -37127,7 +37127,7 @@
     "image": null,
     "price": 599.03,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -37589,7 +37589,7 @@
     "image": null,
     "price": 275.0,
     "srbobran": 2,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -38303,7 +38303,7 @@
     "image": "/assets/images/367/lepak-tecni-nora-50ml-1.jpg",
     "price": 75.0,
     "srbobran": 0,
-    "futog": 7
+    "futog": 5
   }
     
   ,
@@ -38779,7 +38779,7 @@
     "image": "/assets/images/370/cestitka-stampana-1.jpg",
     "price": 230.0,
     "srbobran": 56,
-    "futog": 46
+    "futog": 45
   }
     
   ,
@@ -46226,7 +46226,7 @@
     "collection": "articles",
     "image": "/assets/images/467/gel-olovka-pisi-brisi-1.jpg",
     "price": 210.0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 1
   }
     
@@ -46688,7 +46688,7 @@
     "collection": "articles",
     "image": "/assets/images/497/stilo-za-pero-1.jpg",
     "price": 80.0,
-    "srbobran": 22,
+    "srbobran": 16,
     "futog": 15
   }
     
@@ -48159,7 +48159,7 @@
     "image": null,
     "price": 70.0,
     "srbobran": 0,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -53602,7 +53602,7 @@
     "sku": 941,
     "url": "/941/fascikla-5cm",
     "collection": "articles",
-    "image": "/assets/images/941/fascikla-5cm-1.jpg",
+    "image": null,
     "price": 505.0,
     "srbobran": 0,
     "futog": null
@@ -53884,7 +53884,7 @@
     "collection": "articles",
     "image": null,
     "price": 135.0,
-    "srbobran": 5,
+    "srbobran": 0,
     "futog": 6
   }
     
