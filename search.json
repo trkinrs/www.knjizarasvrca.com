@@ -12543,7 +12543,7 @@
     "image": null,
     "price": 15.0,
     "srbobran": 87,
-    "futog": 41
+    "futog": 39
   }
     
   ,
@@ -20467,7 +20467,7 @@
     "image": null,
     "price": 899.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -21895,7 +21895,7 @@
     "image": null,
     "price": 899.0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -37056,7 +37056,7 @@
     "collection": "articles",
     "image": null,
     "price": 650.0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 0
   }
     
@@ -47612,7 +47612,7 @@
     "collection": "articles",
     "image": "/assets/images/556/marker-cn-kosi-vrh-1.jpg",
     "price": 80.0,
-    "srbobran": 44,
+    "srbobran": 38,
     "futog": 11
   }
     
@@ -47668,7 +47668,7 @@
     "collection": "articles",
     "image": null,
     "price": 10.0,
-    "srbobran": -2,
+    "srbobran": -3,
     "futog": -3
   }
     
@@ -47822,7 +47822,7 @@
     "collection": "articles",
     "image": "/assets/images/57/uvijac-a-5-1.jpg",
     "price": 20.0,
-    "srbobran": 169,
+    "srbobran": 164,
     "futog": 47
   }
     
@@ -48214,7 +48214,7 @@
     "collection": "articles",
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
-    "srbobran": 71,
+    "srbobran": 61,
     "futog": 59
   }
     
@@ -48270,7 +48270,7 @@
     "collection": "articles",
     "image": "/assets/images/599/dosije-boja-1.jpg",
     "price": 60.0,
-    "srbobran": 58,
+    "srbobran": 48,
     "futog": 33
   }
     
@@ -48802,7 +48802,7 @@
     "collection": "articles",
     "image": null,
     "price": 3750.0,
-    "srbobran": 9,
+    "srbobran": 8,
     "futog": 0
   }
     
@@ -54865,6 +54865,20 @@
     "url": "/2026/09/22/822.html",
     "collection": "posts",
     "image": "/assets/images/16.jpg",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "930",
+    "sku": null,
+    "url": "/2026/09/22/930.html",
+    "collection": "posts",
+    "image": "/assets/images/15.jpg",
     "price": null,
     "srbobran": null,
     "futog": null
