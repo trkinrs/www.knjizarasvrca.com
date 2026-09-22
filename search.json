@@ -13,7 +13,7 @@
     "image": "/assets/images/17896357560165991255959562116210.jpg",
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1425
+    "futog": -1431
   }
     
   ,
@@ -20523,7 +20523,7 @@
     "image": "/assets/images/252/ukrasna-kesa-1.jpg",
     "price": 175.0,
     "srbobran": 4,
-    "futog": 1
+    "futog": -1
   }
     
   ,
@@ -34242,7 +34242,7 @@
     "collection": "articles",
     "image": null,
     "price": 30.0,
-    "srbobran": 46,
+    "srbobran": 44,
     "futog": 50
   }
     
@@ -39129,7 +39129,7 @@
     "image": "/assets/images/3722/cestitka-bc-r-1.jpg",
     "price": 160.0,
     "srbobran": 2,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -43203,7 +43203,7 @@
     "image": null,
     "price": 30.0,
     "srbobran": -34,
-    "futog": -89
+    "futog": -90
   }
     
   ,
@@ -46577,7 +46577,7 @@
     "image": null,
     "price": 130.0,
     "srbobran": 305,
-    "futog": 323
+    "futog": 322
   }
     
   ,
@@ -50119,7 +50119,7 @@
     "image": "/assets/images/717/korektor-traka-12m-1.jpg",
     "price": 140.0,
     "srbobran": 4,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -53534,7 +53534,7 @@
     "collection": "articles",
     "image": null,
     "price": 250.0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 5
   }
     
@@ -54851,6 +54851,20 @@
     "url": "/2026/09/21/tetovazer-iz-ausvica-heder-moris.html",
     "collection": "posts",
     "image": "/assets/images/tetovazer-iz-ausvica-heder-moris-m-w1200.webp",
+    "price": null,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "makaze 20 cm",
+    "sku": null,
+    "url": "/2026/09/22/makaze-20-cm.html",
+    "collection": "posts",
+    "image": "/assets/images/14.jpg",
     "price": null,
     "srbobran": null,
     "futog": null
