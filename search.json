@@ -3523,7 +3523,7 @@
     "image": "/assets/images/148/lepak-stick-10g-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": 1
   }
     
@@ -8488,7 +8488,7 @@
     "image": null,
     "price": 435.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 6
   }
     
@@ -38878,7 +38878,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 305,
+    "srbobran": 304,
     "futog": 321
   }
     
@@ -40738,7 +40738,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": -1,
     "futog": 8
   }
     
