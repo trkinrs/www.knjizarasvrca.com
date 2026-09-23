@@ -199,6 +199,26 @@
 <script>
   var idx, docs;
 
+  // Make search independent of Serbian diacritics and script. This lets, for
+  // example, "cep", "čep" and "чеп" find the same products.
+  function normalizeForSearch(value) {
+    var cyrillic = {
+      'а':'a', 'б':'b', 'в':'v', 'г':'g', 'д':'d', 'ђ':'dj', 'е':'e',
+      'ж':'z', 'з':'z', 'и':'i', 'ј':'j', 'к':'k', 'л':'l', 'љ':'lj',
+      'м':'m', 'н':'n', 'њ':'nj', 'о':'o', 'п':'p', 'р':'r', 'с':'s',
+      'т':'t', 'ћ':'c', 'у':'u', 'ф':'f', 'х':'h', 'ц':'c', 'ч':'c',
+      'џ':'dz', 'ш':'s'
+    };
+    var text = String(value == null ? '' : value).toLowerCase().replace(
+      /[а-яђјљњћџ]/g,
+      function(letter) { return cyrillic[letter] || letter; }
+    );
+    // NFD removes accents from Latin letters (č, ć, š, ž, ...). đ does not
+    // decompose, so handle it explicitly as the Serbian Latin digraph dj.
+    if (text.normalize) { text = text.normalize('NFD'); }
+    return text.replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'dj');
+  }
+
   fetch('/search.json')
     .then(function(r) { return r.json(); })
     .then(function(data) {
@@ -208,7 +228,14 @@
         this.field('title', { boost: 10 });
         this.field('sku',   { boost: 5 });
         this.field('collection');
-        data.forEach(function(doc) { this.add(doc); }, this);
+        data.forEach(function(doc) {
+          this.add({
+            url: doc.url,
+            title: normalizeForSearch(doc.title),
+            sku: normalizeForSearch(doc.sku),
+            collection: normalizeForSearch(doc.collection)
+          });
+        }, this);
       });
       var params = new URLSearchParams(window.location.search);
       var q = params.get('q');
@@ -249,7 +276,7 @@
     if (!idx || !docs) { return; }
 
     var results;
-    try { results = idx.search(q + '*'); } catch(e) { results = []; }
+    try { results = idx.search(normalizeForSearch(q) + '*'); } catch(e) { results = []; }
 
     var map = {};
     docs.forEach(function(d) { map[d.url] = d; });

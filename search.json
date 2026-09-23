@@ -13,7 +13,7 @@
     "image": "/assets/images/17896357560165991255959562116210.jpg",
     "price": 15.0,
     "srbobran": -245,
-    "futog": -1467
+    "futog": -1469
   }
     
   ,
@@ -7265,7 +7265,7 @@
     "image": "/assets/images/148/lepak-stick-10g-1.jpg",
     "price": 90.0,
     "srbobran": 14,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -13159,7 +13159,7 @@
     "image": "/assets/images/17896357560165991255959562116210.jpg",
     "price": 20.0,
     "srbobran": -968,
-    "futog": -951
+    "futog": -955
   }
     
   ,
@@ -38905,7 +38905,7 @@
     "image": null,
     "price": 80.0,
     "srbobran": 15,
-    "futog": 16
+    "futog": 15
   }
     
   ,
@@ -42797,7 +42797,7 @@
     "image": null,
     "price": 150.0,
     "srbobran": 12,
-    "futog": 8
+    "futog": 6
   }
     
   ,
@@ -45975,7 +45975,7 @@
     "image": null,
     "price": 50.0,
     "srbobran": null,
-    "futog": -7
+    "futog": -17
   }
     
   ,
@@ -47235,7 +47235,7 @@
     "image": "/assets/images/531/selotejp-15-60-1.jpg",
     "price": 50.0,
     "srbobran": 20,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -48649,7 +48649,7 @@
     "image": null,
     "price": 170.0,
     "srbobran": 22,
-    "futog": 21
+    "futog": 20
   }
     
   ,
@@ -49923,7 +49923,7 @@
     "image": "/assets/images/704/set-cetkica-1-3-1.jpg",
     "price": 95.0,
     "srbobran": 5,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -51393,7 +51393,7 @@
     "image": null,
     "price": 300.0,
     "srbobran": -268,
-    "futog": -64
+    "futog": -65
   }
     
   ,
@@ -54331,7 +54331,7 @@
     "url": "/989/set-za-beleske-codex",
     "collection": "articles",
     "image": "/assets/images/989/set-za-beleske-codex-1.jpg",
-    "price": 715.0,
+    "price": 699.0,
     "srbobran": 2,
     "futog": 2
   }
@@ -54510,37 +54510,9 @@
   
   
   {
-    "title": "Welcome to Jekyll!",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/02/20/welcome-to-jekyll.html",
-    "collection": "posts",
-    "image": null,
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
     "title": "Poslednja ljubavna pesma - Lusinde Rajli",
     "sku": null,
     "url": "/2026/05/08/poslednja-ljubavna-pesma-lusinde-rajli.html",
-    "collection": "posts",
-    "image": "/assets/images/poslednja_ljubavna_pesma.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Poslednja ljubavna pesma - Lusinde Rajli",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/05/08/poslednja-ljubavna-pesma-lusinde-rajli.html",
     "collection": "posts",
     "image": "/assets/images/poslednja_ljubavna_pesma.webp",
     "price": null,
@@ -54566,20 +54538,6 @@
   
   
   {
-    "title": "Njegove bele rukavice Jelena Bačić Alimpić",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/05/15/njegove-bele-rukavice-jelena-bacic-alimpic.html",
-    "collection": "posts",
-    "image": "/assets/images/Njegove-bele-rukavice-h1600.avif",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
     "title": "Slika s morem - Fredrik Bakman",
     "sku": null,
     "url": "/2026/05/25/slika-s-morem-fredrik-bakman.html",
@@ -54594,37 +54552,9 @@
   
   
   {
-    "title": "Slika s morem - Fredrik Bakman",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/05/25/slika-s-morem-fredrik-bakman.html",
-    "collection": "posts",
-    "image": "/assets/images/Slika-s-morem-h1600.avif",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
     "title": "Olujna sestra - Lusinda Rajli",
     "sku": null,
     "url": "/2026/05/27/olujna-sestra-lusinda-rajli.html",
-    "collection": "posts",
-    "image": "/assets/images/Olujna-sestra-KORICE-w560.avif",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Olujna sestra - Lusinda Rajli",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/05/27/olujna-sestra-lusinda-rajli.html",
     "collection": "posts",
     "image": "/assets/images/Olujna-sestra-KORICE-w560.avif",
     "price": null,
@@ -54653,34 +54583,6 @@
     "title": "Ubiti pticu rugalicu - Harper Li",
     "sku": null,
     "url": "/2026/09/16/ubiti-pticu-rugalicu-harper-li.html",
-    "collection": "posts",
-    "image": "/assets/images/Harper-Li-UBITI-PTICU-RUGALICU_slika_O_155754881.jpg",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Senka vetra - Karlos Ruis Safon",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/16/senka-vetra-karlos-ruis-safon.html",
-    "collection": "posts",
-    "image": "/assets/images/CAR020231_w_800_800px.jpg",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Ubiti pticu rugalicu - Harper Li",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/16/ubiti-pticu-rugalicu-harper-li.html",
     "collection": "posts",
     "image": "/assets/images/Harper-Li-UBITI-PTICU-RUGALICU_slika_O_155754881.jpg",
     "price": null,
@@ -54737,62 +54639,6 @@
     "title": "Rusalkin poljubac - Kejt Kvin",
     "sku": null,
     "url": "/2026/09/17/rusalkin-poljubac-kejt-kvin.html",
-    "collection": "posts",
-    "image": "/assets/images/Rusalkin-poljubac-w1200.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Čovek po imenu Uve - Fredrik Bakman",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/17/covek-po-imenu-uve-fredrik-bakman.html",
-    "collection": "posts",
-    "image": "/assets/images/covek-po-imenu-uve-m-w560.avif",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Medvedgrad - Fredrik Bakman",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/17/medvedgrad-fredrik-bakman.html",
-    "collection": "posts",
-    "image": "/assets/images/medvedgrad-fredrik-bakman-m-h1200.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Povratak kući - Kejt Morton",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/17/povratak-kuci-kejt-morton.html",
-    "collection": "posts",
-    "image": "/assets/images/povratak-kuci-kejt-morton-w1200.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Rusalkin poljubac - Kejt Kvin",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/17/rusalkin-poljubac-kejt-kvin.html",
     "collection": "posts",
     "image": "/assets/images/Rusalkin-poljubac-w1200.webp",
     "price": null,
@@ -55003,216 +54849,6 @@
     "title": "Tetovažer iz Aušvica - Heder Moris",
     "sku": null,
     "url": "/2026/09/21/tetovazer-iz-ausvica-heder-moris.html",
-    "collection": "posts",
-    "image": "/assets/images/tetovazer-iz-ausvica-heder-moris-m-w1200.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "1000 čudesnih sunaca - Haled Hoseini",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/1000-cudesnih-sunaca-haled-hoseini.html",
-    "collection": "posts",
-    "image": "/assets/images/hiljadu-cudesnih-sunaca-haled-hoseini-m-w1200.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "999",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/999.html",
-    "collection": "posts",
-    "image": null,
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Beležnica - Nikolas Sparks",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/beleznica-nikolas-sparks.html",
-    "collection": "posts",
-    "image": "/assets/images/247705.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Deca zla - Miodrag Majić",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/deca-zla-miodrag-majic.html",
-    "collection": "posts",
-    "image": "/assets/images/images.jpg",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Dečak u prugastoj pidžami - Džon Bojn",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/decak-u-prugastoj-pidzami-dzon-bojn.html",
-    "collection": "posts",
-    "image": "/assets/images/24777.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Hipnotizer - Laš Kepler",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/hipnotizer-las-kepler.html",
-    "collection": "posts",
-    "image": "/assets/images/images%20(2).jpg",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Jedi, moli, voli - Elizabet Gilbert",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/jedi-moli-voli-elizabet-gilbert.html",
-    "collection": "posts",
-    "image": "/assets/images/343443_1200_1200px.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Kaluđer koji je prodao svoj ferari - Robin Šarma",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/kaluder-koji-je-prodao-svoj-ferari-robin-sarma.html",
-    "collection": "posts",
-    "image": "/assets/images/127562.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Kradljivica knjiga - Markus Zusak",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/kradljivica-knjiga-markus-zusak.html",
-    "collection": "posts",
-    "image": "/assets/images/kradljivica-knjiga-OMOTNICA-FILM-FINALNO-h600.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Lovac na zmajeve - Haled Hoseini",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/lovac-na-zmajeve-haled-hoseini.html",
-    "collection": "posts",
-    "image": "/assets/images/images%20(1).jpg",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Male žene - Luiza Mej Alkot",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/male-zene-luiza-mej-alkot.html",
-    "collection": "posts",
-    "image": "/assets/images/343619.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Ostrvo pelikana - Miodrag Majić",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/ostrvo-pelikana-miodrag-majic.html",
-    "collection": "posts",
-    "image": "/assets/images/348463.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Sedam sestara - Lusinda Rajli",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/sedam-sestara-lusinda-rajli.html",
-    "collection": "posts",
-    "image": "/assets/images/Sedam-sestara-h1200.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Sestra iz senke - Lusinda Rajli",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/sestra-iz-senke-lusinda-rajli.html",
-    "collection": "posts",
-    "image": "/assets/images/316357.jpg.webp",
-    "price": null,
-    "srbobran": null,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "Tetovažer iz Aušvica - Heder Moris",
-    "sku": null,
-    "url": "/assets/images/466/public/sites/63_knjizarasvrca.srb.in.rs/2026/09/21/tetovazer-iz-ausvica-heder-moris.html",
     "collection": "posts",
     "image": "/assets/images/tetovazer-iz-ausvica-heder-moris-m-w1200.webp",
     "price": null,

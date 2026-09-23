@@ -24,6 +24,10 @@ def permalink(sku, title)
   "/#{sku}/#{slug title}"
 end
 
+def out_of_stock_at_both_locations?(item)
+  item.fetch("srbobran", 0).to_i == 0 && item.fetch("futog", 0).to_i == 0
+end
+
 def existing_front_matter_and_body(path)
   return [{}, ""] unless File.exist?(path)
 
@@ -63,6 +67,7 @@ items = YAML.safe_load(File.read(STOCK_FILE))
 if items.is_a?(Hash)
   items.each do |sku, item|
     next unless item.is_a?(Hash)
+    next if out_of_stock_at_both_locations?(item)
 
     file_path = File.join(ARTICLES_DIR, "#{sku}.md")
     desired_files[file_path] = page_content(sku, item, file_path)
