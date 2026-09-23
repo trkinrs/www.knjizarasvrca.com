@@ -285,7 +285,7 @@
     results = results.filter(function(r) {
       var d = map[r.ref];
       var locationStock = Number(d[selectedLocation] || 0);
-      return selectedLocation === 'any' || locationStock !== 0;
+      return d.jeusluga == 1 || selectedLocation === 'any' || locationStock !== 0;
     });
 
     if (!results.length) {
@@ -299,7 +299,7 @@
         var srbobranStock = Number(d.srbobran || 0);
         var futogStock = Number(d.futog || 0);
         var stock = srbobranStock + futogStock;
-        var stockHtml = (srbobranStock < 0 || futogStock < 0) ? '' : stock > 0
+        var stockHtml = d.jeusluga == 1 ? '' : (srbobranStock < 0 || futogStock < 0) ? '' : stock > 0
           ? '<span style="color:#27ae60">&#9679; Na stanju</span>'
           : '<span style="color:#ccc">&#9679; Nije na stanju</span>';
         var imgHtml = d.image
