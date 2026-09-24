@@ -25,7 +25,9 @@ Dir.glob(File.join(root, "_articles", "*.md")).sort.each do |path|
   raise "Empty title slug: #{path}" if slug.empty?
 
   redirect = "/#{data['category']}/#{data['sku']}-#{slug}/"
-  redirects = (Array(data["redirect_from"]) + [redirect]).uniq
+  # An empty redirect is interpreted as "/" by jekyll-redirect-from and can
+  # replace the homepage with an article redirect.
+  redirects = (Array(data["redirect_from"]) + [redirect]).reject { |value| value.to_s.empty? }.uniq
   next if data["redirect_from"] == redirects
 
   data["redirect_from"] = redirects

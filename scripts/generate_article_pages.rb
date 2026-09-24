@@ -47,6 +47,9 @@ end
 
 def page_content(sku, item, path)
   existing_front_matter, body = existing_front_matter_and_body(path)
+  # Empty redirect paths are treated as the site root by jekyll-redirect-from.
+  # Keep only real legacy paths when carrying metadata forward.
+  existing_front_matter["redirect_from"] = Array(existing_front_matter["redirect_from"]).reject { |redirect| redirect.to_s.empty? }
   front_matter = {
     "layout" => "article",
   }.merge(existing_front_matter).merge(
