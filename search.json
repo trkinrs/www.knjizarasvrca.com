@@ -1199,7 +1199,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 21,
-    "futog": 23
+    "futog": 22
   }
     
   ,
@@ -2263,7 +2263,7 @@
     "image": "/assets/images/1370/dosije-20-30-dzepova-1.jpg",
     "price": 335.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -6089,7 +6089,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 69
+    "futog": 66
   }
     
   ,
@@ -7378,7 +7378,7 @@
     "image": "/assets/images/1900/termo-rolna-80-70mm-1.jpg",
     "price": 225.0,
     "jeusluga": 0,
-    "srbobran": 42,
+    "srbobran": 30,
     "futog": 8
   }
     
@@ -8518,7 +8518,7 @@
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": 9
   }
     
@@ -17039,7 +17039,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 6,
-    "futog": 8
+    "futog": 6
   }
     
   ,
@@ -22034,7 +22034,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 8
+    "futog": 6
   }
     
   ,
@@ -26698,7 +26698,7 @@
     "image": "/assets/images/328/jederman-1.jpg",
     "price": 55.0,
     "jeusluga": 0,
-    "srbobran": 16,
+    "srbobran": 15,
     "futog": null
   }
     
@@ -28768,7 +28768,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 44,
+    "srbobran": 43,
     "futog": 50
   }
     
@@ -38713,7 +38713,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 304,
+    "srbobran": 303,
     "futog": 316
   }
     
@@ -40078,7 +40078,7 @@
     "image": "/assets/images/599/dosije-boja-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 47,
+    "srbobran": 46,
     "futog": 33
   }
     
@@ -40514,7 +40514,7 @@
     "price": 75.0,
     "jeusluga": 0,
     "srbobran": 41,
-    "futog": 46
+    "futog": 45
   }
     
   ,
@@ -40573,7 +40573,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": -1,
+    "srbobran": -3,
     "futog": 8
   }
     
@@ -42404,7 +42404,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 49,
-    "futog": 44
+    "futog": 42
   }
     
   ,
@@ -44549,7 +44549,7 @@
     "price": 1.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -44683,7 +44683,7 @@
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 26,
+    "srbobran": 25,
     "futog": 14
   }
     
