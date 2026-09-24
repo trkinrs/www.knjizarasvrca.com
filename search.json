@@ -8816,7 +8816,7 @@
     "url": "/203/gel-olovka-tg/",
     "collection": "articles",
     "image": "/assets/images/203/gel-olovka-tg-1.jpg",
-    "price": 195.0,
+    "price": 159.0,
     "jeusluga": 0,
     "srbobran": 11,
     "futog": 7
@@ -8996,7 +8996,7 @@
     "url": "/205/ho-6-boja/",
     "collection": "articles",
     "image": "/assets/images/205/ho-6-boja-1.jpg",
-    "price": 135.0,
+    "price": 119.0,
     "jeusluga": 0,
     "srbobran": 10,
     "futog": 10
@@ -9071,7 +9071,7 @@
     "url": "/206/ho-10-boja/",
     "collection": "articles",
     "image": "/assets/images/206/ho-10-boja-1.jpg",
-    "price": 195.0,
+    "price": 159.0,
     "jeusluga": 0,
     "srbobran": 9,
     "futog": 7
@@ -10886,7 +10886,7 @@
     "url": "/2224/crvici-na-navijanje/",
     "collection": "articles",
     "image": null,
-    "price": 250.0,
+    "price": 199.0,
     "jeusluga": 0,
     "srbobran": 3,
     "futog": 5
@@ -29181,21 +29181,6 @@
   
   
   {
-    "title": "VU - DŽERONIMO STILTON - PRIČE PUNE SMEHA - TAJNA MEMLJIVE LUKE",
-    "sku": 3449,
-    "url": "/3449/vu-dzeronimo-stilton-price-pune-smeha-tajna-memljive-luke/",
-    "collection": "articles",
-    "image": null,
-    "price": 999.02,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "VU - DŽERONIMO STILTON - PUTOVANJE KROZ VREME 6 - LEGENDA O ATILINOM MAČU",
     "sku": 3450,
     "url": "/3450/vu-dzeronimo-stilton-putovanje-kroz-vreme-6-legenda-o-atilinom-macu/",
@@ -31424,7 +31409,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 32,
-    "futog": 29
+    "futog": 24
   }
     
   ,
@@ -32625,21 +32610,6 @@
     "jeusluga": 0,
     "srbobran": 15,
     "futog": 15
-  }
-    
-  ,
-  
-  
-  {
-    "title": "OD - DNEVNIK JEDNE SKORO PA TINEJDŽERKE 3 - OVDE NEŠTO SMRDUCKA",
-    "sku": 3709,
-    "url": "/3709/od-dnevnik-jedne-skoro-pa-tinejdzerke-3-ovde-nesto-smrducka/",
-    "collection": "articles",
-    "image": null,
-    "price": 792.01,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
   }
     
   ,
@@ -38744,7 +38714,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 304,
-    "futog": 317
+    "futog": 316
   }
     
   ,
@@ -39239,7 +39209,7 @@
     "price": 95.0,
     "jeusluga": 0,
     "srbobran": 12,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -41501,7 +41471,7 @@
     "url": "/700/reket-pvc/",
     "collection": "articles",
     "image": "/assets/images/700/reket-pvc-1.jpg",
-    "price": 495.0,
+    "price": 399.0,
     "jeusluga": 0,
     "srbobran": 2,
     "futog": 1
@@ -44531,7 +44501,7 @@
     "url": "/936/maska-za-spavanje/",
     "collection": "articles",
     "image": "/assets/images/936/maska-za-spavanje-1.jpg",
-    "price": 1365.0,
+    "price": 1199.0,
     "jeusluga": 0,
     "srbobran": 1,
     "futog": 2
