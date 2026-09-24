@@ -164,5 +164,14 @@ task commit_and_push: [ :commit_and_push_with_rebase, :deploy ]
 
 desc "Pull the repo"
 task :pull do |task, args|
+  has_local_changes = !`git status --porcelain`.empty?
+
+  unless has_local_changes
+    sh "git pull --rebase"
+    next
+  end
+
+  sh "git stash push --include-untracked -m 'Temporary stash for litepage pull'"
   sh "git pull --rebase"
+  sh "git stash pop"
 end
