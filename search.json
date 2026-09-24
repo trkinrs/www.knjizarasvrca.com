@@ -15703,7 +15703,7 @@
     "image": "/assets/images/2557/geografski-atlas-1.jpg",
     "price": 1550.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 2
   }
     
@@ -18913,7 +18913,7 @@
     "image": "/assets/images/2774/marker-0-6-cp-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 55,
+    "srbobran": 52,
     "futog": 49
   }
     
@@ -39673,7 +39673,7 @@
     "image": "/assets/images/556/marker-cn-kosi-vrh-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 38,
+    "srbobran": 36,
     "futog": 11
   }
     
@@ -39913,7 +39913,7 @@
     "image": "/assets/images/573/blok-kocka-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 2
   }
     
@@ -40648,7 +40648,7 @@
     "image": null,
     "price": 280.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
