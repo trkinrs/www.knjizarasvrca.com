@@ -5114,7 +5114,7 @@
     "price": 280.0,
     "jeusluga": 0,
     "srbobran": 7,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -10896,36 +10896,6 @@
   
   
   {
-    "title": "IQ TWINS - SG 306",
-    "sku": 2225,
-    "url": "/2225/iq-twins-sg-306/",
-    "collection": "articles",
-    "image": null,
-    "price": 1945.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "IQ FIT - SG 423",
-    "sku": 2227,
-    "url": "/2227/iq-fit-sg-423/",
-    "collection": "articles",
-    "image": null,
-    "price": 805.0,
-    "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "NALIV PERO OF",
     "sku": 2228,
     "url": "/2228/naliv-pero-of/",
@@ -10986,21 +10956,6 @@
   
   
   {
-    "title": "IQ LOVE - SG 302",
-    "sku": 2232,
-    "url": "/2232/iq-love-sg-302/",
-    "collection": "articles",
-    "image": null,
-    "price": 2375.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠUMA",
     "sku": 2233,
     "url": "/2233/pp-moja-prva-knjiga-sa-nalepnicama-suma/",
@@ -11031,51 +10986,6 @@
   
   
   {
-    "title": "JUMPIN - SG 421",
-    "sku": 2235,
-    "url": "/2235/jumpin-sg-421/",
-    "collection": "articles",
-    "image": null,
-    "price": 2810.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "SQUIRRELS GO NUTS! - SG 425",
-    "sku": 2236,
-    "url": "/2236/squirrels-go-nuts-sg-425/",
-    "collection": "articles",
-    "image": null,
-    "price": 2810.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "GOOAL! - SGT 320",
-    "sku": 2237,
-    "url": "/2237/gooal-sgt-320/",
-    "collection": "articles",
-    "image": null,
-    "price": 1840.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "PP - MOJA PRVA KNJIGA SA NALEPNICAMA - ŠKOLA JAHANJA",
     "sku": 2238,
     "url": "/2238/pp-moja-prva-knjiga-sa-nalepnicama-skola-jahanja/",
@@ -11091,21 +11001,6 @@
   
   
   {
-    "title": "PUZZLE BEACH - SGT 300",
-    "sku": 2239,
-    "url": "/2239/puzzle-beach-sgt-300/",
-    "collection": "articles",
-    "image": null,
-    "price": 1840.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "MINE ZA ŠESTAR 4872",
     "sku": 224,
     "url": "/224/mine-za-sestar-4872/",
@@ -11115,36 +11010,6 @@
     "jeusluga": 0,
     "srbobran": 3,
     "futog": 5
-  }
-    
-  ,
-  
-  
-  {
-    "title": "IQ BUBBLES - SG 493",
-    "sku": 2240,
-    "url": "/2240/iq-bubbles-sg-493/",
-    "collection": "articles",
-    "image": null,
-    "price": 1945.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "IQ DELUXE - CIRCLE - SG 311",
-    "sku": 2241,
-    "url": "/2241/iq-deluxe-circle-sg-311/",
-    "collection": "articles",
-    "image": null,
-    "price": 3565.0,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
   }
     
   ,
@@ -38879,7 +38744,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 304,
-    "futog": 319
+    "futog": 317
   }
     
   ,
