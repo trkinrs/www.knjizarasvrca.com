@@ -21,7 +21,7 @@ def slug(str)
 end
 
 def permalink(sku, title)
-  "/#{sku}/#{slug title}"
+  "/#{sku}/#{slug title}/"
 end
 
 def out_of_stock_at_both_locations?(item)
