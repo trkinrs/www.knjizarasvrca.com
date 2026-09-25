@@ -10461,21 +10461,6 @@
   
   
   {
-    "title": "STIKERI JEDNOROG",
-    "sku": 2191,
-    "url": "/2191/stikeri-jednorog/",
-    "collection": "articles",
-    "image": null,
-    "price": 190.0,
-    "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "SET STIKERA ",
     "sku": 2192,
     "url": "/2192/set-stikera/",
@@ -31304,7 +31289,7 @@
     "price": 255.0,
     "jeusluga": 0,
     "srbobran": 6,
-    "futog": 4
+    "futog": 2
   }
     
   ,
