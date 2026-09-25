@@ -1986,21 +1986,6 @@
   
   
   {
-    "title": "UVIJAČ B5+",
-    "sku": 1348,
-    "url": "/1348/uvijac-b5/",
-    "collection": "articles",
-    "image": "/assets/images/1348/uvijac-b5-1.jpg",
-    "price": 50.0,
-    "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
-  }
-    
-  ,
-  
-  
-  {
     "title": "HEY BABY!",
     "sku": 1349,
     "url": "/1349/hey-baby/",
@@ -13244,7 +13229,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 20
+    "futog": 12
   }
     
   ,
@@ -38293,7 +38278,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 45,
+    "srbobran": 42,
     "futog": 0
   }
     
@@ -39179,7 +39164,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 650,
-    "futog": 150
+    "futog": 147
   }
     
   ,
@@ -39674,7 +39659,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 154,
-    "futog": 47
+    "futog": 42
   }
     
   ,
@@ -39928,7 +39913,7 @@
     "image": null,
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 101,
+    "srbobran": 100,
     "futog": 81
   }
     
@@ -40724,7 +40709,7 @@
     "price": 1099.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
