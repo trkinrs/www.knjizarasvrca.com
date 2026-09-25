@@ -943,7 +943,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 52,
+    "srbobran": 16,
     "futog": 18
   }
     
@@ -1843,7 +1843,7 @@
     "image": "/assets/images/133/gumica-sc-319-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 24
   }
     
@@ -2023,7 +2023,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": null
   }
     
@@ -2308,7 +2308,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 96,
+    "srbobran": 95,
     "futog": 61
   }
     
@@ -2413,7 +2413,7 @@
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 41,
+    "srbobran": 37,
     "futog": 6
   }
     
@@ -2983,7 +2983,7 @@
     "image": "/assets/images/142/rezac-maped-mini-boogy-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 41,
+    "srbobran": 39,
     "futog": 42
   }
     
@@ -4183,7 +4183,7 @@
     "image": "/assets/images/153/ho-a-plus-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 9,
     "futog": 0
   }
     
@@ -4528,7 +4528,7 @@
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 46,
+    "srbobran": 45,
     "futog": 0
   }
     
@@ -7064,7 +7064,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 13
+    "futog": 12
   }
     
   ,
@@ -8489,7 +8489,7 @@
     "price": 435.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -8909,7 +8909,7 @@
     "price": 120.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 11
+    "futog": 10
   }
     
   ,
@@ -10731,21 +10731,6 @@
   
   
   {
-    "title": "KREDE ZA BETON",
-    "sku": 2212,
-    "url": "/2212/krede-za-beton/",
-    "collection": "articles",
-    "image": "/assets/images/2212/krede-za-beton-1.jpg",
-    "price": 160.0,
-    "jeusluga": 0,
-    "srbobran": 1,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
     "title": "VU - TEA STILTON",
     "sku": 2213,
     "url": "/2213/vu-tea-stilton/",
@@ -10934,7 +10919,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -16409,7 +16394,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 9
+    "futog": 7
   }
     
   ,
@@ -18868,7 +18853,7 @@
     "image": "/assets/images/278/rezac-igloo-2-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": 29
   }
     
@@ -27340,7 +27325,7 @@
     "sku": 3320,
     "url": "/3320/nema-karta-v-viii/",
     "collection": "articles",
-    "image": "/assets/images/17902516647675585721822532020912.jpg",
+    "image": "/assets/images/17902554743772044337749420111409.jpg",
     "price": 295.0,
     "jeusluga": 0,
     "srbobran": 45,
@@ -32939,7 +32924,7 @@
     "price": 90.0,
     "jeusluga": 0,
     "srbobran": 24,
-    "futog": 22
+    "futog": 21
   }
     
   ,
@@ -33958,7 +33943,7 @@
     "image": "/assets/images/3806/vu-moja-prva-slikovna-enciklopedija-1.jpg",
     "price": 699.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -38263,7 +38248,7 @@
     "image": "/assets/images/456/ho-r301-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 31,
+    "srbobran": 29,
     "futog": 38
   }
     
@@ -38623,7 +38608,7 @@
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 126,
+    "srbobran": 122,
     "futog": 39
   }
     
@@ -39209,7 +39194,7 @@
     "price": 95.0,
     "jeusluga": 0,
     "srbobran": 12,
-    "futog": 16
+    "futog": 14
   }
     
   ,
@@ -39733,7 +39718,7 @@
     "image": "/assets/images/572/blok-sl-1-400-1.jpg",
     "price": 190.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -39899,21 +39884,6 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 0
-  }
-    
-  ,
-  
-  
-  {
-    "title": "KOVERAT A/4 SL",
-    "sku": 587,
-    "url": "/587/koverat-a-4-sl/",
-    "collection": "articles",
-    "image": null,
-    "price": 25.0,
-    "jeusluga": 0,
-    "srbobran": 50,
     "futog": 0
   }
     
@@ -41038,7 +41008,7 @@
     "image": "/assets/images/8.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -41428,7 +41398,7 @@
     "image": "/assets/images/viber_image_2026-09-23_12-19-52-131.jpg",
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 2,
     "futog": 5
   }
     
@@ -41503,7 +41473,7 @@
     "image": "/assets/images/704/set-cetkica-1-3-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 1
   }
     
@@ -41728,7 +41698,7 @@
     "image": "/assets/images/720/sponke-maped-24-6-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 35,
+    "srbobran": 30,
     "futog": 13
   }
     
@@ -41864,7 +41834,7 @@
     "price": 455.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 11
+    "futog": 10
   }
     
   ,
@@ -42178,7 +42148,7 @@
     "image": "/assets/images/751/obrazac-2-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 11,
     "futog": 4
   }
     
@@ -44263,7 +44233,7 @@
     "image": "/assets/images/909/gumica-sc-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -44369,7 +44339,7 @@
     "price": 95.0,
     "jeusluga": 0,
     "srbobran": 23,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -44563,7 +44533,7 @@
     "image": "/assets/images/94/drvena-boja-1-12-maped-1.jpg",
     "price": 440.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 3
   }
     
@@ -44698,7 +44668,7 @@
     "image": "/assets/images/95/drvena-boja-1-12-sc-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -44773,7 +44743,7 @@
     "image": "/assets/images/13.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 12,
     "futog": 20
   }
     
