@@ -15523,7 +15523,7 @@
     "image": "/assets/images/2557/geografski-atlas-1.jpg",
     "price": 1550.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 2
   }
     
@@ -19064,7 +19064,7 @@
     "price": 1600.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -27283,7 +27283,7 @@
     "image": "/assets/images/17902554743772044337749420111409.jpg",
     "price": 295.0,
     "jeusluga": 0,
-    "srbobran": 45,
+    "srbobran": 44,
     "futog": 24
   }
     
@@ -44639,7 +44639,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 5,
-    "futog": 17
+    "futog": 13
   }
     
   ,
