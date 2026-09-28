@@ -635,23 +635,6 @@
   
   
   {
-    "title": "KALKULATOR 82MS-D",
-    "content": "\n",
-    "sku": 1021,
-    "url": "/1021/kalkulator-82ms-d/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 425.0,
-    "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "OL HB SC",
     "content": "\n",
     "sku": 103,
@@ -5966,7 +5949,7 @@
     "price": 299.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -11253,7 +11236,7 @@
     "price": 2160.0,
     "jeusluga": 0,
     "srbobran": 4,
-    "futog": 3
+    "futog": 2
   }
     
   ,
@@ -42243,7 +42226,7 @@
     "image": "/assets/images/432/termo-rolna-57-48mm-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 38,
     "futog": 20
   }
     
@@ -43722,7 +43705,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 42,
+    "srbobran": 39,
     "futog": 0
   }
     
@@ -48330,7 +48313,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 49,
-    "futog": 42
+    "futog": 41
   }
     
   ,
@@ -49859,7 +49842,7 @@
     "image": "/assets/images/875/knjiga-sanka-t-1.jpg",
     "price": 335.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -51151,7 +51134,7 @@
     "image": "/assets/images/966/roler-ah-832-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": 0
   }
     
