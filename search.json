@@ -9994,7 +9994,7 @@
     "image": null,
     "price": 435.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -26212,7 +26212,7 @@
     "image": "/assets/images/3036/torba-za-blok-v-1.jpg",
     "price": 199.0,
     "jeusluga": 0,
-    "srbobran": 41,
+    "srbobran": 39,
     "futog": 21
   }
     
@@ -35587,23 +35587,6 @@
   
   
   {
-    "title": "VU - ZABAVNI KVIZ - SUNČEV SISTEM",
-    "content": "\n",
-    "sku": 3601,
-    "url": "/3601/vu-zabavni-kviz-suncev-sistem/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 599.03,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "VU - ZABAVNI ZADACI ZA RADOZNALCE 1",
     "content": "\n",
     "sku": 3603,
@@ -41173,7 +41156,7 @@
     "price": 595.0,
     "jeusluga": 0,
     "srbobran": 3,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -45660,7 +45643,7 @@
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 31,
+    "srbobran": 30,
     "futog": 59
   }
     
