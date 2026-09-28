@@ -181,7 +181,7 @@
   </header>
 
   <div class="post-content">
-    <p><input id="search-input" type="search" placeholder="Pretraži proizvode..." autofocus="" style="width:100%;padding:0.6rem 0.8rem;font-size:1.1rem;border:1px solid #ccc;border-radius:6px;box-sizing:border-box;margin-bottom:1.5rem;" /></p>
+    <p><input id="search-input" type="search" placeholder="Pretraži proizvode, objave i članke..." autofocus="" style="width:100%;padding:0.6rem 0.8rem;font-size:1.1rem;border:1px solid #ccc;border-radius:6px;box-sizing:border-box;margin-bottom:1.5rem;" /></p>
 
 <p><label for="search-location" style="display:block;margin-bottom:1.5rem;">
   Dostupnost:
@@ -225,13 +225,15 @@
       docs = data;
       idx = lunr(function() {
         this.ref('url');
-        this.field('title', { boost: 10 });
+        this.field('title', { boost: 25 });
+        this.field('content');
         this.field('sku',   { boost: 5 });
         this.field('collection');
         data.forEach(function(doc) {
           this.add({
             url: doc.url,
             title: normalizeForSearch(doc.title),
+            content: normalizeForSearch(doc.content),
             sku: normalizeForSearch(doc.sku),
             collection: normalizeForSearch(doc.collection)
           });
@@ -284,6 +286,7 @@
     var selectedLocation = document.getElementById('search-location').value;
     results = results.filter(function(r) {
       var d = map[r.ref];
+      if (d.kind === 'post') { return true; }
       var locationStock = Number(d[selectedLocation] || 0);
       return d.jeusluga == 1 || selectedLocation === 'any' || locationStock !== 0;
     });
@@ -310,7 +313,7 @@
           '<a href="' + escHtml(d.url) + '">' + imgHtml + '</a>' +
           '<div>' +
             '<a href="' + escHtml(d.url) + '" style="font-size:1rem;font-weight:bold;display:block">' + escHtml(d.title) + '</a>' +
-            '<small style="color:#888">šifra ' + escHtml(String(d.sku)) + ' &mdash; ' + escHtml(d.collection) + '</small><br>' +
+            '<small style="color:#888">' + (d.kind === 'post' ? 'Objava' : 'šifra ' + escHtml(String(d.sku)) + ' &mdash; ' + escHtml(d.collection)) + '</small><br>' +
             priceHtml + ' ' + stockHtml +
           '</div>' +
           '</li>';
