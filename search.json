@@ -34559,7 +34559,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 20,
+    "srbobran": 10,
     "futog": 20
   }
     
@@ -45541,7 +45541,7 @@
     "image": null,
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 100,
+    "srbobran": 99,
     "futog": 81
   }
     
@@ -49859,7 +49859,7 @@
     "image": "/assets/images/876/knjiga-sanka-ncr-1.jpg",
     "price": 340.0,
     "jeusluga": 0,
-    "srbobran": 16,
+    "srbobran": 13,
     "futog": 2
   }
     
