@@ -1444,7 +1444,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 18
+    "futog": 17
   }
     
   ,
@@ -7690,23 +7690,6 @@
   
   
   {
-    "title": "METALOFON ŠKOLSKI SREDNJI",
-    "content": "\n",
-    "sku": 1808,
-    "url": "/1808/metalofon-skolski-srednji/",
-    "collection": "articles",
-    "kind": "article",
-    "image": "/assets/images/1808/notaton-jednoredni-1.jpg",
-    "price": 2750.0,
-    "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "NEDELJNI PLANER A/5",
     "content": "\n",
     "sku": 181,
@@ -8040,7 +8023,7 @@
     "price": 90.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 23
+    "futog": 22
   }
     
   ,
@@ -13276,7 +13259,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 61,
-    "futog": 22
+    "futog": 21
   }
     
   ,
@@ -14058,7 +14041,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 21
+    "futog": 19
   }
     
   ,
@@ -20331,7 +20314,7 @@
     "price": 320.0,
     "jeusluga": 0,
     "srbobran": 31,
-    "futog": 20
+    "futog": 19
   }
     
   ,
@@ -23136,7 +23119,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 9,
-    "futog": 3
+    "futog": 1
   }
     
   ,
@@ -23918,7 +23901,7 @@
     "price": 695.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -28865,7 +28848,7 @@
     "price": 1350.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -37593,23 +37576,6 @@
   
   
   {
-    "title": "OD - DORA GLAVA U OBLACIMA",
-    "content": "\n",
-    "sku": 3729,
-    "url": "/3729/od-dora-glava-u-oblacima/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 792.01,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "ČESTITKA MINI",
     "content": "\n",
     "sku": 373,
@@ -40085,7 +40051,7 @@
     "price": 1099.02,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -44351,7 +44317,7 @@
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
     "jeusluga": 0,
-    "srbobran": 38,
+    "srbobran": 36,
     "futog": 0
   }
     
@@ -49945,7 +49911,7 @@
     "price": 110.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 8
+    "futog": 7
   }
     
   ,
@@ -50744,7 +50710,7 @@
     "price": 1.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 16
+    "futog": 15
   }
     
   ,
