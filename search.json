@@ -559,7 +559,7 @@
     "image": null,
     "price": 985.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -10454,7 +10454,7 @@
     "price": 120.0,
     "jeusluga": 0,
     "srbobran": 6,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -43705,7 +43705,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 39,
+    "srbobran": 37,
     "futog": 0
   }
     
@@ -44062,7 +44062,7 @@
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 122,
+    "srbobran": 117,
     "futog": 39
   }
     
@@ -46069,7 +46069,7 @@
     "price": 170.0,
     "jeusluga": 0,
     "srbobran": 22,
-    "futog": 19
+    "futog": 18
   }
     
   ,
@@ -47207,7 +47207,7 @@
     "image": "/assets/images/viber_image_2026-09-23_12-19-52-131.jpg",
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 0
   }
     
@@ -50250,7 +50250,7 @@
     "image": "/assets/images/898/gumica-b-40-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 15,
     "futog": 30
   }
     
@@ -51134,7 +51134,7 @@
     "image": "/assets/images/966/roler-ah-832-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 0
   }
     
@@ -51508,7 +51508,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 29,
+    "srbobran": 26,
     "futog": 23
   }
     
