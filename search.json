@@ -2021,7 +2021,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 152,
+    "srbobran": 147,
     "futog": 74
   }
     
@@ -2378,7 +2378,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -3058,7 +3058,7 @@
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 37,
+    "srbobran": 36,
     "futog": 6
   }
     
@@ -4316,7 +4316,7 @@
     "image": "/assets/images/148/lepak-stick-10g-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 7,
     "futog": 0
   }
     
@@ -7274,7 +7274,7 @@
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
     "jeusluga": 0,
-    "srbobran": 38,
+    "srbobran": 35,
     "futog": 18
   }
     
@@ -8533,23 +8533,6 @@
     "price": 499.0,
     "jeusluga": 0,
     "srbobran": 8,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "KANAP 200G",
-    "content": "\n",
-    "sku": 1895,
-    "url": "/1895/kanap-200g/",
-    "collection": "articles",
-    "kind": "article",
-    "image": "/assets/images/1895/kanap-200g-1.jpg",
-    "price": 350.0,
-    "jeusluga": 0,
-    "srbobran": 1,
     "futog": null
   }
     
@@ -10640,7 +10623,7 @@
     "image": "/assets/images/207/to-pentel-0-5-1.jpg",
     "price": 125.0,
     "jeusluga": 0,
-    "srbobran": 21,
+    "srbobran": 20,
     "futog": 20
   }
     
@@ -11847,7 +11830,7 @@
     "image": null,
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 11,
     "futog": 7
   }
     
@@ -12374,7 +12357,7 @@
     "image": null,
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 14,
+    "srbobran": 12,
     "futog": null
   }
     
@@ -12527,7 +12510,7 @@
     "image": null,
     "price": 4570.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 4
   }
     
@@ -15282,7 +15265,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 12
+    "futog": 0
   }
     
   ,
@@ -18392,7 +18375,7 @@
     "image": "/assets/images/2585/ciode-pluta-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -18562,7 +18545,7 @@
     "image": null,
     "price": 280.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -21062,7 +21045,7 @@
     "price": 999.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -25209,7 +25192,7 @@
     "image": "/assets/images/2989/notna-sveska-b-5-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 16,
+    "srbobran": 15,
     "futog": 6
   }
     
@@ -35800,7 +35783,7 @@
     "image": null,
     "price": 275.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -40866,7 +40849,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 19
   }
     
@@ -42107,7 +42090,7 @@
     "image": "/assets/images/43/oho-lepak-40g-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 1
   }
     
@@ -44079,8 +44062,8 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 296,
-    "futog": 316
+    "srbobran": 295,
+    "futog": 311
   }
     
   ,
@@ -44266,7 +44249,7 @@
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
     "jeusluga": 0,
-    "srbobran": 36,
+    "srbobran": 35,
     "futog": 0
   }
     
@@ -44555,7 +44538,7 @@
     "image": "/assets/images/524/termo-rolna-57-40mm-1.jpg",
     "price": 65.0,
     "jeusluga": 0,
-    "srbobran": 55,
+    "srbobran": 54,
     "futog": 10
   }
     
@@ -47564,7 +47547,7 @@
     "image": "/assets/images/727/ciode-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 2
   }
     
@@ -47870,7 +47853,7 @@
     "image": "/assets/images/746/obrazac-1-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 7
   }
     
@@ -48228,7 +48211,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 49,
-    "futog": 37
+    "futog": 35
   }
     
   ,
@@ -49995,7 +49978,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 6
   }
     
@@ -50012,7 +49995,7 @@
     "image": "/assets/images/89/das-masa-500g-1.jpg",
     "price": 435.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
