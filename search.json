@@ -1145,23 +1145,6 @@
   
   
   {
-    "title": "ATAŠE PODLOGA",
-    "content": "\n",
-    "sku": 1111,
-    "url": "/1111/atase-podloga/",
-    "collection": "articles",
-    "kind": "article",
-    "image": "/assets/images/1111/atase-podloga-1.jpg",
-    "price": 330.0,
-    "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 0
-  }
-    
-  ,
-  
-  
-  {
     "title": "MARKER CD/DVD OF",
     "content": "\n",
     "sku": 1118,
@@ -2363,23 +2346,6 @@
     "jeusluga": 0,
     "srbobran": 1,
     "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "LENJIR 30CM",
-    "content": "\n",
-    "sku": 1318,
-    "url": "/1318/lenjir-30cm/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 880.0,
-    "jeusluga": 0,
-    "srbobran": 1,
-    "futog": null
   }
     
   ,
@@ -11168,7 +11134,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 43,
-    "futog": 20
+    "futog": 19
   }
     
   ,
@@ -12069,7 +12035,7 @@
     "price": 15.0,
     "jeusluga": 0,
     "srbobran": 383,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -44895,7 +44861,7 @@
     "image": "/assets/images/55/ugalj-za-crtanje-1-1-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 4,
     "futog": 4
   }
     
@@ -47020,7 +46986,7 @@
     "image": null,
     "price": 550.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 9,
     "futog": 0
   }
     
