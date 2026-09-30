@@ -1715,7 +1715,7 @@
     "image": "/assets/images/121/mine-0-5-staedtler-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 21,
+    "srbobran": 18,
     "futog": 22
   }
     
@@ -3891,7 +3891,7 @@
     "image": "/assets/images/143/tempera-42ml-1.jpg",
     "price": 190.0,
     "jeusluga": 0,
-    "srbobran": 23,
+    "srbobran": 22,
     "futog": 4
   }
     
@@ -9911,23 +9911,6 @@
     "jeusluga": 0,
     "srbobran": null,
     "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "FASCIKLA 3CM",
-    "content": "\n",
-    "sku": 1988,
-    "url": "/1988/fascikla-3cm/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 435.0,
-    "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 0
   }
     
   ,
@@ -30156,7 +30139,7 @@
     "image": null,
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": null
   }
     
@@ -44096,7 +44079,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 302,
+    "srbobran": 296,
     "futog": 316
   }
     
