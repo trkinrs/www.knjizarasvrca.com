@@ -7580,7 +7580,7 @@
     "image": null,
     "price": 290.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": 7
   }
     
@@ -25789,23 +25789,6 @@
     "jeusluga": 0,
     "srbobran": null,
     "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "KALKULATOR ELEVEN LC-310N",
-    "content": "\n",
-    "sku": 302,
-    "url": "/302/kalkulator-eleven-lc-310n/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 625.0,
-    "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 0
   }
     
   ,
@@ -49349,7 +49332,7 @@
     "image": "/assets/images/85/sestar-blue-pink-1.jpg",
     "price": 310.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 1
   }
     
