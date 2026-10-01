@@ -849,7 +849,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 13
+    "futog": 11
   }
     
   ,
@@ -2922,7 +2922,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 84,
+    "srbobran": 68,
     "futog": 60
   }
     
@@ -4571,7 +4571,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 15,
     "futog": 0
   }
     
@@ -4774,23 +4774,6 @@
     "kind": "article",
     "image": null,
     "price": 990.01,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
-    "title": "KC - GROZON",
-    "content": "\n",
-    "sku": 1514,
-    "url": "/1514/kc-grozon/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 1050.0,
     "jeusluga": 0,
     "srbobran": null,
     "futog": 1
@@ -10487,7 +10470,7 @@
     "image": "/assets/images/205/ho-6-boja-1.jpg",
     "price": 119.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 8,
     "futog": 10
   }
     
@@ -17899,7 +17882,7 @@
     "image": "/assets/images/2557/geografski-atlas-1.jpg",
     "price": 1550.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -44232,7 +44215,7 @@
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
     "jeusluga": 0,
-    "srbobran": 35,
+    "srbobran": 34,
     "futog": 0
   }
     
@@ -48193,7 +48176,7 @@
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 49,
+    "srbobran": 46,
     "futog": 34
   }
     
