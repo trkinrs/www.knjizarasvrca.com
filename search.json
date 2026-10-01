@@ -1604,23 +1604,6 @@
   
   
   {
-    "title": "DOSIJE 40 DŽEPOVA",
-    "content": "\n",
-    "sku": 1199,
-    "url": "/1199/dosije-40-dzepova/",
-    "collection": "articles",
-    "kind": "article",
-    "image": "/assets/images/1199/dosije-40-dzepova-1.jpg",
-    "price": 360.0,
-    "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "SVESKA A/5 TP 80L",
     "content": "\n",
     "sku": 12,
@@ -2939,7 +2922,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 85,
+    "srbobran": 84,
     "futog": 60
   }
     
@@ -6918,7 +6901,7 @@
     "price": 950.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -9808,7 +9791,7 @@
     "price": 799.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -23288,7 +23271,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 516,
+    "srbobran": 514,
     "futog": 478
   }
     
@@ -34992,23 +34975,6 @@
   
   
   {
-    "title": "VU - PUSTOLOVINE KAPETANA GAĆERONEA",
-    "content": "\n",
-    "sku": 3564,
-    "url": "/3564/vu-pustolovine-kapetana-gaceronea/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 999.02,
-    "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
-  }
-    
-  ,
-  
-  
-  {
     "title": "VU - RADNA SVESKA ZA TALENTOVANU DECU - KONCENTRACIJA 4-5 GODINA",
     "content": "\n",
     "sku": 3565,
@@ -39915,7 +39881,7 @@
     "price": 999.02,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -43620,7 +43586,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 37,
+    "srbobran": 35,
     "futog": 0
   }
     
@@ -44606,7 +44572,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 650,
+    "srbobran": 610,
     "futog": 147
   }
     
@@ -51390,7 +51356,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 5,
-    "futog": 8
+    "futog": 6
   }
     
   ,
