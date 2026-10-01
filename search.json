@@ -43893,7 +43893,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 31,
-    "futog": 27
+    "futog": 26
   }
     
   ,
@@ -43961,7 +43961,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 17,
-    "futog": 28
+    "futog": 27
   }
     
   ,
@@ -51050,7 +51050,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 0
+    "futog": -1
   }
     
   ,
