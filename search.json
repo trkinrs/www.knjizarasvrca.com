@@ -2352,23 +2352,6 @@
   
   
   {
-    "title": "LENJIR 30CM",
-    "content": "\n",
-    "sku": 1318,
-    "url": "/1318/lenjir-30cm/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 880.0,
-    "jeusluga": 0,
-    "srbobran": 1,
-    "futog": null
-  }
-    
-  ,
-  
-  
-  {
     "title": "GUMICA SOFTY",
     "content": "\n",
     "sku": 132,
@@ -41699,7 +41682,7 @@
     "image": "/assets/images/4147/drzac-za-kartice-check-1.jpg",
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -43876,7 +43859,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 31,
-    "futog": 28
+    "futog": 27
   }
     
   ,
@@ -44606,7 +44589,7 @@
     "image": "/assets/images/530/selotejp-50-50-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 11,
     "futog": 13
   }
     
@@ -48211,7 +48194,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 49,
-    "futog": 35
+    "futog": 34
   }
     
   ,
