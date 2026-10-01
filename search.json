@@ -20339,7 +20339,7 @@
   
   {
     "title": "DRVENA BOJA 1/12 OBOSTRANA",
-    "content": "\n",
+    "content": "U setu su i mekane bojice\n\n",
     "sku": 2705,
     "url": "/2705/drvena-boja-1-12-obostrana/",
     "collection": "articles",
@@ -44977,7 +44977,7 @@
     "url": "/558/indigo/",
     "collection": "articles",
     "kind": "article",
-    "image": null,
+    "image": "/assets/images/2.jpg",
     "price": 10.0,
     "jeusluga": 0,
     "srbobran": 15,
