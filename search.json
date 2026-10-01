@@ -1426,8 +1426,8 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 16,
-    "futog": 17
+    "srbobran": 28,
+    "futog": 5
   }
     
   ,
@@ -4129,8 +4129,8 @@
     "image": "/assets/images/1445/dosije-11-rupa-60mic-1.jpg",
     "price": 12.0,
     "jeusluga": 0,
-    "srbobran": 114,
-    "futog": 200
+    "srbobran": 314,
+    "futog": 0
   }
     
   ,
@@ -7223,8 +7223,8 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 64
+    "srbobran": 30,
+    "futog": 34
   }
     
   ,
@@ -7986,10 +7986,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/184/lepak-of-stick-21g-1.jpg",
-    "price": 90.0,
+    "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 20
+    "srbobran": 8,
+    "futog": 12
   }
     
   ,
@@ -9900,6 +9900,23 @@
   
   
   {
+    "title": "FASCIKLA 3CM",
+    "content": "\n",
+    "sku": 1988,
+    "url": "/1988/fascikla-3cm/",
+    "collection": "articles",
+    "kind": "article",
+    "image": null,
+    "price": 435.0,
+    "jeusluga": 0,
+    "srbobran": 4,
+    "futog": 4
+  }
+    
+  ,
+  
+  
+  {
     "title": "KC - SUDOKU ZA GENIJALCE",
     "content": "\n",
     "sku": 1989,
@@ -9945,6 +9962,23 @@
     "jeusluga": 0,
     "srbobran": null,
     "futog": 1
+  }
+    
+  ,
+  
+  
+  {
+    "title": "REGISTRATOR A/4 N",
+    "content": "\n",
+    "sku": 1993,
+    "url": "/1993/registrator-a-4-n/",
+    "collection": "articles",
+    "kind": "article",
+    "image": null,
+    "price": 399.0,
+    "jeusluga": 0,
+    "srbobran": 15,
+    "futog": 0
   }
     
   ,
@@ -12000,7 +12034,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 383,
+    "srbobran": 583,
     "futog": 0
   }
     
@@ -16471,8 +16505,8 @@
     "image": null,
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 700,
-    "futog": 300
+    "srbobran": 900,
+    "futog": 100
   }
     
   ,
@@ -18546,7 +18580,7 @@
     "price": 280.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -34457,8 +34491,8 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 10,
-    "futog": 20
+    "srbobran": 30,
+    "futog": 0
   }
     
   ,
@@ -43722,8 +43756,8 @@
     "image": "/assets/images/467/gel-olovka-pisi-brisi-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 1
+    "srbobran": 6,
+    "futog": 0
   }
     
   ,
@@ -45320,8 +45354,8 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 75,
-    "futog": 52
+    "srbobran": 105,
+    "futog": 22
   }
     
   ,
@@ -45337,8 +45371,8 @@
     "image": null,
     "price": 5.0,
     "jeusluga": 0,
-    "srbobran": 200,
-    "futog": 100
+    "srbobran": 300,
+    "futog": 0
   }
     
   ,
@@ -45507,8 +45541,8 @@
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 30,
-    "futog": 59
+    "srbobran": 60,
+    "futog": 29
   }
     
   ,
@@ -45915,8 +45949,8 @@
     "image": "/assets/images/620/jederman-1.jpg",
     "price": 65.0,
     "jeusluga": 0,
-    "srbobran": 24,
-    "futog": 20
+    "srbobran": 26,
+    "futog": 18
   }
     
   ,
@@ -46102,7 +46136,7 @@
     "image": null,
     "price": 3750.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 3,
     "futog": 0
   }
     
@@ -46119,8 +46153,8 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": -5,
-    "futog": 8
+    "srbobran": 10,
+    "futog": 4
   }
     
   ,
@@ -49094,8 +49128,8 @@
     "image": "/assets/images/836/kasa-blok-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 5
+    "srbobran": 10,
+    "futog": 0
   }
     
   ,
@@ -50182,8 +50216,8 @@
     "image": "/assets/images/90/priznanica-a-5-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 7
+    "srbobran": 8,
+    "futog": 4
   }
     
   ,
@@ -50641,8 +50675,8 @@
     "image": "/assets/images/94/drvena-boja-1-12-maped-1.jpg",
     "price": 440.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 3
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
