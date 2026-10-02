@@ -611,7 +611,7 @@
     "price": 530.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -2736,7 +2736,7 @@
     "price": 1650.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 2
   }
     
   ,
@@ -5541,7 +5541,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 4,
-    "futog": null
+    "futog": 3
   }
     
   ,
@@ -5813,7 +5813,7 @@
     "price": 5340.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 1
   }
     
   ,
@@ -6238,7 +6238,7 @@
     "price": 390.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -6476,7 +6476,7 @@
     "price": 95.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 0
+    "futog": 20
   }
     
   ,
@@ -9978,7 +9978,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 23,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -10063,7 +10063,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 4,
-    "futog": 0
+    "futog": 24
   }
     
   ,
@@ -12715,7 +12715,7 @@
     "price": 170.0,
     "jeusluga": 0,
     "srbobran": 35,
-    "futog": 18
+    "futog": 43
   }
     
   ,
@@ -12817,7 +12817,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 20
   }
     
   ,
@@ -13106,7 +13106,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -15112,7 +15112,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -18189,7 +18189,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 4
   }
     
   ,
@@ -19311,7 +19311,7 @@
     "price": 120.0,
     "jeusluga": 0,
     "srbobran": 5,
-    "futog": 7
+    "futog": 17
   }
     
   ,
@@ -19515,7 +19515,7 @@
     "price": 160.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": null
+    "futog": 3
   }
     
   ,
@@ -30106,7 +30106,7 @@
     "price": 90.0,
     "jeusluga": 0,
     "srbobran": 52,
-    "futog": 49
+    "futog": 59
   }
     
   ,
@@ -32554,7 +32554,7 @@
     "price": 190.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -38623,7 +38623,7 @@
     "price": 90.0,
     "jeusluga": 0,
     "srbobran": 103,
-    "futog": 37
+    "futog": 47
   }
     
   ,
@@ -40323,7 +40323,7 @@
     "price": 295.0,
     "jeusluga": 0,
     "srbobran": 44,
-    "futog": 23
+    "futog": 28
   }
     
   ,
@@ -44454,7 +44454,7 @@
     "price": 350.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 5
   }
     
   ,
@@ -45389,7 +45389,7 @@
     "price": 650.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 0
+    "futog": 8
   }
     
   ,
@@ -46120,7 +46120,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 12
   }
     
   ,
@@ -47480,7 +47480,7 @@
     "price": 230.0,
     "jeusluga": 0,
     "srbobran": 55,
-    "futog": 43
+    "futog": 42
   }
     
   ,
@@ -48755,7 +48755,7 @@
     "price": 480.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 3
   }
     
   ,
@@ -53107,7 +53107,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 4
+    "futog": 12
   }
     
   ,
@@ -58768,7 +58768,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -58785,7 +58785,7 @@
     "price": 25.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 25
   }
     
   ,
@@ -58938,7 +58938,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 45,
-    "futog": 29
+    "futog": 54
   }
     
   ,
@@ -59652,7 +59652,7 @@
     "price": 3750.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -59669,7 +59669,7 @@
     "price": 680.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 4
+    "futog": 24
   }
     
   ,
@@ -60645,17 +60645,17 @@
   
   
   {
-    "title": "REGISTRATOR A/4 N PRESTIGE",
+    "title": "REGISTRATOR A/4 N ",
     "content": "\n",
     "sku": 686,
-    "url": "/686/registrator-a-4-n-prestige/",
+    "url": "/686/registrator-a-4-n/",
     "collection": "articles",
     "kind": "article",
     "image": null,
     "price": 550.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 0
+    "futog": 15
   }
     
   ,
@@ -61386,7 +61386,7 @@
     "price": 45.0,
     "jeusluga": 0,
     "srbobran": 15,
-    "futog": 12
+    "futog": 22
   }
     
   ,
@@ -61777,7 +61777,7 @@
     "price": 99.0,
     "jeusluga": 0,
     "srbobran": 19,
-    "futog": 9
+    "futog": 7
   }
     
   ,
@@ -63664,7 +63664,7 @@
     "price": 180.0,
     "jeusluga": 0,
     "srbobran": 4,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -63681,7 +63681,7 @@
     "price": 180.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 0
+    "futog": 3
   }
     
   ,
@@ -64021,7 +64021,7 @@
     "price": 350.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": null
+    "futog": 3
   }
     
   ,
@@ -64140,7 +64140,7 @@
     "price": 395.0,
     "jeusluga": 0,
     "srbobran": 7,
-    "futog": 3
+    "futog": 13
   }
     
   ,
@@ -65823,7 +65823,7 @@
     "price": 135.0,
     "jeusluga": 0,
     "srbobran": 4,
-    "futog": 0
+    "futog": 5
   }
     
   ,
