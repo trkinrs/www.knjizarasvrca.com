@@ -695,8 +695,8 @@
     "image": null,
     "price": 985.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -15230,8 +15230,8 @@
     "image": null,
     "price": 1410.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 1
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -16165,8 +16165,8 @@
     "image": null,
     "price": 435.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 4
+    "srbobran": 4,
+    "futog": 2
   }
     
   ,
@@ -22846,8 +22846,8 @@
     "image": "/assets/images/239/novcanik-19-5-10-4-6-60-1.jpg",
     "price": 1225.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -26756,8 +26756,8 @@
     "image": null,
     "price": 1199.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 2
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -46136,8 +46136,8 @@
     "image": null,
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -53206,10 +53206,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/41/uk-papir-2m-1.jpg",
-    "price": 145.0,
+    "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 10
+    "srbobran": 8,
+    "futog": 5
   }
     
   ,
@@ -64140,7 +64140,7 @@
     "price": 395.0,
     "jeusluga": 0,
     "srbobran": 12,
-    "futog": 8
+    "futog": 5
   }
     
   ,
@@ -64496,8 +64496,8 @@
     "image": "/assets/images/89/das-masa-500g-1.jpg",
     "price": 435.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
