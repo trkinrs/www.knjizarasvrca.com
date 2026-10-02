@@ -601,17 +601,17 @@
   
   
   {
-    "title": "PAPIRNI STOLNJAK BELI 7M",
+    "title": "PAPIRNI STOLNJAK BELI 10M",
     "content": "\n",
     "sku": 1009,
-    "url": "/1009/papirni-stolnjak-beli-7m/",
+    "url": "/1009/papirni-stolnjak-beli-10m/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 530.0,
+    "price": 690.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 3
+    "srbobran": 1,
+    "futog": 2
   }
     
   ,
@@ -2735,8 +2735,8 @@
     "image": null,
     "price": 1650.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -5538,10 +5538,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/1270/krede-boja-1-12-1.jpg",
-    "price": 50.0,
+    "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 3
+    "srbobran": 6,
+    "futog": 1
   }
     
   ,
@@ -5810,10 +5810,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 5340.0,
+    "price": 4295.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -6235,10 +6235,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 390.0,
+    "price": 410.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 3
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -6475,8 +6475,8 @@
     "image": "/assets/images/132/gumica-softy-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 20
+    "srbobran": 21,
+    "futog": 0
   }
     
   ,
@@ -10062,8 +10062,8 @@
     "image": "/assets/images/153/ho-a-plus-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 24
+    "srbobran": 28,
+    "futog": 0
   }
     
   ,
@@ -12714,8 +12714,8 @@
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
     "jeusluga": 0,
-    "srbobran": 35,
-    "futog": 43
+    "srbobran": 60,
+    "futog": 18
   }
     
   ,
@@ -12816,8 +12816,8 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 20
+    "srbobran": 20,
+    "futog": 0
   }
     
   ,
@@ -18186,10 +18186,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 40.0,
+    "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 4
+    "srbobran": 2,
+    "futog": 2
   }
     
   ,
@@ -19310,8 +19310,8 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 17
+    "srbobran": 15,
+    "futog": 7
   }
     
   ,
@@ -19512,10 +19512,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 160.0,
+    "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 3
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -19736,7 +19736,7 @@
     "price": 199.0,
     "jeusluga": 0,
     "srbobran": 3,
-    "futog": 5
+    "futog": 2
   }
     
   ,
@@ -30105,8 +30105,8 @@
     "image": "/assets/images/2774/marker-0-6-cp-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 52,
-    "futog": 59
+    "srbobran": 62,
+    "futog": 49
   }
     
   ,
@@ -32551,10 +32551,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/291/stalak-za-selotejp-1.jpg",
-    "price": 190.0,
+    "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 3
+    "srbobran": 2,
+    "futog": 2
   }
     
   ,
@@ -38622,8 +38622,8 @@
     "image": "/assets/images/3230/marker-cp-1mm-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 103,
-    "futog": 47
+    "srbobran": 113,
+    "futog": 37
   }
     
   ,
@@ -40320,10 +40320,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/17902554743772044337749420111409.jpg",
-    "price": 295.0,
+    "price": 315.0,
     "jeusluga": 0,
-    "srbobran": 44,
-    "futog": 28
+    "srbobran": 48,
+    "futog": 24
   }
     
   ,
@@ -44451,10 +44451,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 350.0,
+    "price": 410.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 5
+    "srbobran": 4,
+    "futog": 1
   }
     
   ,
@@ -45386,10 +45386,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 650.0,
+    "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 8
+    "srbobran": 10,
+    "futog": 0
   }
     
   ,
@@ -45967,7 +45967,7 @@
     "price": 1345.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -46119,8 +46119,8 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 12
+    "srbobran": 12,
+    "futog": 0
   }
     
   ,
@@ -48754,8 +48754,8 @@
     "image": "/assets/images/3768/karte-piatnik-madjarice-1.jpg",
     "price": 480.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 3
+    "srbobran": 3,
+    "futog": 2
   }
     
   ,
@@ -53106,8 +53106,8 @@
     "image": "/assets/images/408/udaraljke-za-metalofon-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 12
+    "srbobran": 10,
+    "futog": 4
   }
     
   ,
@@ -58784,8 +58784,8 @@
     "image": null,
     "price": 25.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 25
+    "srbobran": 25,
+    "futog": 0
   }
     
   ,
@@ -58937,8 +58937,8 @@
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 45,
-    "futog": 54
+    "srbobran": 70,
+    "futog": 29
   }
     
   ,
@@ -59651,8 +59651,8 @@
     "image": null,
     "price": 3750.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 3
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -59668,8 +59668,8 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 10,
-    "futog": 24
+    "srbobran": 30,
+    "futog": 4
   }
     
   ,
@@ -60652,10 +60652,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 550.0,
+    "price": 264.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 15
+    "srbobran": 15,
+    "futog": 0
   }
     
   ,
@@ -61385,8 +61385,8 @@
     "image": "/assets/images/viber_image_2026-09-23_11-29-08-608.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 15,
-    "futog": 22
+    "srbobran": 25,
+    "futog": 12
   }
     
   ,
@@ -63663,8 +63663,8 @@
     "image": "/assets/images/845/nalog-naplati-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 3
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
@@ -63680,8 +63680,8 @@
     "image": "/assets/images/846/nalog-isplati-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 3
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -64020,8 +64020,8 @@
     "image": "/assets/images/864/otpremnica-a-4-1.jpg",
     "price": 350.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 3
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -64139,8 +64139,8 @@
     "image": "/assets/images/870/popis-robe-a-4-1.jpg",
     "price": 395.0,
     "jeusluga": 0,
-    "srbobran": 7,
-    "futog": 13
+    "srbobran": 12,
+    "futog": 8
   }
     
   ,
@@ -64684,7 +64684,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 344,
-    "futog": 324
+    "futog": 318
   }
     
   ,
@@ -65347,7 +65347,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 17,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -65820,10 +65820,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 135.0,
+    "price": 145.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 5
+    "srbobran": 7,
+    "futog": 2
   }
     
   ,
@@ -66350,7 +66350,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 5,
-    "futog": 6
+    "futog": 5
   }
     
   ,
