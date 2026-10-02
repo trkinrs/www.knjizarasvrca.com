@@ -2855,7 +2855,7 @@
     "price": 335.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -2871,7 +2871,7 @@
     "image": "/assets/images/1371/dosije-sup-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 81,
+    "srbobran": 80,
     "futog": 25
   }
     
@@ -5387,7 +5387,7 @@
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 45,
+    "srbobran": 42,
     "futog": 0
   }
     
@@ -19004,7 +19004,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 4
   }
     
@@ -41461,7 +41461,7 @@
     "image": "/assets/images/41/uk-papir-2m-1.jpg",
     "price": 145.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 10
   }
     
