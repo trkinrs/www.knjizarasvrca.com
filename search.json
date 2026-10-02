@@ -2175,7 +2175,7 @@
     "price": 85.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 25
+    "futog": 23
   }
     
   ,
@@ -2675,23 +2675,6 @@
   
   
   {
-    "title": "REGISTRATOR A/4 U BORDO",
-    "content": "\n",
-    "sku": 1354,
-    "url": "/1354/registrator-a-4-u-bordo/",
-    "collection": "articles",
-    "kind": "article",
-    "image": null,
-    "price": 490.0,
-    "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 0
-  }
-    
-  ,
-  
-  
-  {
     "title": "STANDARD BABYSAURUS",
     "content": "\n",
     "sku": 1356,
@@ -3009,23 +2992,6 @@
     "jeusluga": 0,
     "srbobran": 2,
     "futog": null
-  }
-    
-  ,
-  
-  
-  {
-    "title": "REGISTRATOR A/4 N",
-    "content": "\n",
-    "sku": 1379,
-    "url": "/1379/registrator-a-4-n/",
-    "collection": "articles",
-    "kind": "article",
-    "image": "/assets/images/1379/registrator-a-4-n-1.jpg",
-    "price": 490.0,
-    "jeusluga": 0,
-    "srbobran": 20,
-    "futog": 0
   }
     
   ,
@@ -5030,7 +4996,7 @@
     "image": "/assets/images/153/ho-a-plus-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 8,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -15077,7 +15043,7 @@
     "image": "/assets/images/239/novcanik-19-5-10-4-6-60-1.jpg",
     "price": 1225.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -30802,7 +30768,7 @@
     "image": "/assets/images/33/sundjer-za-belu-tablu-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 3,
     "futog": 2
   }
     
@@ -33488,7 +33454,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 29,
     "futog": 0
   }
     
@@ -37126,7 +37092,7 @@
     "image": "/assets/images/17901711236806596272246205284328.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": 15
   }
     
@@ -41427,7 +41393,7 @@
     "image": "/assets/images/408/udaraljke-za-metalofon-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 4
   }
     
@@ -43553,7 +43519,7 @@
     "price": 10.0,
     "jeusluga": 0,
     "srbobran": 52,
-    "futog": 55
+    "futog": 53
   }
     
   ,
@@ -43604,7 +43570,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 4
+    "futog": 1
   }
     
   ,
@@ -43909,7 +43875,7 @@
     "image": "/assets/images/481/ho-vinson-fashion-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 27
   }
     
@@ -46085,7 +46051,7 @@
     "image": null,
     "price": 3750.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 1,
     "futog": 0
   }
     
