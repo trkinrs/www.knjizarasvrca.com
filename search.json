@@ -1376,7 +1376,7 @@
     "price": 200.0,
     "jeusluga": 0,
     "srbobran": 4,
-    "futog": 4
+    "futog": 2
   }
     
   ,
@@ -3925,7 +3925,7 @@
     "image": null,
     "price": 610.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -10164,7 +10164,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 100,
+    "srbobran": 97,
     "futog": 0
   }
     
@@ -18851,7 +18851,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 583,
+    "srbobran": 573,
     "futog": 0
   }
     
@@ -19735,7 +19735,7 @@
     "image": null,
     "price": 199.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -21639,7 +21639,7 @@
     "image": null,
     "price": 899.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -26943,7 +26943,7 @@
     "image": null,
     "price": 999.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -27895,7 +27895,7 @@
     "image": null,
     "price": 999.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -58036,7 +58036,7 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 54,
+    "srbobran": 51,
     "futog": 0
   }
     
