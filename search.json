@@ -1733,7 +1733,7 @@
     "price": 2100.0,
     "jeusluga": 0,
     "srbobran": 3,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -7173,7 +7173,7 @@
     "price": 70.0,
     "jeusluga": 0,
     "srbobran": 138,
-    "futog": 103
+    "futog": 101
   }
     
   ,
@@ -40322,7 +40322,7 @@
     "image": "/assets/images/17902554743772044337749420111409.jpg",
     "price": 315.0,
     "jeusluga": 0,
-    "srbobran": 47,
+    "srbobran": 46,
     "futog": 24
   }
     
@@ -61113,7 +61113,7 @@
     "image": "/assets/images/71/sveska-a-4-tp-500l-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 264,
+    "srbobran": 263,
     "futog": 328
   }
     
