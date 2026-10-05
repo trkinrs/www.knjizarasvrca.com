@@ -7325,7 +7325,7 @@
     "image": null,
     "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -8090,7 +8090,7 @@
     "image": "/assets/images/1405/pak-papir-natron-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 22,
+    "srbobran": 32,
     "futog": 15
   }
     
@@ -12051,7 +12051,7 @@
     "image": "/assets/images/167/obostrano-lepljiva-traka-18mm-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -16165,7 +16165,7 @@
     "image": null,
     "price": 435.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 6,
     "futog": 2
   }
     
@@ -56948,7 +56948,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 286,
+    "srbobran": 285,
     "futog": 311
   }
     
@@ -58053,7 +58053,7 @@
     "image": "/assets/images/548/rashteftivac-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -62269,7 +62269,7 @@
     "image": "/assets/images/3.jpg",
     "price": 1015.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -65771,7 +65771,7 @@
     "image": "/assets/images/13.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 12,
     "futog": 20
   }
     
@@ -66519,7 +66519,7 @@
     "image": "/assets/images/997/glina-500g-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 2,
     "futog": 3
   }
     
