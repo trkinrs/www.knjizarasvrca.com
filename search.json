@@ -12816,7 +12816,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 19,
+    "srbobran": 18,
     "futog": 0
   }
     
@@ -14533,7 +14533,7 @@
     "image": "/assets/images/1900/termo-rolna-80-70mm-1.jpg",
     "price": 225.0,
     "jeusluga": 0,
-    "srbobran": 30,
+    "srbobran": 26,
     "futog": 8
   }
     
@@ -44640,7 +44640,7 @@
     "image": null,
     "price": 3360.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -53787,7 +53787,7 @@
     "price": 125.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -56711,7 +56711,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 31,
-    "futog": 26
+    "futog": 24
   }
     
   ,
@@ -58240,7 +58240,7 @@
     "image": "/assets/images/2.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 3,
     "futog": 42
   }
     
@@ -58853,7 +58853,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 96,
-    "futog": 81
+    "futog": 79
   }
     
   ,
@@ -58971,7 +58971,7 @@
     "image": "/assets/images/597/dosije-kromo-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 51,
+    "srbobran": 50,
     "futog": 14
   }
     
@@ -60654,7 +60654,7 @@
     "image": null,
     "price": 264.0,
     "jeusluga": 0,
-    "srbobran": -15,
+    "srbobran": 0,
     "futog": 0
   }
     
