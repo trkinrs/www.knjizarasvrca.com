@@ -1001,7 +1001,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -1733,7 +1733,7 @@
     "price": 2100.0,
     "jeusluga": 0,
     "srbobran": 3,
-    "futog": 1
+    "futog": 2
   }
     
   ,
@@ -7427,7 +7427,7 @@
     "image": "/assets/images/1370/dosije-20-30-dzepova-1.jpg",
     "price": 335.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -9212,7 +9212,7 @@
     "image": "/assets/images/148/lepak-stick-10g-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 0
   }
     
@@ -10589,7 +10589,7 @@
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 42,
+    "srbobran": 38,
     "futog": 0
   }
     
@@ -12816,7 +12816,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": 0
   }
     
@@ -16233,7 +16233,7 @@
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 330.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 2,
     "futog": 4
   }
     
@@ -16267,7 +16267,7 @@
     "image": null,
     "price": 399.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 0
   }
     
@@ -16284,8 +16284,8 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 7
+    "srbobran": 7,
+    "futog": 6
   }
     
   ,
@@ -17270,7 +17270,7 @@
     "image": "/assets/images/2088/marker-art-obostrani-1.jpg",
     "price": 99.0,
     "jeusluga": 0,
-    "srbobran": 51,
+    "srbobran": 50,
     "futog": 33
   }
     
@@ -31788,7 +31788,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 8,
     "futog": 1
   }
     
@@ -38027,7 +38027,7 @@
     "image": "/assets/images/32/kolaz-b-5-sl-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 21,
+    "srbobran": 20,
     "futog": 14
   }
     
@@ -44453,7 +44453,7 @@
     "image": null,
     "price": 410.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 1
   }
     
@@ -45932,7 +45932,7 @@
     "image": null,
     "price": 199.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -46902,7 +46902,7 @@
     "price": 75.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -54415,7 +54415,7 @@
     "image": "/assets/images/439/ho-sc-restyle-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 21
   }
     
@@ -56812,7 +56812,7 @@
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 106,
+    "srbobran": 104,
     "futog": 37
   }
     
@@ -56948,7 +56948,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 285,
+    "srbobran": 284,
     "futog": 311
   }
     
@@ -57781,7 +57781,7 @@
     "image": null,
     "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -58699,7 +58699,7 @@
     "image": null,
     "price": 5.0,
     "jeusluga": 0,
-    "srbobran": 300,
+    "srbobran": 200,
     "futog": 0
   }
     
@@ -58784,7 +58784,7 @@
     "image": null,
     "price": 25.0,
     "jeusluga": 0,
-    "srbobran": 25,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -59447,7 +59447,7 @@
     "image": "/assets/images/621/etikete-za-cene-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 11,
     "futog": 4
   }
     
@@ -61317,7 +61317,7 @@
     "image": "/assets/images/720/sponke-maped-24-6-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 25,
+    "srbobran": 16,
     "futog": 13
   }
     
@@ -62371,7 +62371,7 @@
     "image": "/assets/images/777/blok-a-6-c-5-sp-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 8,
     "futog": 5
   }
     
@@ -63629,7 +63629,7 @@
     "image": "/assets/images/843/kolaz-a-4-t-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 18
   }
     
