@@ -8838,7 +8838,7 @@
     "image": "/assets/images/1445/dosije-11-rupa-60mic-1.jpg",
     "price": 12.0,
     "jeusluga": 0,
-    "srbobran": 314,
+    "srbobran": 14,
     "futog": 0
   }
     
@@ -12816,7 +12816,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 0
   }
     
@@ -26706,7 +26706,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 36,
-    "futog": 7
+    "futog": 6
   }
     
   ,
@@ -59379,7 +59379,7 @@
     "image": "/assets/images/618/etikete-br-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 43,
+    "srbobran": 40,
     "futog": 13
   }
     
@@ -59465,7 +59465,7 @@
     "price": 170.0,
     "jeusluga": 0,
     "srbobran": 22,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -60366,7 +60366,7 @@
     "price": 160.0,
     "jeusluga": 0,
     "srbobran": 9,
-    "futog": 26
+    "futog": 25
   }
     
   ,
@@ -60705,7 +60705,7 @@
     "image": "/assets/images/689/registrator-a-4-u-1.jpg",
     "price": 375.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 0,
     "futog": 1
   }
     
