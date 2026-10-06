@@ -30003,7 +30003,7 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -64479,7 +64479,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 1,
     "futog": 6
   }
     
