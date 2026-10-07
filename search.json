@@ -8924,7 +8924,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 15,
-    "futog": 17
+    "futog": 16
   }
     
   ,
@@ -16998,7 +16998,7 @@
     "image": "/assets/images/206/ho-10-boja-1.jpg",
     "price": 159.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 7,
     "futog": 7
   }
     
@@ -19310,7 +19310,7 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 5,
     "futog": 7
   }
     
@@ -26756,7 +26756,7 @@
     "image": null,
     "price": 1199.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -28508,7 +28508,7 @@
     "price": 450.0,
     "jeusluga": 0,
     "srbobran": 52,
-    "futog": 51
+    "futog": 50
   }
     
   ,
@@ -34254,7 +34254,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 67,
-    "futog": 24
+    "futog": 23
   }
     
   ,
@@ -52121,7 +52121,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 5,
-    "futog": 11
+    "futog": 10
   }
     
   ,
@@ -56259,6 +56259,23 @@
   
   
   {
+    "title": "PRIPREMA ZA ŠTAMPU",
+    "content": "\n",
+    "sku": 4526,
+    "url": "/4526/priprema-za-stampu/",
+    "collection": "articles",
+    "kind": "article",
+    "image": null,
+    "price": 200.0,
+    "jeusluga": 1,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
     "title": "FOTO ALBUM 13/18 100F",
     "content": "\n",
     "sku": 453,
@@ -56795,7 +56812,7 @@
     "image": "/assets/images/481/ho-vinson-fashion-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 13,
+    "srbobran": 8,
     "futog": 25
   }
     
@@ -56813,7 +56830,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 104,
-    "futog": 36
+    "futog": 34
   }
     
   ,
@@ -57730,7 +57747,7 @@
     "image": "/assets/images/530/selotejp-50-50-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 3,
     "futog": 12
   }
     
@@ -61793,7 +61810,7 @@
     "image": "/assets/images/746/obrazac-1-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 15,
     "futog": 5
   }
     
@@ -62456,7 +62473,7 @@
     "image": null,
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 37,
+    "srbobran": 36,
     "futog": 20
   }
     
@@ -65567,7 +65584,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 15
   }
     
@@ -65771,7 +65788,7 @@
     "image": "/assets/images/13.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 1,
     "futog": 20
   }
     
@@ -65941,7 +65958,7 @@
     "image": "/assets/images/966/roler-ah-832-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 13,
+    "srbobran": 10,
     "futog": -1
   }
     
