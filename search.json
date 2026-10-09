@@ -23033,7 +23033,7 @@
     "image": "/assets/images/24/uvijac-a-4-samolepljiv-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": -24,
     "futog": 0
   }
     
@@ -57645,7 +57645,7 @@
     "image": null,
     "price": 165.0,
     "jeusluga": 0,
-    "srbobran": 19,
+    "srbobran": 15,
     "futog": 15
   }
     
@@ -57679,7 +57679,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 610,
+    "srbobran": 606,
     "futog": 147
   }
     
@@ -64343,7 +64343,7 @@
     "image": null,
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": 7
   }
     
