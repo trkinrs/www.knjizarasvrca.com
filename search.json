@@ -23033,7 +23033,7 @@
     "image": "/assets/images/24/uvijac-a-4-samolepljiv-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": -24,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -56387,7 +56387,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 35,
+    "srbobran": 34,
     "futog": 0
   }
     
@@ -56813,7 +56813,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 8,
-    "futog": 25
+    "futog": 24
   }
     
   ,
@@ -57645,7 +57645,7 @@
     "image": null,
     "price": 165.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 19,
     "futog": 15
   }
     
@@ -57679,7 +57679,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 606,
+    "srbobran": 610,
     "futog": 147
   }
     
@@ -58870,7 +58870,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 75,
-    "futog": 79
+    "futog": 69
   }
     
   ,
@@ -59023,7 +59023,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 46,
-    "futog": 33
+    "futog": 32
   }
     
   ,
@@ -60416,7 +60416,7 @@
     "image": "/assets/images/672/korektor-olovka-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 5
   }
     
@@ -60620,7 +60620,7 @@
     "image": "/assets/images/683/marker-bic-1.jpg",
     "price": 170.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -64343,7 +64343,7 @@
     "image": null,
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 10,
     "futog": 7
   }
     
