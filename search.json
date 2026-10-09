@@ -2735,7 +2735,7 @@
     "image": null,
     "price": 1650.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -5200,7 +5200,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 147,
+    "srbobran": 146,
     "futog": 69
   }
     
@@ -38622,7 +38622,7 @@
     "image": "/assets/images/3230/marker-cp-1mm-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 113,
+    "srbobran": 111,
     "futog": 37
   }
     
@@ -56966,7 +56966,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 284,
-    "futog": 304
+    "futog": 301
   }
     
   ,
