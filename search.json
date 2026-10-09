@@ -863,10 +863,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": null,
+    "price": 310.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": null
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -880,10 +880,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": null,
+    "price": 860.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": null
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -2667,7 +2667,7 @@
     "image": "/assets/images/1118/marker-cd-dvd-of-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 38,
+    "srbobran": 50,
     "futog": 0
   }
     
@@ -3925,8 +3925,8 @@
     "image": null,
     "price": 610.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -7323,10 +7323,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 250.0,
+    "price": 270.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 2
   }
     
   ,
@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 61,
+    "srbobran": 261,
     "futog": 50
   }
     
@@ -7799,9 +7799,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 80.0,
+    "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 24,
     "futog": 0
   }
     
@@ -11345,16 +11345,16 @@
   
   
   {
-    "title": "KALKULATOR TTO DG 900A",
+    "title": "KALKULATOR OF231",
     "content": "\n",
     "sku": 160,
-    "url": "/160/kalkulator-tto-dg-900a/",
+    "url": "/160/kalkulator-of231/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 760.0,
+    "price": 1250.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -13562,10 +13562,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 90.0,
+    "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 14,
-    "futog": null
+    "srbobran": 38,
+    "futog": 0
   }
     
   ,
@@ -17270,7 +17270,7 @@
     "image": "/assets/images/2088/marker-art-obostrani-1.jpg",
     "price": 99.0,
     "jeusluga": 0,
-    "srbobran": 50,
+    "srbobran": 53,
     "futog": 33
   }
     
@@ -17729,8 +17729,8 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 41,
-    "futog": 16
+    "srbobran": 81,
+    "futog": 26
   }
     
   ,
@@ -19838,7 +19838,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -26535,8 +26535,8 @@
     "image": "/assets/images/2585/ciode-pluta-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -26713,17 +26713,17 @@
   
   
   {
-    "title": "MARKER BELI ICO",
+    "title": "MARKER BELI ",
     "content": "\n",
     "sku": 2595,
-    "url": "/2595/marker-beli-ico/",
+    "url": "/2595/marker-beli/",
     "collection": "articles",
     "kind": "article",
     "image": null,
     "price": 280.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 0
+    "srbobran": 4,
+    "futog": 2
   }
     
   ,
@@ -27215,8 +27215,8 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 4
+    "srbobran": 3,
+    "futog": 1
   }
     
   ,
@@ -30412,7 +30412,7 @@
     "price": 125.0,
     "jeusluga": 0,
     "srbobran": 17,
-    "futog": 30
+    "futog": 24
   }
     
   ,
@@ -56370,8 +56370,8 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 52,
-    "futog": 53
+    "srbobran": 72,
+    "futog": 33
   }
     
   ,
@@ -56419,10 +56419,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 20.0,
+    "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 30,
+    "futog": 0
   }
     
   ,
@@ -57798,7 +57798,7 @@
     "image": null,
     "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 5,
     "futog": 2
   }
     
@@ -57857,17 +57857,17 @@
   
   
   {
-    "title": "STALAK ZA SELOTEJP OF185",
+    "title": "STALAK ZA SELOTEJP OF187",
     "content": "\n",
     "sku": 537,
-    "url": "/537/stalak-za-selotejp-of185/",
+    "url": "/537/stalak-za-selotejp-of187/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 250.0,
+    "price": 395.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": null
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -57883,7 +57883,7 @@
     "image": null,
     "price": 350.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -58070,7 +58070,7 @@
     "image": "/assets/images/548/rashteftivac-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 2,
     "futog": 1
   }
     
@@ -58257,8 +58257,8 @@
     "image": "/assets/images/2.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 39
+    "srbobran": 42,
+    "futog": 0
   }
     
   ,
@@ -58376,7 +58376,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 43,
     "futog": 0
   }
     
@@ -58546,8 +58546,8 @@
     "image": "/assets/images/573/blok-kocka-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -58622,17 +58622,17 @@
   
   
   {
-    "title": "BLOK SL 1/500",
+    "title": "BLOK SL 1/400",
     "content": "\n",
     "sku": 578,
-    "url": "/578/blok-sl-1-500/",
+    "url": "/578/blok-sl-1-400/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 270.0,
+    "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": null
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -58665,8 +58665,8 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 9,
-    "futog": 19
+    "srbobran": 11,
+    "futog": 17
   }
     
   ,
@@ -58682,7 +58682,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 94,
+    "srbobran": 194,
     "futog": 19
   }
     
@@ -58716,7 +58716,7 @@
     "image": null,
     "price": 5.0,
     "jeusluga": 0,
-    "srbobran": 200,
+    "srbobran": 400,
     "futog": 0
   }
     
@@ -59175,8 +59175,8 @@
     "image": null,
     "price": 8.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 200
+    "srbobran": 104,
+    "futog": 100
   }
     
   ,
@@ -59294,7 +59294,7 @@
     "image": "/assets/images/612/casa-0-2-1.jpg",
     "price": 5.0,
     "jeusluga": 0,
-    "srbobran": 100,
+    "srbobran": 300,
     "futog": 0
   }
     
@@ -61334,8 +61334,8 @@
     "image": "/assets/images/720/sponke-maped-24-6-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 16,
-    "futog": 13
+    "srbobran": 22,
+    "futog": 7
   }
     
   ,
@@ -64496,8 +64496,8 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 6
+    "srbobran": 6,
+    "futog": 1
   }
     
   ,
@@ -64630,10 +64630,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/896/dosije-10-dzepova-1.jpg",
-    "price": 195.0,
+    "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 0
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -65500,58 +65500,58 @@
     "price": 505.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": null
+    "futog": 3
   }
     
   ,
   
   
   {
-    "title": "JOVA - 5",
+    "title": "GEL OL R-301",
     "content": "\n",
     "sku": 942,
-    "url": "/942/jova-5/",
+    "url": "/942/gel-ol-r-301/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 1.0,
-    "jeusluga": 1,
-    "srbobran": null,
-    "futog": null
+    "price": 60.0,
+    "jeusluga": 0,
+    "srbobran": 96,
+    "futog": 0
   }
     
   ,
   
   
   {
-    "title": "JOVA - 6",
+    "title": "PIŠTOLJ ZA TOPLO LEPLJENJE",
     "content": "\n",
     "sku": 943,
-    "url": "/943/jova-6/",
+    "url": "/943/pistolj-za-toplo-lepljenje/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 1.0,
-    "jeusluga": 1,
-    "srbobran": null,
-    "futog": null
+    "price": 910.0,
+    "jeusluga": 0,
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
   
   
   {
-    "title": "JOVA - 7",
+    "title": "PATRONE ZA TOPLO LEPLJENJE 1/12",
     "content": "\n",
     "sku": 944,
-    "url": "/944/jova-7/",
+    "url": "/944/patrone-za-toplo-lepljenje-1-12/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 1.0,
-    "jeusluga": 1,
-    "srbobran": null,
-    "futog": null
+    "price": 199.0,
+    "jeusluga": 0,
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -65788,8 +65788,8 @@
     "image": "/assets/images/13.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 20
+    "srbobran": 21,
+    "futog": 0
   }
     
   ,
