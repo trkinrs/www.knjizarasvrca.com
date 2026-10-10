@@ -5812,7 +5812,7 @@
     "image": null,
     "price": 4295.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -12357,7 +12357,7 @@
     "image": "/assets/images/170/pero-za-tus-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 16,
+    "srbobran": 15,
     "futog": 9
   }
     
@@ -16404,7 +16404,7 @@
     "price": 985.0,
     "jeusluga": 0,
     "srbobran": 18,
-    "futog": 10
+    "futog": 9
   }
     
   ,
@@ -34254,7 +34254,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 66,
-    "futog": 22
+    "futog": 21
   }
     
   ,
@@ -52137,7 +52137,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": 19
   }
     
@@ -57101,7 +57101,7 @@
     "image": "/assets/images/497/stilo-za-pero-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 14
   }
     
@@ -65839,7 +65839,7 @@
     "image": null,
     "price": 145.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 2
   }
     
