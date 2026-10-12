@@ -508,7 +508,7 @@
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 42,
+    "srbobran": 41,
     "futog": 64
   }
     
@@ -6084,7 +6084,7 @@
     "image": null,
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 1,
     "futog": 9
   }
     
@@ -10062,7 +10062,7 @@
     "image": "/assets/images/153/ho-a-plus-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 27,
+    "srbobran": 26,
     "futog": 0
   }
     
@@ -12425,7 +12425,7 @@
     "image": "/assets/images/171/nalepnice-p-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -16012,7 +16012,7 @@
     "image": "/assets/images/198/cestitka-rodjendan-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 74,
+    "srbobran": 73,
     "futog": 49
   }
     
@@ -40203,7 +40203,7 @@
     "image": "/assets/images/3314/pernica-sc-1.jpg",
     "price": 650.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -56336,7 +56336,7 @@
     "image": "/assets/images/456/ho-r301-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 28,
+    "srbobran": 27,
     "futog": 38
   }
     
@@ -56370,7 +56370,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 67,
+    "srbobran": 62,
     "futog": 33
   }
     
@@ -58683,7 +58683,7 @@
     "price": 10.0,
     "jeusluga": 0,
     "srbobran": 194,
-    "futog": 19
+    "futog": 9
   }
     
   ,
@@ -58954,7 +58954,7 @@
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 67,
+    "srbobran": 66,
     "futog": 29
   }
     
@@ -60331,7 +60331,7 @@
     "image": "/assets/images/8.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -60875,7 +60875,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 41,
+    "srbobran": 40,
     "futog": 0
   }
     
@@ -61811,7 +61811,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 14,
-    "futog": 4
+    "futog": 2
   }
     
   ,
@@ -65363,7 +65363,7 @@
     "image": "/assets/images/934/korektor-cetkica-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 16,
     "futog": 5
   }
     
@@ -65635,7 +65635,7 @@
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 25,
+    "srbobran": 24,
     "futog": 14
   }
     
@@ -65958,7 +65958,7 @@
     "image": "/assets/images/966/roler-ah-832-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 10,
+    "srbobran": 9,
     "futog": -1
   }
     
