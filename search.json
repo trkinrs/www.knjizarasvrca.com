@@ -509,7 +509,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 42,
-    "futog": 66
+    "futog": 64
   }
     
   ,
@@ -17458,7 +17458,7 @@
     "price": 140.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 10
+    "futog": 8
   }
     
   ,
@@ -17577,7 +17577,7 @@
     "price": 225.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 10
+    "futog": 8
   }
     
   ,
@@ -26706,7 +26706,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 36,
-    "futog": 6
+    "futog": 5
   }
     
   ,
@@ -34254,7 +34254,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 66,
-    "futog": 21
+    "futog": 19
   }
     
   ,
@@ -34951,7 +34951,7 @@
     "price": 199.0,
     "jeusluga": 0,
     "srbobran": 39,
-    "futog": 19
+    "futog": 17
   }
     
   ,
@@ -56266,7 +56266,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 200.0,
+    "price": 250.0,
     "jeusluga": 1,
     "srbobran": null,
     "futog": null
@@ -56965,7 +56965,7 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 284,
+    "srbobran": 283,
     "futog": 301
   }
     
@@ -61266,7 +61266,7 @@
     "image": "/assets/images/viber_image_2026-09-23_12-10-01-726.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 2
   }
     
@@ -64344,7 +64344,7 @@
     "price": 110.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 7
+    "futog": 5
   }
     
   ,
@@ -66401,7 +66401,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 26,
-    "futog": 23
+    "futog": 21
   }
     
   ,
