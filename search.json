@@ -5200,7 +5200,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 146,
+    "srbobran": 145,
     "futog": 69
   }
     
@@ -6084,7 +6084,7 @@
     "image": null,
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 9
   }
     
@@ -8090,7 +8090,7 @@
     "image": "/assets/images/1405/pak-papir-natron-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": 15
   }
     
@@ -56982,7 +56982,7 @@
     "image": null,
     "price": 390.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 4
   }
     
