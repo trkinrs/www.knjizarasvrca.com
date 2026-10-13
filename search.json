@@ -5200,7 +5200,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 145,
+    "srbobran": 144,
     "futog": 69
   }
     
@@ -7444,7 +7444,7 @@
     "image": "/assets/images/1371/dosije-sup-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 80,
+    "srbobran": 79,
     "futog": 25
   }
     
@@ -28423,7 +28423,7 @@
     "price": 1199.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -31993,7 +31993,7 @@
     "price": 10.0,
     "jeusluga": 0,
     "srbobran": 514,
-    "futog": 478
+    "futog": 473
   }
     
   ,
