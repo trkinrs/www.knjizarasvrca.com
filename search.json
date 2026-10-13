@@ -4402,7 +4402,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 18,
-    "futog": 22
+    "futog": 20
   }
     
   ,
@@ -9977,7 +9977,7 @@
     "image": "/assets/images/1525/cestitka-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 22,
+    "srbobran": 21,
     "futog": 14
   }
     
@@ -45185,7 +45185,7 @@
     "price": 2199.04,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -62253,7 +62253,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 37,
-    "futog": 9
+    "futog": 8
   }
     
   ,
@@ -65516,7 +65516,7 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 96,
+    "srbobran": 56,
     "futog": 0
   }
     
