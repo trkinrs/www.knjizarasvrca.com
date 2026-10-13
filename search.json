@@ -13751,7 +13751,7 @@
     "image": "/assets/images/186/set-ho-penkalo-tto-1.jpg",
     "price": 1250.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -27215,7 +27215,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 1
   }
     
@@ -47479,7 +47479,7 @@
     "image": "/assets/images/370/cestitka-stampana-1.jpg",
     "price": 230.0,
     "jeusluga": 0,
-    "srbobran": 53,
+    "srbobran": 52,
     "futog": 40
   }
     
@@ -48040,7 +48040,7 @@
     "image": "/assets/images/373/cestitka-mini-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 23,
+    "srbobran": 22,
     "futog": 21
   }
     
@@ -53208,7 +53208,7 @@
     "image": "/assets/images/41/uk-papir-2m-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 5
   }
     
@@ -65431,7 +65431,7 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 3
   }
     
