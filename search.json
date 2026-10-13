@@ -8550,7 +8550,7 @@
     "price": 190.0,
     "jeusluga": 0,
     "srbobran": 22,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -19461,7 +19461,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/221/ranac-sc-1.jpg",
-    "price": 3210.0,
+    "price": 2999.0,
     "jeusluga": 0,
     "srbobran": 2,
     "futog": 1
@@ -32554,7 +32554,7 @@
     "price": 210.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -34254,7 +34254,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 66,
-    "futog": 19
+    "futog": 18
   }
     
   ,
@@ -34424,7 +34424,7 @@
     "price": 999.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -45100,7 +45100,7 @@
     "price": 399.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -48157,7 +48157,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/3736/ranac-super-1.jpg",
-    "price": 3135.0,
+    "price": 2999.0,
     "jeusluga": 0,
     "srbobran": 1,
     "futog": 1
