@@ -2514,7 +2514,7 @@
     "image": "/assets/images/111/ol-aero-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 13,
+    "srbobran": 11,
     "futog": 12
   }
     
@@ -3262,7 +3262,7 @@
     "image": "/assets/images/115/ol-hb-art-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 57,
+    "srbobran": 53,
     "futog": 34
   }
     
@@ -4401,7 +4401,7 @@
     "image": "/assets/images/121/mine-0-5-staedtler-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 16,
     "futog": 20
   }
     
@@ -7597,7 +7597,7 @@
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 35,
+    "srbobran": 34,
     "futog": 6
   }
     
@@ -12715,7 +12715,7 @@
     "price": 170.0,
     "jeusluga": 0,
     "srbobran": 53,
-    "futog": 18
+    "futog": 17
   }
     
   ,
@@ -19293,7 +19293,7 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 7,
     "futog": 0
   }
     
@@ -25890,7 +25890,7 @@
     "price": 990.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -34254,7 +34254,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 66,
-    "futog": 16
+    "futog": 14
   }
     
   ,
@@ -46052,7 +46052,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 26,
-    "futog": 24
+    "futog": 23
   }
     
   ,
@@ -47565,7 +47565,7 @@
     "price": 990.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47582,7 +47582,7 @@
     "price": 1199.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47616,7 +47616,7 @@
     "price": 780.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47684,7 +47684,7 @@
     "price": 792.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47701,7 +47701,7 @@
     "price": 792.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47718,7 +47718,7 @@
     "price": 792.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47735,7 +47735,7 @@
     "price": 1100.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -47752,7 +47752,7 @@
     "price": 1320.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47786,7 +47786,7 @@
     "price": 1210.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -47820,7 +47820,7 @@
     "price": 1100.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47837,7 +47837,7 @@
     "price": 1100.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47871,7 +47871,7 @@
     "price": 1100.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47888,7 +47888,7 @@
     "price": 770.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47973,7 +47973,7 @@
     "price": 792.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47990,7 +47990,7 @@
     "price": 792.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -48007,7 +48007,7 @@
     "price": 792.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -48040,7 +48040,7 @@
     "image": "/assets/images/373/cestitka-mini-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 24,
+    "srbobran": 23,
     "futog": 21
   }
     
@@ -48075,7 +48075,7 @@
     "price": 792.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 2
+    "futog": 0
   }
     
   ,
@@ -53616,7 +53616,7 @@
     "image": "/assets/images/419/makaze-ek-13-5cm-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 16
   }
     
@@ -56370,7 +56370,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 62,
+    "srbobran": 47,
     "futog": 33
   }
     
@@ -56540,7 +56540,7 @@
     "image": "/assets/images/467/gel-olovka-pisi-brisi-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -58325,7 +58325,7 @@
     "image": "/assets/images/561/to-black-pointer-0-5-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 17,
     "futog": 28
   }
     
@@ -60875,7 +60875,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 39,
     "futog": 0
   }
     
@@ -65635,7 +65635,7 @@
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 24,
+    "srbobran": 23,
     "futog": 14
   }
     
