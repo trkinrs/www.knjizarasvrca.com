@@ -2735,7 +2735,7 @@
     "image": null,
     "price": 1650.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -6237,7 +6237,7 @@
     "image": null,
     "price": 410.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 261,
+    "srbobran": 161,
     "futog": 45
   }
     
@@ -8243,7 +8243,7 @@
     "image": "/assets/images/1413/kutija-za-spajalice-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
@@ -12357,7 +12357,7 @@
     "image": "/assets/images/170/pero-za-tus-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 10,
     "futog": 9
   }
     
@@ -17729,7 +17729,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 79,
+    "srbobran": 73,
     "futog": 26
   }
     
@@ -26008,7 +26008,7 @@
     "image": "/assets/images/2557/geografski-atlas-1.jpg",
     "price": 1550.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -26127,7 +26127,7 @@
     "image": "/assets/images/2563/flomasteri-maxi-1-12-1.webp",
     "price": 645.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": null
   }
     
@@ -30207,7 +30207,7 @@
     "image": "/assets/images/278/rezac-igloo-2-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 16,
+    "srbobran": 13,
     "futog": 29
   }
     
@@ -34253,7 +34253,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 66,
+    "srbobran": 64,
     "futog": 14
   }
     
@@ -40611,7 +40611,7 @@
     "image": null,
     "price": 355.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -53157,7 +53157,7 @@
     "image": "/assets/images/409/stipaljka-41mm-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -56966,7 +56966,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 281,
-    "futog": 301
+    "futog": 300
   }
     
   ,
@@ -57101,7 +57101,7 @@
     "image": "/assets/images/497/stilo-za-pero-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 9,
     "futog": 14
   }
     
@@ -57220,7 +57220,7 @@
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
     "jeusluga": 0,
-    "srbobran": 34,
+    "srbobran": 33,
     "futog": 0
   }
     
@@ -57883,7 +57883,7 @@
     "image": null,
     "price": 350.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -59685,7 +59685,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 27,
+    "srbobran": 26,
     "futog": 3
   }
     
@@ -60382,7 +60382,7 @@
     "image": null,
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 25
   }
     
@@ -61334,7 +61334,7 @@
     "image": "/assets/images/720/sponke-maped-24-6-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 22,
+    "srbobran": 20,
     "futog": 7
   }
     
@@ -62252,7 +62252,7 @@
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 36,
+    "srbobran": 35,
     "futog": 0
   }
     
@@ -63187,7 +63187,7 @@
     "image": "/assets/images/819/priznanica-a-6-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": 0
   }
     
@@ -64700,7 +64700,7 @@
     "image": "/assets/images/9/balon-sb10p-23cm-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 323,
+    "srbobran": 317,
     "futog": 318
   }
     
@@ -65533,7 +65533,7 @@
     "image": null,
     "price": 910.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -65550,7 +65550,7 @@
     "image": null,
     "price": 199.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -65788,7 +65788,7 @@
     "image": "/assets/images/13.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 21,
+    "srbobran": 20,
     "futog": 0
   }
     
@@ -65839,7 +65839,7 @@
     "image": null,
     "price": 145.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -66400,7 +66400,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 26,
+    "srbobran": 24,
     "futog": 21
   }
     
