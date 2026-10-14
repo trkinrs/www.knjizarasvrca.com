@@ -883,7 +883,7 @@
     "price": 860.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -37450,7 +37450,7 @@
     "price": 50.01,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -40867,7 +40867,7 @@
     "price": 110.0,
     "jeusluga": 0,
     "srbobran": 8,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -62253,7 +62253,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 36,
-    "futog": 5
+    "futog": 2
   }
     
   ,
@@ -65432,7 +65432,7 @@
     "price": 60.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 3
+    "futog": 0
   }
     
   ,
