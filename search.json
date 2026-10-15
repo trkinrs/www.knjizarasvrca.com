@@ -14636,7 +14636,7 @@
     "price": 1950.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -14653,7 +14653,7 @@
     "price": 1950.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47479,7 +47479,7 @@
     "image": "/assets/images/370/cestitka-stampana-1.jpg",
     "price": 230.0,
     "jeusluga": 0,
-    "srbobran": 52,
+    "srbobran": 51,
     "futog": 40
   }
     
