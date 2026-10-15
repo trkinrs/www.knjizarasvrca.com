@@ -509,7 +509,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 41,
-    "futog": 64
+    "futog": 59
   }
     
   ,
@@ -13378,7 +13378,7 @@
     "price": 399.0,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -16013,7 +16013,7 @@
     "price": 120.0,
     "jeusluga": 0,
     "srbobran": 73,
-    "futog": 49
+    "futog": 48
   }
     
   ,
@@ -30412,7 +30412,7 @@
     "price": 125.0,
     "jeusluga": 0,
     "srbobran": 17,
-    "futog": 23
+    "futog": 20
   }
     
   ,
@@ -48109,7 +48109,7 @@
     "price": 80.0,
     "jeusluga": 0,
     "srbobran": 42,
-    "futog": 46
+    "futog": 45
   }
     
   ,
@@ -56830,7 +56830,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 96,
-    "futog": 34
+    "futog": 33
   }
     
   ,
@@ -64326,7 +64326,7 @@
     "image": "/assets/images/88/folija-bus-1.jpg",
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 0,
     "futog": null
   }
     
