@@ -9977,7 +9977,7 @@
     "image": "/assets/images/1525/cestitka-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 21,
+    "srbobran": 19,
     "futog": 14
   }
     
@@ -10062,7 +10062,7 @@
     "image": "/assets/images/153/ho-a-plus-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 20,
+    "srbobran": 19,
     "futog": 0
   }
     
@@ -56276,6 +56276,40 @@
   
   
   {
+    "title": "SEČENJE OBLIKA OD STIROPORA",
+    "content": "\n",
+    "sku": 4527,
+    "url": "/4527/secenje-oblika-od-stiropora/",
+    "collection": "articles",
+    "kind": "article",
+    "image": null,
+    "price": 200.0,
+    "jeusluga": 1,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
+    "title": "SEČENJE SLOVA OD STIROPORA",
+    "content": "\n",
+    "sku": 4528,
+    "url": "/4528/secenje-slova-od-stiropora/",
+    "collection": "articles",
+    "kind": "article",
+    "image": null,
+    "price": 1000.0,
+    "jeusluga": 1,
+    "srbobran": null,
+    "futog": null
+  }
+    
+  ,
+  
+  
+  {
     "title": "FOTO ALBUM 13/18 100F",
     "content": "\n",
     "sku": 453,
@@ -56829,8 +56863,8 @@
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 96,
-    "futog": 33
+    "srbobran": 89,
+    "futog": 31
   }
     
   ,
@@ -58376,7 +58410,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 37,
     "futog": 0
   }
     
@@ -59482,7 +59516,7 @@
     "price": 170.0,
     "jeusluga": 0,
     "srbobran": 22,
-    "futog": 15
+    "futog": 14
   }
     
   ,
@@ -64054,7 +64088,7 @@
     "image": "/assets/images/865/otpremnica-a-5-pdv-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 10,
+    "srbobran": 7,
     "futog": 5
   }
     
