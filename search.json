@@ -2514,7 +2514,7 @@
     "image": "/assets/images/111/ol-aero-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 10,
     "futog": 12
   }
     
@@ -3262,7 +3262,7 @@
     "image": "/assets/images/115/ol-hb-art-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 49,
+    "srbobran": 47,
     "futog": 34
   }
     
@@ -7597,7 +7597,7 @@
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 34,
+    "srbobran": 33,
     "futog": 6
   }
     
@@ -8362,7 +8362,7 @@
     "image": "/assets/images/142/rezac-maped-mini-boogy-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 37,
+    "srbobran": 36,
     "futog": 41
   }
     
@@ -19259,7 +19259,7 @@
     "image": "/assets/images/22/index-a-4-1.jpg",
     "price": 730.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -34253,7 +34253,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 64,
+    "srbobran": 63,
     "futog": 14
   }
     
@@ -56864,7 +56864,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 89,
-    "futog": 31
+    "futog": 27
   }
     
   ,
@@ -58104,7 +58104,7 @@
     "image": "/assets/images/548/rashteftivac-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -64530,7 +64530,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 1
   }
     
