@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 146,
+    "srbobran": 145,
     "futog": 45
   }
     
@@ -51866,7 +51866,7 @@
     "price": 1499.04,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -51934,7 +51934,7 @@
     "price": 1499.04,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -59023,7 +59023,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 50,
-    "futog": 11
+    "futog": 9
   }
     
   ,
@@ -63255,7 +63255,7 @@
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 1,
     "futog": 0
   }
     
