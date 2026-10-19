@@ -509,7 +509,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 41,
-    "futog": 58
+    "futog": 55
   }
     
   ,
@@ -6663,7 +6663,7 @@
     "price": 30.0,
     "jeusluga": 0,
     "srbobran": 6,
-    "futog": 24
+    "futog": 23
   }
     
   ,
@@ -26008,7 +26008,7 @@
     "image": "/assets/images/2557/geografski-atlas-1.jpg",
     "price": 1550.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -63255,7 +63255,7 @@
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
