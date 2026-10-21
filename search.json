@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 145,
+    "srbobran": 140,
     "futog": 35
   }
     
@@ -16318,7 +16318,7 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 13,
+    "srbobran": 3,
     "futog": 12
   }
     
@@ -46834,7 +46834,7 @@
     "price": 90.0,
     "jeusluga": 0,
     "srbobran": 105,
-    "futog": 14
+    "futog": 12
   }
     
   ,
@@ -52359,7 +52359,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 10,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -59056,7 +59056,7 @@
     "image": "/assets/images/599/dosije-boja-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 46,
+    "srbobran": 45,
     "futog": 30
   }
     
@@ -61165,7 +61165,7 @@
     "price": 70.0,
     "jeusluga": 0,
     "srbobran": 261,
-    "futog": 323
+    "futog": 322
   }
     
   ,
