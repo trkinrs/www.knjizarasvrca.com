@@ -7479,7 +7479,7 @@
     "price": 6.0,
     "jeusluga": 0,
     "srbobran": 40,
-    "futog": 35
+    "futog": 5
   }
     
   ,
@@ -18596,7 +18596,7 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -25277,7 +25277,7 @@
     "image": null,
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -27215,7 +27215,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 1
   }
     
