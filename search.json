@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 140,
+    "srbobran": 40,
     "futog": 35
   }
     
@@ -30105,7 +30105,7 @@
     "image": "/assets/images/2774/marker-0-6-cp-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 58,
+    "srbobran": 56,
     "futog": 46
   }
     
@@ -47190,7 +47190,7 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -56863,7 +56863,7 @@
     "image": "/assets/images/482/ho-ah-567-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 88,
+    "srbobran": 83,
     "futog": 27
   }
     
@@ -58988,7 +58988,7 @@
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 66,
+    "srbobran": 65,
     "futog": 28
   }
     
@@ -65398,7 +65398,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 12,
-    "futog": 5
+    "futog": 4
   }
     
   ,
