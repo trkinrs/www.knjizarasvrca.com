@@ -10896,7 +10896,7 @@
     "price": 399.01,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -19124,7 +19124,7 @@
     "price": 289.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -20687,7 +20687,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 61,
+    "srbobran": 60,
     "futog": 19
   }
     
@@ -27352,7 +27352,7 @@
     "price": 499.02,
     "jeusluga": 0,
     "srbobran": 5,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -43349,7 +43349,7 @@
     "price": 55.0,
     "jeusluga": 0,
     "srbobran": 90,
-    "futog": 46
+    "futog": 44
   }
     
   ,
@@ -43604,7 +43604,7 @@
     "price": 499.02,
     "jeusluga": 0,
     "srbobran": 1,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -48245,7 +48245,7 @@
     "price": 1999.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -49639,7 +49639,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 38
+    "futog": 37
   }
     
   ,
@@ -54994,7 +54994,7 @@
     "price": 199.0,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -55231,7 +55231,7 @@
     "image": "/assets/images/447/roler-pilot-pisi-brisi-1.jpg",
     "price": 480.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": null
   }
     
@@ -61368,7 +61368,7 @@
     "image": "/assets/images/720/sponke-maped-24-6-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 36,
+    "srbobran": 35,
     "futog": 7
   }
     
@@ -61828,7 +61828,7 @@
     "price": 99.0,
     "jeusluga": 0,
     "srbobran": 19,
-    "futog": 7
+    "futog": 5
   }
     
   ,
@@ -63221,7 +63221,7 @@
     "image": "/assets/images/819/priznanica-a-6-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 13,
+    "srbobran": 12,
     "futog": 0
   }
     
