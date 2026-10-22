@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 39,
     "futog": 5
   }
     
@@ -18851,7 +18851,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 573,
+    "srbobran": 563,
     "futog": 0
   }
     
@@ -30633,7 +30633,7 @@
     "price": 50.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 5
+    "futog": 0
   }
     
   ,
@@ -33999,7 +33999,7 @@
     "price": 90.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 5
+    "futog": 1
   }
     
   ,
@@ -35240,7 +35240,7 @@
     "price": 1100.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36107,7 +36107,7 @@
     "price": 780.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36192,7 +36192,7 @@
     "price": 90.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 3
+    "futog": 0
   }
     
   ,
@@ -36549,7 +36549,7 @@
     "price": 1990.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36566,7 +36566,7 @@
     "price": 1990.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -36583,7 +36583,7 @@
     "price": 1990.03,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -38470,7 +38470,7 @@
     "price": 1050.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -40102,7 +40102,7 @@
     "price": 50.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 5
+    "futog": 0
   }
     
   ,
@@ -40221,7 +40221,7 @@
     "price": 980.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -56761,7 +56761,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 29,
+    "srbobran": 28,
     "futog": 12
   }
     
