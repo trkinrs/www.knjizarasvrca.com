@@ -797,7 +797,7 @@
     "image": "/assets/images/1019/kraft-stipaljka-unicorn-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -2310,7 +2310,7 @@
     "image": "/assets/images/11/sveska-a-5-tp-sc-1.jpg",
     "price": 115.0,
     "jeusluga": 0,
-    "srbobran": 138,
+    "srbobran": 137,
     "futog": 48
   }
     
@@ -2514,7 +2514,7 @@
     "image": "/assets/images/111/ol-aero-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 5,
     "futog": 12
   }
     
@@ -3755,7 +3755,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 28,
+    "srbobran": 4,
     "futog": 5
   }
     
@@ -4129,7 +4129,7 @@
     "image": "/assets/images/1196/gumica-sc-1.jpg",
     "price": 75.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -4775,7 +4775,7 @@
     "image": "/assets/images/123/mine-0-5-hb-stabilo-duple-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -5013,7 +5013,7 @@
     "image": "/assets/images/1242/to-0-7-maped-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 5
   }
     
@@ -14533,7 +14533,7 @@
     "image": "/assets/images/1900/termo-rolna-80-70mm-1.jpg",
     "price": 225.0,
     "jeusluga": 0,
-    "srbobran": 18,
+    "srbobran": 12,
     "futog": 8
   }
     
@@ -16267,7 +16267,7 @@
     "image": null,
     "price": 399.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -17729,7 +17729,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 73,
+    "srbobran": 33,
     "futog": 23
   }
     
@@ -19378,7 +19378,7 @@
     "image": "/assets/images/2205/gumica-fc-natur-1.jpg",
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 10,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -48108,7 +48108,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 42,
+    "srbobran": 41,
     "futog": 42
   }
     
@@ -52477,7 +52477,7 @@
     "image": null,
     "price": 75.0,
     "jeusluga": 0,
-    "srbobran": 34,
+    "srbobran": 33,
     "futog": 9
   }
     
@@ -53123,7 +53123,7 @@
     "image": "/assets/images/4082/jastuce-za-pecat-2-1.jpg",
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -56812,7 +56812,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -57203,7 +57203,7 @@
     "image": "/assets/images/50/lenjir-15-17cm-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -57288,7 +57288,7 @@
     "image": "/assets/images/504/signir-fc-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -59430,7 +59430,7 @@
     "image": "/assets/images/618/etikete-br-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 36,
+    "srbobran": 34,
     "futog": 13
   }
     
