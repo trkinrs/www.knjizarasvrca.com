@@ -2733,9 +2733,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 1650.0,
+    "price": 1750.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -2767,9 +2767,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/1123/heft-masina-24-6-delta-107-1.jpg",
-    "price": 955.0,
+    "price": 1030.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -5810,9 +5810,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 4295.0,
+    "price": 4780.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -14754,7 +14754,7 @@
     "image": "/assets/images/1912/zabranjeno-pusenje-a-4-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 3,
     "futog": 3
   }
     
@@ -16231,9 +16231,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
-    "price": 330.0,
+    "price": 390.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 15,
     "futog": 4
   }
     
@@ -26125,9 +26125,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2563/flomasteri-maxi-1-12-1.webp",
-    "price": 645.0,
+    "price": 760.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 6,
     "futog": null
   }
     
@@ -44638,9 +44638,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 3360.0,
+    "price": 2100.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -46732,7 +46732,7 @@
     "price": 599.01,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -56404,7 +56404,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 43,
+    "srbobran": 143,
     "futog": 33
   }
     
@@ -57116,9 +57116,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 410.0,
+    "price": 470.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -58724,16 +58724,16 @@
   
   
   {
-    "title": "LEPAK STICK OF 9G",
+    "title": "LEPAK DRVOFIX",
     "content": "\n",
     "sku": 581,
-    "url": "/581/lepak-stick-of-9g/",
+    "url": "/581/lepak-drvofix/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 60.0,
+    "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -58835,7 +58835,7 @@
     "image": null,
     "price": 25.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 50,
     "futog": 0
   }
     
@@ -60482,9 +60482,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 265.0,
+    "price": 350.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -61844,7 +61844,7 @@
     "image": "/assets/images/746/obrazac-1-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 11,
+    "srbobran": 21,
     "futog": 2
   }
     
@@ -61929,7 +61929,7 @@
     "image": "/assets/images/750/obrazac-3-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 16,
     "futog": 2
   }
     
@@ -63253,9 +63253,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
-    "price": 120.0,
+    "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": 0
   }
     
@@ -64069,9 +64069,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/864/otpremnica-a-4-1.jpg",
-    "price": 350.0,
+    "price": 380.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -64290,9 +64290,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/876/knjiga-sanka-ncr-1.jpg",
-    "price": 340.0,
+    "price": 380.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 11,
     "futog": 2
   }
     
@@ -64324,9 +64324,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/878/racun-a-4-ncr-1.jpg",
-    "price": 360.0,
+    "price": 380.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 4,
     "futog": null
   }
     
@@ -64497,7 +64497,7 @@
     "price": 300.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -65701,9 +65701,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/950/ribon-lq-800-1.jpg",
-    "price": 490.0,
+    "price": 590.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 3,
     "futog": null
   }
     
