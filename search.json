@@ -5812,7 +5812,7 @@
     "image": null,
     "price": 4780.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -9978,7 +9978,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 19,
-    "futog": 14
+    "futog": 13
   }
     
   ,
@@ -10589,7 +10589,7 @@
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 37,
+    "srbobran": 34,
     "futog": 0
   }
     
@@ -17730,7 +17730,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 33,
-    "futog": 23
+    "futog": 22
   }
     
   ,
@@ -43332,7 +43332,7 @@
     "price": 499.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -43366,7 +43366,7 @@
     "price": 499.02,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -47480,7 +47480,7 @@
     "price": 230.0,
     "jeusluga": 0,
     "srbobran": 50,
-    "futog": 40
+    "futog": 39
   }
     
   ,
@@ -47905,7 +47905,7 @@
     "price": 160.0,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 4
+    "futog": 3
   }
     
   ,
@@ -50710,7 +50710,7 @@
     "price": 699.01,
     "jeusluga": 0,
     "srbobran": 2,
-    "futog": 2
+    "futog": 1
   }
     
   ,
@@ -57000,7 +57000,7 @@
     "price": 130.0,
     "jeusluga": 0,
     "srbobran": 279,
-    "futog": 294
+    "futog": 293
   }
     
   ,
@@ -57679,7 +57679,7 @@
     "image": null,
     "price": 165.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 7,
     "futog": 15
   }
     
@@ -58665,7 +58665,7 @@
     "image": null,
     "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 0
   }
     
@@ -58988,7 +58988,7 @@
     "image": "/assets/images/595/koverat-a-4-sl-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 65,
+    "srbobran": 63,
     "futog": 28
   }
     
