@@ -508,7 +508,7 @@
     "image": "/assets/images/1003/ol-hb-peps-gumica-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 38,
     "futog": 54
   }
     
@@ -16267,7 +16267,7 @@
     "image": null,
     "price": 399.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -16641,7 +16641,7 @@
     "image": null,
     "price": 345.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 2
   }
     
@@ -18851,7 +18851,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 563,
+    "srbobran": 561,
     "futog": 0
   }
     
@@ -19293,7 +19293,7 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": 0
   }
     
@@ -48108,7 +48108,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 38,
     "futog": 42
   }
     
@@ -52580,7 +52580,7 @@
     "price": 1050.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -64700,7 +64700,7 @@
     "image": "/assets/images/898/gumica-b-40-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": 29
   }
     
