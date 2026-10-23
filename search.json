@@ -7036,7 +7036,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 14,
+    "srbobran": 13,
     "futog": null
   }
     
@@ -7597,7 +7597,7 @@
     "image": "/assets/images/138/gumica-softy-mini-1.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 33,
+    "srbobran": 32,
     "futog": 6
   }
     
@@ -13718,7 +13718,7 @@
     "price": 70.0,
     "jeusluga": 0,
     "srbobran": 8,
-    "futog": 8
+    "futog": 7
   }
     
   ,
@@ -63681,7 +63681,7 @@
     "price": 120.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 18
+    "futog": 17
   }
     
   ,
@@ -64530,7 +64530,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 1
   }
     
