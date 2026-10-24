@@ -5200,7 +5200,7 @@
     "image": "/assets/images/1252/koverat-b-6-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 144,
+    "srbobran": 134,
     "futog": 57
   }
     
@@ -9212,7 +9212,7 @@
     "image": "/assets/images/148/lepak-stick-10g-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -10589,7 +10589,7 @@
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 34,
+    "srbobran": 32,
     "futog": 0
   }
     
@@ -34253,7 +34253,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 62,
+    "srbobran": 60,
     "futog": 14
   }
     
@@ -58716,7 +58716,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 193,
+    "srbobran": 183,
     "futog": 4
   }
     
@@ -58903,7 +58903,7 @@
     "image": null,
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 75,
+    "srbobran": 73,
     "futog": 67
   }
     
