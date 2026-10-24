@@ -16437,7 +16437,7 @@
     "image": "/assets/images/2001/vu-mali-hrabrisa-1.webp",
     "price": 799.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -41971,7 +41971,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 39,
+    "srbobran": 37,
     "futog": 50
   }
     
@@ -47480,7 +47480,7 @@
     "price": 230.0,
     "jeusluga": 0,
     "srbobran": 50,
-    "futog": 39
+    "futog": 38
   }
     
   ,
@@ -47667,7 +47667,7 @@
     "price": 120.0,
     "jeusluga": 0,
     "srbobran": 19,
-    "futog": 9
+    "futog": 7
   }
     
   ,
@@ -64530,7 +64530,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 3,
     "futog": 1
   }
     
