@@ -8243,7 +8243,7 @@
     "image": "/assets/images/1413/kutija-za-spajalice-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -12714,7 +12714,7 @@
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
     "jeusluga": 0,
-    "srbobran": 52,
+    "srbobran": 51,
     "futog": 14
   }
     
@@ -28508,7 +28508,7 @@
     "price": 450.0,
     "jeusluga": 0,
     "srbobran": 52,
-    "futog": 46
+    "futog": 44
   }
     
   ,
@@ -56762,7 +56762,7 @@
     "price": 50.0,
     "jeusluga": 0,
     "srbobran": 28,
-    "futog": 11
+    "futog": 6
   }
     
   ,
@@ -58733,7 +58733,7 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -63544,7 +63544,7 @@
     "image": "/assets/images/836/kasa-blok-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -65584,7 +65584,7 @@
     "image": null,
     "price": 199.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 0,
     "futog": 0
   }
     
