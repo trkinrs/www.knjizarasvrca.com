@@ -3755,8 +3755,8 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 5
+    "srbobran": 9,
+    "futog": 0
   }
     
   ,
@@ -6084,8 +6084,8 @@
     "image": null,
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 5
+    "srbobran": 7,
+    "futog": 1
   }
     
   ,
@@ -8243,8 +8243,8 @@
     "image": "/assets/images/1413/kutija-za-spajalice-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -12714,8 +12714,8 @@
     "image": "/assets/images/177/hamer-b-1-boja-1.jpg",
     "price": 170.0,
     "jeusluga": 0,
-    "srbobran": 51,
-    "futog": 14
+    "srbobran": 65,
+    "futog": 0
   }
     
   ,
@@ -13258,8 +13258,8 @@
     "image": null,
     "price": 290.0,
     "jeusluga": 0,
-    "srbobran": 9,
-    "futog": 7
+    "srbobran": 11,
+    "futog": 5
   }
     
   ,
@@ -14533,8 +14533,8 @@
     "image": "/assets/images/1900/termo-rolna-80-70mm-1.jpg",
     "price": 225.0,
     "jeusluga": 0,
-    "srbobran": 12,
-    "futog": 8
+    "srbobran": 20,
+    "futog": 0
   }
     
   ,
@@ -16318,8 +16318,8 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 12
+    "srbobran": 15,
+    "futog": 0
   }
     
   ,
@@ -17729,8 +17729,8 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 31,
-    "futog": 22
+    "srbobran": 51,
+    "futog": 2
   }
     
   ,
@@ -25940,8 +25940,8 @@
     "image": null,
     "price": 999.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -27215,8 +27215,8 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -28694,8 +28694,8 @@
     "image": "/assets/images/27/sveska-a-4-tp-1.jpg",
     "price": 320.0,
     "jeusluga": 0,
-    "srbobran": 31,
-    "futog": 16
+    "srbobran": 34,
+    "futog": 13
   }
     
   ,
@@ -28845,10 +28845,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 499.0,
+    "price": 999.02,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -33999,7 +33999,7 @@
     "price": 90.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -39914,8 +39914,8 @@
     "image": "/assets/images/33/sundjer-za-belu-tablu-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 2
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -50811,8 +50811,8 @@
     "image": null,
     "price": 699.01,
     "jeusluga": 0,
-    "srbobran": 9,
-    "futog": 4
+    "srbobran": 13,
+    "futog": 0
   }
     
   ,
@@ -51134,8 +51134,8 @@
     "image": null,
     "price": 1199.02,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -51321,8 +51321,8 @@
     "image": null,
     "price": 1199.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51355,8 +51355,8 @@
     "image": null,
     "price": 1199.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51474,8 +51474,8 @@
     "image": null,
     "price": 1299.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51491,8 +51491,8 @@
     "image": null,
     "price": 1299.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51508,8 +51508,8 @@
     "image": null,
     "price": 1199.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51559,8 +51559,8 @@
     "image": null,
     "price": 1199.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51712,8 +51712,8 @@
     "image": null,
     "price": 1199.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51780,8 +51780,8 @@
     "image": null,
     "price": 1299.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51882,8 +51882,8 @@
     "image": null,
     "price": 1299.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -51950,8 +51950,8 @@
     "image": null,
     "price": 1399.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -53905,8 +53905,8 @@
     "image": "/assets/images/4263/baterija-aa-aaa-1.jpg",
     "price": 75.0,
     "jeusluga": 0,
-    "srbobran": 20,
-    "futog": 12
+    "srbobran": 24,
+    "futog": 8
   }
     
   ,
@@ -56846,8 +56846,8 @@
     "image": "/assets/images/481/ho-vinson-fashion-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 21
+    "srbobran": 26,
+    "futog": 0
   }
     
   ,
@@ -57203,8 +57203,8 @@
     "image": "/assets/images/50/lenjir-15-17cm-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -59039,8 +59039,8 @@
     "image": "/assets/images/598/dosije-sa-gumom-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 22,
-    "futog": 14
+    "srbobran": 36,
+    "futog": 0
   }
     
   ,
@@ -59209,8 +59209,8 @@
     "image": null,
     "price": 8.0,
     "jeusluga": 0,
-    "srbobran": 104,
-    "futog": 100
+    "srbobran": 204,
+    "futog": 0
   }
     
   ,
@@ -59260,8 +59260,8 @@
     "image": "/assets/images/609/l-svetlo-u-prozoru-lusinda-rajli-1.jpg",
     "price": 1299.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 1
   }
     
   ,
@@ -59294,8 +59294,8 @@
     "image": null,
     "price": 1299.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 1
   }
     
   ,
@@ -59430,8 +59430,8 @@
     "image": "/assets/images/618/etikete-br-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 34,
-    "futog": 13
+    "srbobran": 46,
+    "futog": 1
   }
     
   ,
@@ -60263,8 +60263,8 @@
     "image": "/assets/images/662/dosije-mehanika-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 21
+    "srbobran": 21,
+    "futog": 0
   }
     
   ,
@@ -61828,7 +61828,7 @@
     "price": 99.0,
     "jeusluga": 0,
     "srbobran": 19,
-    "futog": 5
+    "futog": 4
   }
     
   ,
@@ -64530,8 +64530,8 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
