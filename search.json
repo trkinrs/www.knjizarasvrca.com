@@ -4402,7 +4402,7 @@
     "price": 150.0,
     "jeusluga": 0,
     "srbobran": 16,
-    "futog": 18
+    "futog": 17
   }
     
   ,
@@ -17270,7 +17270,7 @@
     "image": "/assets/images/2088/marker-art-obostrani-1.jpg",
     "price": 99.0,
     "jeusluga": 0,
-    "srbobran": 53,
+    "srbobran": 52,
     "futog": 33
   }
     
@@ -22574,7 +22574,7 @@
     "image": null,
     "price": 999.02,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -24546,7 +24546,7 @@
     "image": null,
     "price": 215.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -27012,7 +27012,7 @@
     "price": 40.0,
     "jeusluga": 0,
     "srbobran": 0,
-    "futog": 7
+    "futog": 6
   }
     
   ,
@@ -27946,7 +27946,7 @@
     "image": "/assets/images/266/rezac-yl-241606-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 5
   }
     
@@ -48108,7 +48108,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 36,
+    "srbobran": 35,
     "futog": 42
   }
     
@@ -57390,7 +57390,7 @@
     "image": "/assets/images/51/lenjir-30cm-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 2
   }
     
@@ -62286,7 +62286,7 @@
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 31,
+    "srbobran": 28,
     "futog": 0
   }
     
@@ -62643,7 +62643,7 @@
     "image": null,
     "price": 249.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -63255,7 +63255,7 @@
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 8,
+    "srbobran": 7,
     "futog": 0
   }
     
@@ -64530,7 +64530,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
