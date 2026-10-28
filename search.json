@@ -3755,7 +3755,7 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 9,
+    "srbobran": 45,
     "futog": 0
   }
     
@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 6.0,
     "jeusluga": 0,
-    "srbobran": 39,
+    "srbobran": 339,
     "futog": 2
   }
     
@@ -8243,7 +8243,7 @@
     "image": "/assets/images/1413/kutija-za-spajalice-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -10589,7 +10589,7 @@
     "image": "/assets/images/156/ho-of-easy-glide-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 32,
+    "srbobran": 68,
     "futog": 0
   }
     
@@ -17729,7 +17729,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 46,
+    "srbobran": 45,
     "futog": 2
   }
     
@@ -28507,7 +28507,7 @@
     "image": "/assets/images/269/1.jpg",
     "price": 450.0,
     "jeusluga": 0,
-    "srbobran": 52,
+    "srbobran": 51,
     "futog": 44
   }
     
@@ -43074,9 +43074,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 50.0,
+    "price": 54.0,
     "jeusluga": 0,
-    "srbobran": 17,
+    "srbobran": 113,
     "futog": 0
   }
     
@@ -53903,9 +53903,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/4263/baterija-aa-aaa-1.jpg",
-    "price": 75.0,
+    "price": 85.0,
     "jeusluga": 0,
-    "srbobran": 24,
+    "srbobran": 32,
     "futog": 8
   }
     
@@ -58578,9 +58578,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/573/blok-kocka-1.jpg",
-    "price": 180.0,
+    "price": 205.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 13,
     "futog": 0
   }
     
@@ -58904,7 +58904,7 @@
     "price": 20.0,
     "jeusluga": 0,
     "srbobran": 58,
-    "futog": 67
+    "futog": 66
   }
     
   ,
@@ -59209,7 +59209,7 @@
     "image": null,
     "price": 8.0,
     "jeusluga": 0,
-    "srbobran": 104,
+    "srbobran": 404,
     "futog": 0
   }
     
@@ -60356,16 +60356,16 @@
   
   
   {
-    "title": "KOREKTOR TRAKA 8M",
+    "title": "KOREKTOR TRAKA 6M",
     "content": "\n",
     "sku": 668,
-    "url": "/668/korektor-traka-8m/",
+    "url": "/668/korektor-traka-6m/",
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/8.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": 0
   }
     
@@ -60382,7 +60382,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": null
   }
     
@@ -60569,7 +60569,7 @@
     "image": "/assets/images/679/nakvasac-gumeni-1.jpg",
     "price": 99.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -61674,7 +61674,7 @@
     "image": "/assets/images/737/datumar-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 2,
     "futog": null
   }
     
@@ -62286,7 +62286,7 @@
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 28,
+    "srbobran": 24,
     "futog": 0
   }
     
@@ -63542,9 +63542,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/836/kasa-blok-1.jpg",
-    "price": 50.0,
+    "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 6,
     "futog": 0
   }
     
