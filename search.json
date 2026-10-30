@@ -12664,7 +12664,7 @@
     "price": 1100.01,
     "jeusluga": 0,
     "srbobran": null,
-    "futog": 1
+    "futog": 0
   }
     
   ,
@@ -62405,7 +62405,7 @@
     "image": "/assets/images/776/marker-bt-con-1.jpg",
     "price": 99.0,
     "jeusluga": 0,
-    "srbobran": 14,
+    "srbobran": 12,
     "futog": 30
   }
     
