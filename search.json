@@ -3925,7 +3925,7 @@
     "image": null,
     "price": 610.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -18851,7 +18851,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 361,
+    "srbobran": 360,
     "futog": 0
   }
     
@@ -38622,7 +38622,7 @@
     "image": "/assets/images/3230/marker-cp-1mm-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 107,
+    "srbobran": 104,
     "futog": 37
   }
     
@@ -59039,7 +59039,7 @@
     "image": "/assets/images/598/dosije-sa-gumom-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 30,
+    "srbobran": 28,
     "futog": 0
   }
     
