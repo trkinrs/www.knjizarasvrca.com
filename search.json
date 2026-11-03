@@ -7476,9 +7476,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
-    "price": 6.0,
+    "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 334,
+    "srbobran": 332,
     "futog": 2
   }
     
@@ -8836,7 +8836,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/1445/dosije-11-rupa-60mic-1.jpg",
-    "price": 12.0,
+    "price": 15.0,
     "jeusluga": 0,
     "srbobran": 14,
     "futog": 0
@@ -59207,7 +59207,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 8.0,
+    "price": 10.0,
     "jeusluga": 0,
     "srbobran": 404,
     "futog": 0
