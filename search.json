@@ -7444,7 +7444,7 @@
     "image": "/assets/images/1371/dosije-sup-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 100,
+    "srbobran": 99,
     "futog": 0
   }
     
@@ -8547,7 +8547,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/143/tempera-42ml-1.jpg",
-    "price": 190.0,
+    "price": 210.0,
     "jeusluga": 0,
     "srbobran": 24,
     "futog": 0
@@ -27196,7 +27196,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 750.0,
+    "price": 850.0,
     "jeusluga": 0,
     "srbobran": 1,
     "futog": 0
@@ -63255,7 +63255,7 @@
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 5,
+    "srbobran": 4,
     "futog": 0
   }
     
