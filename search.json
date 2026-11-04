@@ -4061,7 +4061,7 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 4,
+    "srbobran": 2,
     "futog": 2
   }
     
@@ -16012,7 +16012,7 @@
     "image": "/assets/images/198/cestitka-rodjendan-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 72,
+    "srbobran": 71,
     "futog": 47
   }
     
@@ -57662,8 +57662,8 @@
     "image": "/assets/images/524/termo-rolna-57-40mm-1.jpg",
     "price": 65.0,
     "jeusluga": 0,
-    "srbobran": 49,
-    "futog": -10
+    "srbobran": 39,
+    "futog": 0
   }
     
   ,
