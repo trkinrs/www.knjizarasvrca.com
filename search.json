@@ -627,8 +627,8 @@
     "image": null,
     "price": 390.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -814,8 +814,8 @@
     "image": "/assets/images/102/fb-heart-45cm-red-1.jpg",
     "price": 200.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -831,8 +831,8 @@
     "image": "/assets/images/1020/ranac-tasna-damska-1.jpg",
     "price": 4015.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -1375,8 +1375,8 @@
     "image": "/assets/images/105/fb-heart-61cm-red-1.jpg",
     "price": 200.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 2
+    "srbobran": 6,
+    "futog": 0
   }
     
   ,
@@ -1560,10 +1560,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/106/fbs-48cm-1.jpg",
-    "price": 265.0,
+    "price": 285.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -2072,8 +2072,8 @@
     "image": "/assets/images/1087/puzzle-1-100-1.jpg",
     "price": 1545.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -2106,8 +2106,8 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 10
+    "srbobran": 18,
+    "futog": 0
   }
     
   ,
@@ -3075,8 +3075,8 @@
     "image": "/assets/images/114/procos-fb-18-1.jpg",
     "price": 610.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -3636,8 +3636,8 @@
     "image": "/assets/images/117/tegic-170g-1.jpg",
     "price": 350.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 3
+    "srbobran": 8,
+    "futog": 0
   }
     
   ,
@@ -3687,8 +3687,8 @@
     "image": "/assets/images/1172/ho-rotring-0-5-1.jpg",
     "price": 610.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 4
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -3772,8 +3772,8 @@
     "image": null,
     "price": 895.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -3823,8 +3823,8 @@
     "image": "/assets/images/118/masna-crvena-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 17,
-    "futog": 9
+    "srbobran": 21,
+    "futog": 5
   }
     
   ,
@@ -4061,8 +4061,8 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -4214,8 +4214,8 @@
     "image": null,
     "price": 495.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -4792,8 +4792,8 @@
     "image": "/assets/images/1230/cestitka-mini-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -4809,8 +4809,8 @@
     "image": "/assets/images/1231/cestitka-1.jpg",
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 3
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
@@ -4996,8 +4996,8 @@
     "image": "/assets/images/1241/ranac-anatomski-sc-1.jpg",
     "price": 6720.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 1
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -5081,8 +5081,8 @@
     "image": "/assets/images/1246/cestitka-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 5
+    "srbobran": 13,
+    "futog": 0
   }
     
   ,
@@ -5489,8 +5489,8 @@
     "image": "/assets/images/1268/marker-koh-i-noor-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 55,
-    "futog": 12
+    "srbobran": 68,
+    "futog": -1
   }
     
   ,
@@ -5897,8 +5897,8 @@
     "image": "/assets/images/17903259856381961998301051279442.jpg",
     "price": 395.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 4
+    "srbobran": 9,
+    "futog": 0
   }
     
   ,
@@ -5914,8 +5914,8 @@
     "image": "/assets/images/1290/ukrasna-kesa-1.jpg",
     "price": 65.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 3
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -7019,8 +7019,8 @@
     "image": null,
     "price": 520.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -7053,8 +7053,8 @@
     "image": null,
     "price": 325.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -7070,8 +7070,8 @@
     "image": null,
     "price": 275.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -7087,8 +7087,8 @@
     "image": null,
     "price": 520.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -7631,8 +7631,8 @@
     "image": null,
     "price": 945.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -7682,8 +7682,8 @@
     "image": null,
     "price": 660.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -8362,8 +8362,8 @@
     "image": "/assets/images/142/rezac-maped-mini-boogy-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 36,
-    "futog": 41
+    "srbobran": 77,
+    "futog": 0
   }
     
   ,
@@ -9550,10 +9550,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/1500/karta-srbije-1.jpg",
-    "price": 310.0,
+    "price": 280.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 2
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
@@ -9671,8 +9671,8 @@
     "image": "/assets/images/1507/nota-racun-a-6-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 8
+    "srbobran": 11,
+    "futog": 0
   }
     
   ,
@@ -9807,8 +9807,8 @@
     "image": "/assets/images/1515/cestitka-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 2
+    "srbobran": 6,
+    "futog": 0
   }
     
   ,
@@ -9977,8 +9977,8 @@
     "image": "/assets/images/1525/cestitka-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 18,
-    "futog": 13
+    "srbobran": 31,
+    "futog": 0
   }
     
   ,
@@ -14839,8 +14839,8 @@
     "image": "/assets/images/1917/ranac-sc-1.jpg",
     "price": 6110.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 1
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -15026,8 +15026,8 @@
     "image": "/assets/images/1927/oto-ploca-1.jpg",
     "price": 190.0,
     "jeusluga": 0,
-    "srbobran": 10,
-    "futog": 7
+    "srbobran": 17,
+    "futog": 0
   }
     
   ,
@@ -15400,8 +15400,8 @@
     "image": "/assets/images/1947/torba-za-blok-iv-1.jpg",
     "price": 199.0,
     "jeusluga": 0,
-    "srbobran": 15,
-    "futog": 8
+    "srbobran": 19,
+    "futog": 4
   }
     
   ,
@@ -15621,8 +15621,8 @@
     "image": null,
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 87,
-    "futog": 37
+    "srbobran": 124,
+    "futog": 0
   }
     
   ,
@@ -15638,8 +15638,8 @@
     "image": "/assets/images/196/set-cetkica-1-6-1.jpg",
     "price": 345.0,
     "jeusluga": 0,
-    "srbobran": 10,
-    "futog": 13
+    "srbobran": 15,
+    "futog": 8
   }
     
   ,
@@ -16012,8 +16012,8 @@
     "image": "/assets/images/198/cestitka-rodjendan-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 71,
-    "futog": 47
+    "srbobran": 117,
+    "futog": 1
   }
     
   ,
@@ -16233,7 +16233,7 @@
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 390.0,
     "jeusluga": 0,
-    "srbobran": 12,
+    "srbobran": 9,
     "futog": 4
   }
     
@@ -16452,10 +16452,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2002/pp-bajka-sa-nalepnicama-ruzno-pace-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -17236,8 +17236,8 @@
     "image": "/assets/images/2083/marker-aluminijum-1.jpg",
     "price": 170.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 23
+    "srbobran": 23,
+    "futog": 0
   }
     
   ,
@@ -18358,8 +18358,8 @@
     "image": "/assets/images/2151/sablon-pvc-1.jpg",
     "price": 230.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 4
+    "srbobran": 6,
+    "futog": 2
   }
     
   ,
@@ -18526,10 +18526,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2160/pp-bajka-sa-nalepnicama-petar-pan-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -18560,10 +18560,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2162/pp-bajka-sa-nalepnicama-mala-sirena-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -19174,8 +19174,8 @@
     "image": null,
     "price": 115.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 4
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
@@ -19208,8 +19208,8 @@
     "image": null,
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 10
+    "srbobran": 11,
+    "futog": 0
   }
     
   ,
@@ -19310,8 +19310,8 @@
     "image": null,
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 7
+    "srbobran": 12,
+    "futog": 0
   }
     
   ,
@@ -20158,10 +20158,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2247/pp-bajka-sa-nalepnicama-knjiga-o-dzungli-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 1
   }
     
   ,
@@ -20175,10 +20175,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2248/pp-bajka-sa-nalepnicama-lepotica-i-zver-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -20192,10 +20192,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2249/pp-bajka-sa-nalepnicama-pinokio-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -20226,10 +20226,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2250/pp-bajka-sa-nalepnicama-alisa-u-zemlji-cuda-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -20277,10 +20277,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/2253/pp-bajka-sa-nalepnicama-aladin-i-carobna-lampa-1.jpg",
-    "price": 299.0,
+    "price": 299.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -26705,8 +26705,8 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 34,
-    "futog": 5
+    "srbobran": 37,
+    "futog": 2
   }
     
   ,
@@ -30003,8 +30003,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -30037,8 +30037,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 1,
+    "futog": 1
   }
     
   ,
@@ -30054,8 +30054,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 1
   }
     
   ,
@@ -30105,8 +30105,8 @@
     "image": "/assets/images/2774/marker-0-6-cp-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 56,
-    "futog": 46
+    "srbobran": 100,
+    "futog": 2
   }
     
   ,
@@ -30207,8 +30207,8 @@
     "image": "/assets/images/278/rezac-igloo-2-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 13,
-    "futog": 27
+    "srbobran": 40,
+    "futog": 0
   }
     
   ,
@@ -30292,8 +30292,8 @@
     "image": null,
     "price": 1020.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -30411,8 +30411,8 @@
     "image": null,
     "price": 125.0,
     "jeusluga": 0,
-    "srbobran": 17,
-    "futog": 18
+    "srbobran": 35,
+    "futog": 0
   }
     
   ,
@@ -30428,8 +30428,8 @@
     "image": null,
     "price": 1650.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -30547,8 +30547,8 @@
     "image": null,
     "price": 1600.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -30564,8 +30564,8 @@
     "image": null,
     "price": 2070.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -34355,8 +34355,8 @@
     "image": "/assets/images/3004/cestitka-1.jpg",
     "price": 115.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -37041,8 +37041,8 @@
     "image": "/assets/images/3147/set-za-uzinu-1.jpg",
     "price": 955.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 2
+    "srbobran": 4,
+    "futog": 1
   }
     
   ,
@@ -37653,8 +37653,8 @@
     "image": "/assets/images/318/puzzle-1-1000-1.jpg",
     "price": 1499.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 1
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -38622,8 +38622,8 @@
     "image": "/assets/images/3230/marker-cp-1mm-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 104,
-    "futog": 37
+    "srbobran": 141,
+    "futog": 0
   }
     
   ,
@@ -39931,8 +39931,8 @@
     "image": null,
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 7,
-    "futog": 6
+    "srbobran": 13,
+    "futog": 0
   }
     
   ,
@@ -40322,8 +40322,8 @@
     "image": "/assets/images/17902554743772044337749420111409.jpg",
     "price": 315.0,
     "jeusluga": 0,
-    "srbobran": 45,
-    "futog": 21
+    "srbobran": 66,
+    "futog": 0
   }
     
   ,
@@ -40866,8 +40866,8 @@
     "image": null,
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 1
+    "srbobran": 9,
+    "futog": 0
   }
     
   ,
@@ -43076,7 +43076,7 @@
     "image": null,
     "price": 54.0,
     "jeusluga": 0,
-    "srbobran": 113,
+    "srbobran": 111,
     "futog": 0
   }
     
@@ -43824,8 +43824,8 @@
     "image": null,
     "price": 1499.04,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -44453,8 +44453,8 @@
     "image": null,
     "price": 410.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -45779,8 +45779,8 @@
     "image": "/assets/images/361/foto-album-13-18-100-1.jpg",
     "price": 620.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 1
   }
     
   ,
@@ -46459,8 +46459,8 @@
     "image": null,
     "price": 105.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 9
+    "srbobran": 17,
+    "futog": 0
   }
     
   ,
@@ -46561,8 +46561,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -46578,8 +46578,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -46595,8 +46595,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -47105,8 +47105,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -47139,8 +47139,8 @@
     "image": null,
     "price": 599.01,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 1
   }
     
   ,
@@ -47445,8 +47445,8 @@
     "image": null,
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -47479,8 +47479,8 @@
     "image": "/assets/images/370/cestitka-stampana-1.jpg",
     "price": 230.0,
     "jeusluga": 0,
-    "srbobran": 50,
-    "futog": 38
+    "srbobran": 88,
+    "futog": 0
   }
     
   ,
@@ -47666,8 +47666,8 @@
     "image": "/assets/images/371/cestitka-cvetna-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 19,
-    "futog": 7
+    "srbobran": 26,
+    "futog": 0
   }
     
   ,
@@ -47904,8 +47904,8 @@
     "image": "/assets/images/3722/cestitka-bc-r-1.jpg",
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 3
+    "srbobran": 6,
+    "futog": -1
   }
     
   ,
@@ -47921,8 +47921,8 @@
     "image": "/assets/images/3723/cestitka-bc-p-1.jpg",
     "price": 190.0,
     "jeusluga": 0,
-    "srbobran": 6,
-    "futog": 3
+    "srbobran": 8,
+    "futog": 1
   }
     
   ,
@@ -48040,8 +48040,8 @@
     "image": "/assets/images/373/cestitka-mini-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 21,
-    "futog": 21
+    "srbobran": 42,
+    "futog": 0
   }
     
   ,
@@ -48108,8 +48108,8 @@
     "image": null,
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 47,
-    "futog": 24
+    "srbobran": 71,
+    "futog": 0
   }
     
   ,
@@ -48601,8 +48601,8 @@
     "image": "/assets/images/376/cestitka-1.jpg",
     "price": 190.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -50301,8 +50301,8 @@
     "image": "/assets/images/385/cestitka-mini-1.jpg",
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 13,
-    "futog": 7
+    "srbobran": 20,
+    "futog": 0
   }
     
   ,
@@ -52120,8 +52120,8 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 6,
-    "futog": 4
+    "srbobran": 10,
+    "futog": 0
   }
     
   ,
@@ -52868,8 +52868,8 @@
     "image": "/assets/images/20260925_131830.jpg",
     "price": 380.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 2
+    "srbobran": 10,
+    "futog": 0
   }
     
   ,
@@ -53531,8 +53531,8 @@
     "image": "/assets/images/4156/cestitka-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 3
+    "srbobran": 6,
+    "futog": 0
   }
     
   ,
@@ -53888,8 +53888,8 @@
     "image": "/assets/images/4260/boja-za-pecat-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 11,
-    "futog": 2
+    "srbobran": 13,
+    "futog": 0
   }
     
   ,
@@ -53939,8 +53939,8 @@
     "image": "/assets/images/4267/puzzle-1-3000-1.jpg",
     "price": 2950.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -53990,8 +53990,8 @@
     "image": "/assets/images/428/ukrasna-kesa-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 1
+    "srbobran": 9,
+    "futog": 0
   }
     
   ,
@@ -54466,8 +54466,8 @@
     "image": "/assets/images/44/bubble-balon-22-st-kae-1.jpg",
     "price": 710.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 2
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -55792,8 +55792,8 @@
     "image": "/assets/images/45/grabo-srednji-brojevi-1.jpg",
     "price": 470.0,
     "jeusluga": 0,
-    "srbobran": 37,
-    "futog": 38
+    "srbobran": 75,
+    "futog": 0
   }
     
   ,
@@ -55996,8 +55996,8 @@
     "image": "/assets/images/451/ukrasna-kesa-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 6,
-    "futog": 1
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
@@ -56438,8 +56438,8 @@
     "image": "/assets/images/46/tougao-pvc-1.jpg",
     "price": 49.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 1
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -57390,8 +57390,8 @@
     "image": "/assets/images/51/lenjir-30cm-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 2
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -57679,8 +57679,8 @@
     "image": null,
     "price": 165.0,
     "jeusluga": 0,
-    "srbobran": 7,
-    "futog": 15
+    "srbobran": 18,
+    "futog": 4
   }
     
   ,
@@ -58206,8 +58206,8 @@
     "image": "/assets/images/553/marker-za-cd-1.jpg",
     "price": 75.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 24
+    "srbobran": 25,
+    "futog": 0
   }
     
   ,
@@ -58238,10 +58238,10 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/555/marker-lumo-1.jpg",
-    "price": 155.0,
+    "price": 100.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 4
+    "srbobran": 4,
+    "futog": 0
   }
     
   ,
@@ -58257,8 +58257,8 @@
     "image": "/assets/images/556/marker-cn-kosi-vrh-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 34,
-    "futog": 10
+    "srbobran": 45,
+    "futog": -1
   }
     
   ,
@@ -58359,8 +58359,8 @@
     "image": "/assets/images/561/to-black-pointer-0-5-1.jpg",
     "price": 140.0,
     "jeusluga": 0,
-    "srbobran": 29,
-    "futog": 14
+    "srbobran": 43,
+    "futog": 0
   }
     
   ,
@@ -58903,7 +58903,7 @@
     "image": null,
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 124,
+    "srbobran": 123,
     "futog": 0
   }
     
@@ -59056,7 +59056,7 @@
     "image": "/assets/images/599/dosije-boja-1.jpg",
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 72,
+    "srbobran": 71,
     "futog": 0
   }
     
@@ -59277,8 +59277,8 @@
     "image": "/assets/images/61/hrv-buduca-mlada-1.jpg",
     "price": 935.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -59481,8 +59481,8 @@
     "image": "/assets/images/620/jederman-1.jpg",
     "price": 65.0,
     "jeusluga": 0,
-    "srbobran": 26,
-    "futog": 10
+    "srbobran": 35,
+    "futog": 1
   }
     
   ,
@@ -59668,8 +59668,8 @@
     "image": "/assets/images/630/prevoznica-a-5-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 16,
-    "futog": 5
+    "srbobran": 21,
+    "futog": 0
   }
     
   ,
@@ -59685,8 +59685,8 @@
     "image": null,
     "price": 715.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -59719,8 +59719,8 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 22,
-    "futog": 1
+    "srbobran": 23,
+    "futog": 0
   }
     
   ,
@@ -59838,8 +59838,8 @@
     "image": "/assets/images/64/18-fba-f-s40-1.jpg",
     "price": 450.0,
     "jeusluga": 0,
-    "srbobran": 13,
-    "futog": 11
+    "srbobran": 24,
+    "futog": 0
   }
     
   ,
@@ -59906,8 +59906,8 @@
     "image": null,
     "price": 290.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -60773,8 +60773,8 @@
     "image": "/assets/images/69/grabo-18-printed-1.jpg",
     "price": 350.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -61062,8 +61062,8 @@
     "image": "/assets/images/704/set-cetkica-1-3-1.jpg",
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 4,
-    "futog": 1
+    "srbobran": 5,
+    "futog": 0
   }
     
   ,
@@ -61912,8 +61912,8 @@
     "image": "/assets/images/75/fb103-fb-ring-60-95cm-1.jpg",
     "price": 670.0,
     "jeusluga": 0,
-    "srbobran": 2,
-    "futog": 1
+    "srbobran": 3,
+    "futog": 0
   }
     
   ,
@@ -62405,8 +62405,8 @@
     "image": "/assets/images/776/marker-bt-con-1.jpg",
     "price": 99.0,
     "jeusluga": 0,
-    "srbobran": 12,
-    "futog": 30
+    "srbobran": 41,
+    "futog": 1
   }
     
   ,
@@ -62505,10 +62505,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 110.0,
+    "price": 119.01,
     "jeusluga": 0,
-    "srbobran": 36,
-    "futog": 20
+    "srbobran": 56,
+    "futog": 0
   }
     
   ,
@@ -62813,8 +62813,8 @@
     "image": "/assets/images/798/uglomer-1.jpg",
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 16,
-    "futog": 1
+    "srbobran": 17,
+    "futog": 0
   }
     
   ,
@@ -63782,8 +63782,8 @@
     "image": "/assets/images/849/nalog-za-sl-putovanje-1.jpg",
     "price": 165.0,
     "jeusluga": 0,
-    "srbobran": 5,
-    "futog": 5
+    "srbobran": 10,
+    "futog": 0
   }
     
   ,
@@ -63952,8 +63952,8 @@
     "image": "/assets/images/858/revers-a-5-1.jpg",
     "price": 155.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -64020,8 +64020,8 @@
     "image": "/assets/images/861/otpremnica-a-5-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 4
+    "srbobran": 12,
+    "futog": 0
   }
     
   ,
@@ -64088,8 +64088,8 @@
     "image": "/assets/images/865/otpremnica-a-5-pdv-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 7,
-    "futog": 5
+    "srbobran": 12,
+    "futog": 0
   }
     
   ,
@@ -64751,8 +64751,8 @@
     "image": "/assets/images/90/priznanica-a-5-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 8,
-    "futog": 4
+    "srbobran": 12,
+    "futog": 0
   }
     
   ,
@@ -64921,8 +64921,8 @@
     "image": "/assets/images/909/gumica-sc-1.jpg",
     "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -65040,8 +65040,8 @@
     "image": "/assets/images/915/ranac-body-sc-1.jpg",
     "price": 979.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -65125,8 +65125,8 @@
     "image": null,
     "price": 95.0,
     "jeusluga": 0,
-    "srbobran": 28,
-    "futog": 8
+    "srbobran": 36,
+    "futog": 0
   }
     
   ,
@@ -65159,8 +65159,8 @@
     "image": "/assets/images/viber_image_2026-09-23_11-18-10-335.jpg",
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -65448,8 +65448,8 @@
     "image": null,
     "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 7,
-    "futog": 4
+    "srbobran": 11,
+    "futog": 0
   }
     
   ,
@@ -65618,8 +65618,8 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 15
+    "srbobran": 16,
+    "futog": 0
   }
     
   ,
@@ -65669,8 +65669,8 @@
     "image": "/assets/images/949/rezac-igloo-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 23,
-    "futog": 12
+    "srbobran": 33,
+    "futog": 2
   }
     
   ,
@@ -66077,8 +66077,8 @@
     "image": "/assets/images/970/potvrda-o-reklamaciji-a-5-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
