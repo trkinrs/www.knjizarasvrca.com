@@ -1543,9 +1543,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 495.0,
+    "price": 1340.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -7478,7 +7478,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 332,
+    "srbobran": 331,
     "futog": 2
   }
     
@@ -12253,9 +12253,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 495.0,
+    "price": 620.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": null
   }
     
@@ -13018,9 +13018,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 249.0,
+    "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": null
   }
     
@@ -13377,7 +13377,7 @@
     "image": "/assets/images/181/nedeljni-planer-a-5-1.jpg",
     "price": 399.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 7,
     "futog": 0
   }
     
@@ -13749,9 +13749,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/186/set-ho-penkalo-tto-1.jpg",
-    "price": 1250.0,
+    "price": 1865.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -15075,9 +15075,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 2255.0,
+    "price": 1865.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -50947,7 +50947,7 @@
     "image": null,
     "price": 1199.02,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 1
   }
     
@@ -56555,9 +56555,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 440.0,
+    "price": 515.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 3,
     "futog": 0
   }
     
@@ -59719,7 +59719,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 23,
+    "srbobran": 22,
     "futog": 0
   }
     
@@ -61247,9 +61247,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 3570.0,
+    "price": 845.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 1,
     "futog": null
   }
     
@@ -61436,7 +61436,7 @@
     "image": "/assets/images/viber_image_2026-09-23_11-29-08-608.jpg",
     "price": 45.0,
     "jeusluga": 0,
-    "srbobran": 22,
+    "srbobran": 19,
     "futog": 1
   }
     
@@ -62318,9 +62318,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/3.jpg",
-    "price": 1015.0,
+    "price": 295.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 3,
     "futog": 0
   }
     
@@ -63423,9 +63423,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 700.0,
+    "price": 850.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 10,
     "futog": null
   }
     
@@ -64392,9 +64392,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 120.0,
+    "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 9,
     "futog": null
   }
     
