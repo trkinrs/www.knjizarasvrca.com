@@ -7731,10 +7731,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 135.0,
+    "price": 190.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -13258,8 +13258,8 @@
     "image": null,
     "price": 290.0,
     "jeusluga": 0,
-    "srbobran": 11,
-    "futog": 5
+    "srbobran": 16,
+    "futog": 0
   }
     
   ,
@@ -13326,8 +13326,8 @@
     "image": null,
     "price": 2500.05,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -14465,8 +14465,8 @@
     "image": null,
     "price": 280.0,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -15213,8 +15213,8 @@
     "image": null,
     "price": 1400.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -15298,8 +15298,8 @@
     "image": null,
     "price": 1400.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -15315,8 +15315,8 @@
     "image": null,
     "price": 1400.03,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -16809,10 +16809,10 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 460.0,
+    "price": 1490.01,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -16862,8 +16862,8 @@
     "image": null,
     "price": 1490.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -17525,8 +17525,8 @@
     "image": null,
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 148,
-    "futog": 51
+    "srbobran": 199,
+    "futog": 0
   }
     
   ,
@@ -17848,8 +17848,8 @@
     "image": null,
     "price": 1450.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -17882,8 +17882,8 @@
     "image": null,
     "price": 1450.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -18358,8 +18358,8 @@
     "image": "/assets/images/2151/sablon-pvc-1.jpg",
     "price": 230.0,
     "jeusluga": 0,
-    "srbobran": 6,
-    "futog": 2
+    "srbobran": 7,
+    "futog": 1
   }
     
   ,
@@ -28728,8 +28728,8 @@
     "image": null,
     "price": 1799.01,
     "jeusluga": 0,
-    "srbobran": 1,
-    "futog": 1
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -29306,8 +29306,8 @@
     "image": null,
     "price": 1999.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -31227,8 +31227,8 @@
     "image": "/assets/images/284/pp-mala-skola-iii-stepen-1.jpg",
     "price": 699.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -31992,8 +31992,8 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 513,
-    "futog": 431
+    "srbobran": 944,
+    "futog": 0
   }
     
   ,
@@ -39234,8 +39234,8 @@
     "image": "/assets/images/3263/globus-svetleci-1.jpg",
     "price": 5200.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -43314,8 +43314,8 @@
     "image": "/assets/images/348/pp-montesori-svet-oko-mene-1.jpg",
     "price": 580.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 2
+    "srbobran": 2,
+    "futog": 0
   }
     
   ,
@@ -43790,8 +43790,8 @@
     "image": null,
     "price": 699.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -43807,8 +43807,8 @@
     "image": null,
     "price": 699.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44504,8 +44504,8 @@
     "image": null,
     "price": 2490.06,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44810,8 +44810,8 @@
     "image": null,
     "price": 1399.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44929,8 +44929,8 @@
     "image": null,
     "price": 999.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44946,8 +44946,8 @@
     "image": null,
     "price": 999.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44963,8 +44963,8 @@
     "image": null,
     "price": 999.02,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44980,8 +44980,8 @@
     "image": null,
     "price": 399.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -44997,8 +44997,8 @@
     "image": null,
     "price": 399.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -45031,8 +45031,8 @@
     "image": null,
     "price": 399.01,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -46051,8 +46051,8 @@
     "image": null,
     "price": 20.0,
     "jeusluga": 0,
-    "srbobran": 21,
-    "futog": 23
+    "srbobran": 44,
+    "futog": 0
   }
     
   ,
@@ -46153,8 +46153,8 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 25,
-    "futog": 25
+    "srbobran": 50,
+    "futog": 0
   }
     
   ,
@@ -48788,8 +48788,8 @@
     "image": "/assets/images/377/pp-montesori-u-vrticu-4-5-1.jpg",
     "price": 880.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -48975,8 +48975,8 @@
     "image": "/assets/images/378/pp-montesori-u-vrticu-5-6-1.jpg",
     "price": 880.0,
     "jeusluga": 0,
-    "srbobran": 0,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -55758,8 +55758,8 @@
     "image": null,
     "price": 580.0,
     "jeusluga": 0,
-    "srbobran": null,
-    "futog": 1
+    "srbobran": 1,
+    "futog": 0
   }
     
   ,
@@ -56999,8 +56999,8 @@
     "image": null,
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 284,
-    "futog": 278
+    "srbobran": 377,
+    "futog": 185
   }
     
   ,
@@ -57016,8 +57016,8 @@
     "image": null,
     "price": 390.0,
     "jeusluga": 0,
-    "srbobran": 3,
-    "futog": 4
+    "srbobran": 7,
+    "futog": 0
   }
     
   ,
@@ -57713,8 +57713,8 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 610,
-    "futog": 132
+    "srbobran": 742,
+    "futog": 0
   }
     
   ,
@@ -61164,8 +61164,8 @@
     "image": "/assets/images/71/sveska-a-4-tp-500l-1.jpg",
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 259,
-    "futog": 322
+    "srbobran": 436,
+    "futog": 145
   }
     
   ,
