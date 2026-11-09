@@ -6084,7 +6084,7 @@
     "image": null,
     "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 7,
+    "srbobran": 5,
     "futog": 1
   }
     
@@ -18902,7 +18902,7 @@
     "image": null,
     "price": 195.0,
     "jeusluga": 0,
-    "srbobran": 3,
+    "srbobran": 2,
     "futog": 0
   }
     
@@ -57118,7 +57118,7 @@
     "image": null,
     "price": 470.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 0,
     "futog": null
   }
     
@@ -63255,7 +63255,7 @@
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 2,
+    "srbobran": 1,
     "futog": 0
   }
     
@@ -65142,7 +65142,7 @@
     "image": "/assets/images/920/otkupni-list-a-6-1.jpg",
     "price": 75.0,
     "jeusluga": 0,
-    "srbobran": 7,
+    "srbobran": 6,
     "futog": null
   }
     
