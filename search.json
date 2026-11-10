@@ -3925,7 +3925,7 @@
     "image": null,
     "price": 610.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 0,
     "futog": 0
   }
     
@@ -10164,7 +10164,7 @@
     "image": null,
     "price": 30.0,
     "jeusluga": 0,
-    "srbobran": 87,
+    "srbobran": 85,
     "futog": 0
   }
     
@@ -30207,7 +30207,7 @@
     "image": "/assets/images/278/rezac-igloo-2-1.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 40,
+    "srbobran": 39,
     "futog": 0
   }
     
@@ -58087,7 +58087,7 @@
     "image": null,
     "price": 60.0,
     "jeusluga": 0,
-    "srbobran": 41,
+    "srbobran": 39,
     "futog": 0
   }
     
@@ -59719,7 +59719,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 14,
     "futog": 0
   }
     
@@ -63357,7 +63357,7 @@
     "image": null,
     "price": 295.0,
     "jeusluga": 0,
-    "srbobran": 6,
+    "srbobran": 5,
     "futog": 0
   }
     
@@ -66026,7 +66026,7 @@
     "image": "/assets/images/968/ol-hb-noris-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 35,
+    "srbobran": 34,
     "futog": 0
   }
     
@@ -66434,7 +66434,7 @@
     "image": null,
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 41,
+    "srbobran": 40,
     "futog": 1
   }
     
