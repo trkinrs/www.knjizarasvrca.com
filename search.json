@@ -9518,7 +9518,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 15,
+    "srbobran": 13,
     "futog": 0
   }
     
@@ -19208,7 +19208,7 @@
     "image": null,
     "price": 70.0,
     "jeusluga": 0,
-    "srbobran": 8,
+    "srbobran": 6,
     "futog": 0
   }
     
@@ -24918,7 +24918,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 170.0,
+    "price": 180.0,
     "jeusluga": 0,
     "srbobran": 1,
     "futog": null
@@ -30411,7 +30411,7 @@
     "image": null,
     "price": 125.0,
     "jeusluga": 0,
-    "srbobran": 35,
+    "srbobran": 31,
     "futog": 0
   }
     
@@ -32636,7 +32636,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 170.0,
+    "price": 180.0,
     "jeusluga": 0,
     "srbobran": 4,
     "futog": 1
@@ -56997,7 +56997,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 130.0,
+    "price": 180.0,
     "jeusluga": 0,
     "srbobran": 562,
     "futog": 0
@@ -57031,7 +57031,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/491/sveska-a-5-sc-1.jpg",
-    "price": 70.0,
+    "price": 90.0,
     "jeusluga": 0,
     "srbobran": 35,
     "futog": 0
@@ -57082,7 +57082,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/494/sveska-a-4-sc-1.jpg",
-    "price": 170.0,
+    "price": 180.0,
     "jeusluga": 0,
     "srbobran": 17,
     "futog": 0
@@ -57150,7 +57150,7 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 170.0,
+    "price": 180.0,
     "jeusluga": 0,
     "srbobran": 10,
     "futog": 0
@@ -57254,7 +57254,7 @@
     "image": "/assets/images/502/signir-of-1.jpg",
     "price": 55.0,
     "jeusluga": 0,
-    "srbobran": 33,
+    "srbobran": 31,
     "futog": 0
   }
     
@@ -58257,7 +58257,7 @@
     "image": "/assets/images/556/marker-cn-kosi-vrh-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 45,
+    "srbobran": 41,
     "futog": -1
   }
     
@@ -61162,7 +61162,7 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/71/sveska-a-4-tp-500l-1.jpg",
-    "price": 70.0,
+    "price": 90.0,
     "jeusluga": 0,
     "srbobran": 581,
     "futog": 0
