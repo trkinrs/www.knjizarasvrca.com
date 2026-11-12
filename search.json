@@ -2716,9 +2716,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 220.0,
+    "price": 279.0,
     "jeusluga": 0,
-    "srbobran": 1,
+    "srbobran": 11,
     "futog": null
   }
     
@@ -61631,16 +61631,16 @@
   
   
   {
-    "title": "ULOŽAK ZA STONI KALENDAR 1/1",
+    "title": "KALENDAR 7L",
     "content": "\n",
     "sku": 735,
-    "url": "/735/ulozak-za-stoni-kalendar-1-1/",
+    "url": "/735/kalendar-7l/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": null,
+    "price": 210.0,
     "jeusluga": 0,
-    "srbobran": null,
+    "srbobran": 14,
     "futog": null
   }
     
@@ -63229,16 +63229,16 @@
   
   
   {
-    "title": "HRV DOBRO DOŠAO",
+    "title": "STONI KALENDAR",
     "content": "\n",
     "sku": 82,
-    "url": "/82/hrv-dobro-dosao/",
+    "url": "/82/stoni-kalendar/",
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 935.0,
+    "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 0,
+    "srbobran": 8,
     "futog": null
   }
     
