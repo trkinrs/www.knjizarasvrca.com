@@ -23,6 +23,15 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="/">Knjižara Švrća</a>
 
+    <a class="cart-link" href="/korpa/" aria-label="Korpa">
+      <svg viewBox="0 0 24 24" width="22px" height="22px" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="9" cy="20" r="1.5"/>
+        <circle cx="18" cy="20" r="1.5"/>
+        <path d="M2 3h3l2.6 12.4a1.5 1.5 0 001.5 1.1h8.8a1.5 1.5 0 001.5-1.1L21 7H6"/>
+      </svg>
+      <span class="cart-count" data-cart-count hidden>0</span>
+    </a>
+
     <a class="search-icon-mobile" href="/pretraga/" aria-label="Pretraga">
       <svg viewBox="0 0 18 18" width="18px" height="18px" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
         <circle cx="7.5" cy="7.5" r="5.5"/>
@@ -113,6 +122,35 @@
     display: block;
   }
 
+  .cart-link {
+    float: right;
+    position: relative;
+    margin: 16px 0 0 20px;
+    color: #424242;
+    line-height: 0;
+  }
+  .cart-link:hover {
+    color: #2a7ae2;
+  }
+  .cart-count {
+    position: absolute;
+    top: -8px;
+    right: -10px;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 5px;
+    border-radius: 9px;
+    background: #c0392b;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 18px;
+    text-align: center;
+  }
+  .cart-count[hidden] {
+    display: none;
+  }
+
   .search-icon-mobile {
     display: none;
     color: #424242;
@@ -129,6 +167,14 @@
       position: absolute;
       top: 50%;
       right: 68px;
+      transform: translateY(-50%);
+    }
+    .cart-link {
+      float: none;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      right: 106px;
       transform: translateY(-50%);
     }
     .mega-dropdown {
@@ -172,6 +218,9 @@
     });
   })();
 </script>
+
+<script>window.SVRCA_CART = { checkoutUrl: "https://checkout2.knjizarasvrca.com/checkout" };</script>
+<script src="/assets/js/cart.js" defer></script>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <article class="post">
@@ -270,7 +319,6 @@
   
   
   
-  
   <a class="product-card-item" href="/996/sveska-a-4-300l-tp/">
     
       <img class="product-card-img" src="/assets/images/996/sveska-a-4-300l-tp-1.jpg" alt="SVESKA A/4 300L TP" loading="lazy">
@@ -286,17 +334,12 @@
         <span class="stock-chip">
           <span class="stock-dot low-stock"></span>
           
-          Srb (1)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (1)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -312,17 +355,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -341,17 +379,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (10)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (10)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -369,17 +402,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -398,17 +426,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (17)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (17)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -427,17 +450,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (35)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (35)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -456,17 +474,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (7)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (7)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -485,17 +498,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (562)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (559)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -514,18 +522,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (14)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot in-stock"></span>
-          
-          Fut (12)
+          Na stanju (14)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -544,17 +546,12 @@
         <span class="stock-chip">
           <span class="stock-dot low-stock"></span>
           
-          Srb (1)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (1)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -572,17 +569,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -601,17 +593,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (8)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (8)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -630,17 +617,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (42)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (42)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -659,17 +641,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (102)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (102)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -688,18 +665,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (104)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot in-stock"></span>
-          
-          Fut (12)
+          Na stanju (104)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -718,17 +689,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (17)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (17)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -747,18 +713,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (4)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot low-stock"></span>
-          
-          Fut (1)
+          Na stanju (4)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -777,17 +737,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (47)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (47)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -806,17 +761,12 @@
         <span class="stock-chip">
           <span class="stock-dot low-stock"></span>
           
-          Srb (1)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (1)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -834,17 +784,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -862,17 +807,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -891,17 +831,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (48)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (48)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -917,17 +852,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -946,17 +876,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (16)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (16)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -975,17 +900,12 @@
         <span class="stock-chip">
           <span class="stock-dot low-stock"></span>
           
-          Srb (1)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (1)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -1004,17 +924,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (2)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (2)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -1030,17 +945,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -1058,17 +968,12 @@
       <div class="product-card-stock">
         <span class="stock-chip">
           <span class="stock-dot no-stock"></span>
-          Srb (0)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Nije na stanju
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -1087,18 +992,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (5)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot low-stock"></span>
-          
-          Fut (1)
+          Na stanju (5)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -1117,17 +1016,12 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (2)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (2)
         </span>
       </div>
       
     </div>
   </a>
-  
   
   
   
@@ -1146,11 +1040,7 @@
         <span class="stock-chip">
           <span class="stock-dot in-stock"></span>
           
-          Srb (185)
-        </span>
-        <span class="stock-chip">
-          <span class="stock-dot no-stock"></span>
-          Fut (0)
+          Na stanju (185)
         </span>
       </div>
       
@@ -1175,7 +1065,7 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">Knjižara Švrća</li>
-          <li>Srbobran: <a href="https://www.google.com/maps/search/?api=1&amp;query=Trg%20Republike%201%2C%20Srbobran" target="_blank" rel="noopener">Trg Republike 1</a></li><li><a href="tel:063603018">063 603018</a></li><li>Futog: <a href="https://www.google.com/maps/search/?api=1&amp;query=Cara%20Lazara%2018%2C%20Futog" target="_blank" rel="noopener">Cara Lazara 18</a></li><li><a href="tel:0606259699">060 6259699</a></li></ul>
+          <li><a href="https://www.google.com/maps/search/?api=1&amp;query=Trg%20Republike%201%2C%20Srbobran" target="_blank" rel="noopener">Trg Republike 1</a></li><li><a href="tel:063603018">063 603018</a></li></ul>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -1192,13 +1082,6 @@
                 <path d="M3 5h18v14H3V5zm2.7 2 6.3 5.1L18.3 7H5.7zM5 17h14V8.9l-7 5.7-7-5.7V17z"/>
               </svg>
               knjizarasvrca@gmail.com
-            </a>
-          </li><li>
-            <a class="u-email" href="mailto:knjizarasvrcafutog@gmail.com">
-              <svg class="svg-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M3 5h18v14H3V5zm2.7 2 6.3 5.1L18.3 7H5.7zM5 17h14V8.9l-7 5.7-7-5.7V17z"/>
-              </svg>
-              knjizarasvrcafutog@gmail.com
             </a>
           </li></ul>
       </div>
