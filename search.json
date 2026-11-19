@@ -5468,7 +5468,7 @@
     "image": null,
     "price": 4780.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 1
   }
     
   ,
@@ -12556,7 +12556,7 @@
     "image": null,
     "price": 2750.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 1
   }
     
   ,
@@ -15276,7 +15276,7 @@
     "image": "/assets/images/1991/registrator-a-4-n-1.jpg",
     "price": 390.0,
     "jeusluga": 0,
-    "srbobran": 7
+    "srbobran": 17
   }
     
   ,
@@ -16684,7 +16684,7 @@
     "image": null,
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 14
+    "srbobran": 34
   }
     
   ,
@@ -24636,7 +24636,7 @@
     "image": "/assets/images/2566/kreda-bela-1-100-m-g-1.jpg",
     "price": 670.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 1
   }
     
   ,
@@ -25612,7 +25612,7 @@
     "image": null,
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 3
   }
     
   ,
@@ -27420,7 +27420,7 @@
     "image": null,
     "price": 200.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 3
   }
     
   ,
@@ -44140,7 +44140,7 @@
     "image": "/assets/images/367/lepak-tecni-nora-50ml-1.jpg",
     "price": 75.0,
     "jeusluga": 0,
-    "srbobran": 3
+    "srbobran": 39
   }
     
   ,
@@ -53484,7 +53484,7 @@
     "image": null,
     "price": 165.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 1
   }
     
   ,
@@ -56188,7 +56188,7 @@
     "image": null,
     "price": 3750.0,
     "jeusluga": 0,
-    "srbobran": 1
+    "srbobran": 3
   }
     
   ,
@@ -56204,7 +56204,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 9
+    "srbobran": 18
   }
     
   ,
@@ -58204,7 +58204,7 @@
     "image": "/assets/images/746/obrazac-1-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 13
+    "srbobran": 23
   }
     
   ,
@@ -58284,7 +58284,7 @@
     "image": "/assets/images/750/obrazac-3-1-1-1.jpg",
     "price": 130.0,
     "jeusluga": 0,
-    "srbobran": 5
+    "srbobran": 15
   }
     
   ,
@@ -59500,7 +59500,7 @@
     "image": "/assets/images/819/priznanica-a-6-1.jpg",
     "price": 110.0,
     "jeusluga": 0,
-    "srbobran": 9
+    "srbobran": 19
   }
     
   ,
@@ -59532,7 +59532,7 @@
     "image": "/assets/images/820/sanitarna-knjizica-1.jpg",
     "price": 150.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 10
   }
     
   ,
@@ -60252,7 +60252,7 @@
     "image": "/assets/images/861/otpremnica-a-5-1.jpg",
     "price": 180.0,
     "jeusluga": 0,
-    "srbobran": 11
+    "srbobran": 16
   }
     
   ,
@@ -60492,7 +60492,7 @@
     "image": "/assets/images/875/knjiga-sanka-t-1.jpg",
     "price": 335.0,
     "jeusluga": 0,
-    "srbobran": 1
+    "srbobran": 6
   }
     
   ,
@@ -60698,9 +60698,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/887/gradjevinski-list-1.jpg",
-    "price": 300.0,
+    "price": 330.0,
     "jeusluga": 0,
-    "srbobran": 1
+    "srbobran": 4
   }
     
   ,
@@ -60714,9 +60714,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/888/gradjevinski-dnevnik-1.jpg",
-    "price": 310.0,
+    "price": 330.0,
     "jeusluga": 0,
-    "srbobran": 1
+    "srbobran": 4
   }
     
   ,
@@ -60732,7 +60732,7 @@
     "image": "/assets/images/889/dnevnik-prakse-1.jpg",
     "price": 220.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 5
   }
     
   ,
