@@ -812,7 +812,7 @@
     "image": null,
     "price": 310.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 2
   }
     
   ,
@@ -828,7 +828,7 @@
     "image": null,
     "price": 860.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 2
   }
     
   ,
@@ -3690,9 +3690,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 610.0,
+    "price": 1300.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 1
   }
     
   ,
@@ -7036,7 +7036,7 @@
     "image": "/assets/images/1373/dosije-11-rupa-40mic-1.jpg",
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 110
+    "srbobran": 310
   }
     
   ,
@@ -12058,9 +12058,9 @@
     "collection": "articles",
     "kind": "article",
     "image": null,
-    "price": 80.0,
+    "price": 120.0,
     "jeusluga": 0,
-    "srbobran": 4
+    "srbobran": 24
   }
     
   ,
@@ -17740,7 +17740,7 @@
     "image": "/assets/images/2178/dosije-11-rupa-80mic-1.jpg",
     "price": 15.0,
     "jeusluga": 0,
-    "srbobran": 159
+    "srbobran": 359
   }
     
   ,
@@ -37564,7 +37564,7 @@
     "image": "/assets/images/33/sundjer-za-belu-tablu-1.jpg",
     "price": 90.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 12
   }
     
   ,
@@ -54268,7 +54268,7 @@
     "image": "/assets/images/524/termo-rolna-57-40mm-1.jpg",
     "price": 65.0,
     "jeusluga": 0,
-    "srbobran": 9
+    "srbobran": 59
   }
     
   ,
@@ -55052,7 +55052,7 @@
     "image": "/assets/images/569/blok-kocka-boja-1.jpg",
     "price": 195.0,
     "jeusluga": 0,
-    "srbobran": 6
+    "srbobran": 5
   }
     
   ,
@@ -55212,7 +55212,7 @@
     "image": null,
     "price": 250.0,
     "jeusluga": 0,
-    "srbobran": 3
+    "srbobran": 2
   }
     
   ,
@@ -55260,7 +55260,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 106
+    "srbobran": 306
   }
     
   ,
@@ -55724,7 +55724,7 @@
     "image": null,
     "price": 10.0,
     "jeusluga": 0,
-    "srbobran": 204
+    "srbobran": 404
   }
     
   ,
@@ -56188,7 +56188,7 @@
     "image": null,
     "price": 3750.0,
     "jeusluga": 0,
-    "srbobran": 3
+    "srbobran": 4
   }
     
   ,
@@ -56204,7 +56204,7 @@
     "image": null,
     "price": 680.0,
     "jeusluga": 0,
-    "srbobran": 17
+    "srbobran": 32
   }
     
   ,
@@ -57628,7 +57628,7 @@
     "image": "/assets/images/713/sponke-maped-s-10-1.jpg",
     "price": 50.0,
     "jeusluga": 0,
-    "srbobran": 24
+    "srbobran": 34
   }
     
   ,
@@ -57804,7 +57804,7 @@
     "image": "/assets/images/4.jpg",
     "price": 210.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 2
   }
     
   ,
@@ -58620,7 +58620,7 @@
     "image": "/assets/images/77/vezbanka-1.jpg",
     "price": 40.0,
     "jeusluga": 0,
-    "srbobran": 16
+    "srbobran": 66
   }
     
   ,
@@ -60042,9 +60042,9 @@
     "collection": "articles",
     "kind": "article",
     "image": "/assets/images/85/sestar-blue-pink-1.jpg",
-    "price": 310.0,
+    "price": 160.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 3
   }
     
   ,
@@ -62492,7 +62492,7 @@
     "image": "/assets/images/988/matematicki-lenjir-1.jpg",
     "price": 80.0,
     "jeusluga": 0,
-    "srbobran": 0
+    "srbobran": 5
   }
     
   ,
